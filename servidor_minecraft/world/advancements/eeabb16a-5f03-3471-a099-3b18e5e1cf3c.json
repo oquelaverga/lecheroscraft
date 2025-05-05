@@ -3691,7 +3691,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:spider": "2025-05-02 02:56:34 +0000"
+      "minecraft:spider": "2025-05-02 02:56:34 +0000",
+      "minecraft:creeper": "2025-05-05 22:30:17 +0000"
     },
     "done": false
   },
@@ -14303,6 +14304,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/modified": {
+    "criteria": {
+      "crafted_tool": "2025-05-05 22:33:40 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/lead_helmet": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:12 +0000"
@@ -16641,6 +16648,12 @@
       "has_the_recipe": "2025-05-02 02:43:13 +0000"
     },
     "done": true
+  },
+  "tconstruct:tools/tool_smith": {
+    "criteria": {
+      "pickaxe": "2025-05-05 22:33:40 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
@@ -20592,6 +20605,8 @@
   },
   "tconstruct:tools/material_master": {
     "criteria": {
+      "cobalt": "2025-05-05 22:33:40 +0000",
+      "rose_gold": "2025-05-05 22:33:40 +0000",
       "stone": "2025-05-03 03:07:05 +0000"
     },
     "done": false

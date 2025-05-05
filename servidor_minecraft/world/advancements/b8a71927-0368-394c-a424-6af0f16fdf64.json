@@ -4546,6 +4546,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-05-05 02:30:21 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_warped_upgraded_fence": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:03 +0000"
@@ -21011,6 +21017,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-05-05 02:29:10 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/alfheim_portal": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:03 +0000"
@@ -23704,6 +23716,12 @@
   "cfm:recipes/cfm/stripped_birch_mail_box": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:52:59 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-05 02:32:15 +0000"
     },
     "done": true
   },

@@ -15964,3 +15964,57 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [05May2025 22:52:40.428] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
 [05May2025 22:52:40.428] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
 [05May2025 22:54:03.339] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.1 and blood value 0 for entity exoticbirds:budgerigar
+[05May2025 22:57:13.589] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05May2025 22:57:13.607] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05May2025 22:58:42.938] [Server thread/INFO] [tac/]: PENDING
+[05May2025 22:58:44.293] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.13 and blood value 7 for entity alexsmobs:warped_toad
+[05May2025 22:58:44.493] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[05May2025 22:58:44.493] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.13 and blood value 7 for entity alexsmobs:warped_toad
+[05May2025 22:58:44.493] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.13 and blood value 7 for entity alexsmobs:warped_toad
+[05May2025 22:58:44.549] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[05May2025 22:58:44.894] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[05May2025 22:58:45.142] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[05May2025 22:58:45.142] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[05May2025 22:58:45.186] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[05May2025 22:58:45.186] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[05May2025 22:59:02.488] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-97, y=66, z=-82} BlockPos{x=-96, y=67, z=-82}
+[05May2025 22:59:02.544] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-97, y=66, z=-82} BlockPos{x=-96, y=67, z=-82}
+[05May2025 22:59:02.593] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-97, y=66, z=-82} BlockPos{x=-96, y=67, z=-82}
+[05May2025 22:59:02.644] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-97, y=66, z=-82} BlockPos{x=-96, y=67, z=-82}
+[05May2025 22:59:02.700] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-97, y=66, z=-82} BlockPos{x=-96, y=67, z=-82}
+[05May2025 22:59:02.745] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-97, y=66, z=-82} BlockPos{x=-96, y=67, z=-82}
+[05May2025 22:59:02.762] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-97, y=66, z=-82} BlockPos{x=-96, y=67, z=-82}
+[05May2025 22:59:02.814] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-97, y=66, z=-82} BlockPos{x=-96, y=67, z=-82}
+[05May2025 22:59:03.014] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-98, y=63, z=-83} BlockPos{x=-97, y=63, z=-82}
+[05May2025 22:59:03.065] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-98, y=63, z=-83} BlockPos{x=-97, y=63, z=-82}
+[05May2025 22:59:03.143] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-98, y=63, z=-83} BlockPos{x=-97, y=63, z=-82}
+[05May2025 22:59:03.191] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-98, y=63, z=-83} BlockPos{x=-97, y=63, z=-82}
+[05May2025 22:59:03.240] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-98, y=63, z=-83} BlockPos{x=-97, y=63, z=-82}
+[05May2025 22:59:03.265] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-98, y=63, z=-83} BlockPos{x=-97, y=63, z=-82}
+[05May2025 22:59:03.344] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-98, y=63, z=-83} BlockPos{x=-97, y=63, z=-82}
+[05May2025 22:59:34.740] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-170, y=31, z=-106} BlockPos{x=-169, y=29, z=-108}
+[05May2025 22:59:49.593] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-175, y=16, z=-93} BlockPos{x=-175, y=15, z=-93}
+[05May2025 22:59:49.648] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-175, y=16, z=-93} BlockPos{x=-175, y=15, z=-93}
+[05May2025 22:59:52.138] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-175, y=18, z=-88} BlockPos{x=-175, y=18, z=-90}
+[05May2025 23:00:57.344] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-155, y=17, z=-70} BlockPos{x=-155, y=17, z=-71}
+[05May2025 23:00:57.392] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-155, y=17, z=-70} BlockPos{x=-155, y=17, z=-71}
+[05May2025 23:00:57.443] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-155, y=17, z=-70} BlockPos{x=-155, y=17, z=-71}
+[05May2025 23:00:57.501] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-155, y=17, z=-70} BlockPos{x=-155, y=17, z=-71}
+[05May2025 23:00:57.542] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-155, y=17, z=-70} BlockPos{x=-155, y=17, z=-71}
+[05May2025 23:00:57.562] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-155, y=17, z=-70} BlockPos{x=-155, y=17, z=-71}
+[05May2025 23:00:57.612] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-155, y=17, z=-70} BlockPos{x=-155, y=17, z=-71}
+[05May2025 23:01:02.725] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.22 and blood value 0 for entity exoticbirds:cardinal
+[05May2025 23:01:12.911] [Server thread/INFO] [tac/]: PENDING
+[05May2025 23:01:13.076] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.39 and blood value 2 for entity alexsmobs:tasmanian_devil
+[05May2025 23:02:02.602] [Server thread/INFO] [tac/]: PENDING
+[05May2025 23:02:13.960] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05May2025 23:02:13.979] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05May2025 23:04:54.598] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-92, y=16, z=-40} BlockPos{x=-93, y=16, z=-37}
+[05May2025 23:05:15.749] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-106, y=15, z=-14} BlockPos{x=-104, y=14, z=-14}
+[05May2025 23:05:18.348] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-112, y=14, z=-14} BlockPos{x=-111, y=14, z=-14}
+[05May2025 23:05:22.439] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-125, y=12, z=-14} BlockPos{x=-124, y=12, z=-14}
+[05May2025 23:05:24.493] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-132, y=11, z=-14} BlockPos{x=-131, y=11, z=-14}
+[05May2025 23:05:31.144] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-152, y=10, z=-14} BlockPos{x=-150, y=10, z=-14}
+[05May2025 23:05:52.996] [Server thread/INFO] [tac/]: PENDING
+[05May2025 23:07:13.907] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05May2025 23:07:13.926] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

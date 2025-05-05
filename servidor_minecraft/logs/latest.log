@@ -4000,3 +4000,39 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [05May2025 22:36:13.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> y yo apenas con una armadura usada que encontré en los cofres de oasin
 [05May2025 22:36:18.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> xd
 [05May2025 22:38:57.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Not Quite Common]
+[05May2025 22:58:42.938] [Server thread/INFO] [tac/]: PENDING
+[05May2025 22:59:02.488] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-97, y=66, z=-82} BlockPos{x=-96, y=67, z=-82}
+[05May2025 22:59:02.544] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-97, y=66, z=-82} BlockPos{x=-96, y=67, z=-82}
+[05May2025 22:59:02.593] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-97, y=66, z=-82} BlockPos{x=-96, y=67, z=-82}
+[05May2025 22:59:02.644] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-97, y=66, z=-82} BlockPos{x=-96, y=67, z=-82}
+[05May2025 22:59:02.700] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-97, y=66, z=-82} BlockPos{x=-96, y=67, z=-82}
+[05May2025 22:59:02.745] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-97, y=66, z=-82} BlockPos{x=-96, y=67, z=-82}
+[05May2025 22:59:02.762] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-97, y=66, z=-82} BlockPos{x=-96, y=67, z=-82}
+[05May2025 22:59:02.814] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-97, y=66, z=-82} BlockPos{x=-96, y=67, z=-82}
+[05May2025 22:59:03.014] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-98, y=63, z=-83} BlockPos{x=-97, y=63, z=-82}
+[05May2025 22:59:03.065] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-98, y=63, z=-83} BlockPos{x=-97, y=63, z=-82}
+[05May2025 22:59:03.143] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-98, y=63, z=-83} BlockPos{x=-97, y=63, z=-82}
+[05May2025 22:59:03.191] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-98, y=63, z=-83} BlockPos{x=-97, y=63, z=-82}
+[05May2025 22:59:03.240] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-98, y=63, z=-83} BlockPos{x=-97, y=63, z=-82}
+[05May2025 22:59:03.265] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-98, y=63, z=-83} BlockPos{x=-97, y=63, z=-82}
+[05May2025 22:59:03.344] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-98, y=63, z=-83} BlockPos{x=-97, y=63, z=-82}
+[05May2025 22:59:34.740] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-170, y=31, z=-106} BlockPos{x=-169, y=29, z=-108}
+[05May2025 22:59:49.593] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-175, y=16, z=-93} BlockPos{x=-175, y=15, z=-93}
+[05May2025 22:59:49.648] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-175, y=16, z=-93} BlockPos{x=-175, y=15, z=-93}
+[05May2025 22:59:52.138] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-175, y=18, z=-88} BlockPos{x=-175, y=18, z=-90}
+[05May2025 23:00:57.344] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-155, y=17, z=-70} BlockPos{x=-155, y=17, z=-71}
+[05May2025 23:00:57.392] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-155, y=17, z=-70} BlockPos{x=-155, y=17, z=-71}
+[05May2025 23:00:57.443] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-155, y=17, z=-70} BlockPos{x=-155, y=17, z=-71}
+[05May2025 23:00:57.501] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-155, y=17, z=-70} BlockPos{x=-155, y=17, z=-71}
+[05May2025 23:00:57.542] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-155, y=17, z=-70} BlockPos{x=-155, y=17, z=-71}
+[05May2025 23:00:57.562] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-155, y=17, z=-70} BlockPos{x=-155, y=17, z=-71}
+[05May2025 23:00:57.612] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-155, y=17, z=-70} BlockPos{x=-155, y=17, z=-71}
+[05May2025 23:01:12.911] [Server thread/INFO] [tac/]: PENDING
+[05May2025 23:02:02.602] [Server thread/INFO] [tac/]: PENDING
+[05May2025 23:04:54.598] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-92, y=16, z=-40} BlockPos{x=-93, y=16, z=-37}
+[05May2025 23:05:15.749] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-106, y=15, z=-14} BlockPos{x=-104, y=14, z=-14}
+[05May2025 23:05:18.348] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-112, y=14, z=-14} BlockPos{x=-111, y=14, z=-14}
+[05May2025 23:05:22.439] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-125, y=12, z=-14} BlockPos{x=-124, y=12, z=-14}
+[05May2025 23:05:24.493] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-132, y=11, z=-14} BlockPos{x=-131, y=11, z=-14}
+[05May2025 23:05:31.144] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-152, y=10, z=-14} BlockPos{x=-150, y=10, z=-14}
+[05May2025 23:05:52.996] [Server thread/INFO] [tac/]: PENDING

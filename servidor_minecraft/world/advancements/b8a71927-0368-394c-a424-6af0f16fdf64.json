@@ -1133,6 +1133,12 @@
     },
     "done": true
   },
+  "tac:recipes/tac/light_armor": {
+    "criteria": {
+      "has_iron": "2025-05-05 22:03:47 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/blazeblock_deconstruct": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:01 +0000"
@@ -6407,6 +6413,12 @@
     },
     "done": true
   },
+  "tac:recipes/tac/medium_steel_armor": {
+    "criteria": {
+      "has_iron": "2025-05-05 22:03:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:00 +0000"
@@ -7676,6 +7688,12 @@
   "securitycraft:recipes/securitycraft/reinforced_acacia_wood": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:00 +0000"
+    },
+    "done": true
+  },
+  "tac:recipes/tac/light_armor_plate": {
+    "criteria": {
+      "has_iron": "2025-05-05 22:03:47 +0000"
     },
     "done": true
   },

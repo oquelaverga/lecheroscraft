@@ -3941,3 +3941,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [05May2025 22:02:44.704] [Server thread/INFO] [tombstone/]: The player Rukasu2903 has successfully been saved
 [05May2025 22:02:48.592] [Server thread/INFO] [tac/]: PENDING
 [05May2025 22:03:21.268] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for TranslatableComponent{key='entity.minecraft.zombified_piglin', args=[], siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[05May2025 22:06:22.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> oye we traes botellas de exp?
+[05May2025 22:06:37.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> we piensa que es como si recien iniciara xD
+[05May2025 22:06:40.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> xd
+[05May2025 22:06:58.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> todo lo que tengo se lo saque al oason
+[05May2025 22:07:02.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> xd
+[05May2025 22:07:50.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [That's No Carrot...]
+[05May2025 22:12:51.897] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/10409, l='ServerLevel[world]', x=-717.59, y=64.32, z=-508.96]
+[05May2025 22:15:53.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> potato se esta peleando con optifine xd

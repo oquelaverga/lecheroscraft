@@ -4054,3 +4054,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [05May2025 23:33:17.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> a ver si cuando vuelva siguen en maincra
 [05May2025 23:33:26.041] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: totato lost connection: Disconnected
 [05May2025 23:33:26.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato left the game
+[05May2025 23:51:37.681] [Server thread/INFO] [tac/]: PENDING

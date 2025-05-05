@@ -3855,3 +3855,59 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [05May2025 21:44:46.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> cuanto farmearon?
 [05May2025 21:44:51.938] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> yo recien tengo hierro xD
 [05May2025 21:44:57.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> xd
+[05May2025 21:45:14.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> como es que atravece la pared?
+[05May2025 21:45:24.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> asi ira
+[05May2025 21:45:42.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> waos
+[05May2025 21:45:50.942] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> mira al menos si pude hacerme esto
+[05May2025 21:45:52.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> la puerta we
+[05May2025 21:46:15.583] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Rukasu2903 lost connection: Disconnected
+[05May2025 21:46:15.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 left the game
+[05May2025 21:46:20.532] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: moltgames lost connection: Disconnected
+[05May2025 21:46:20.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames left the game
+[05May2025 21:46:50.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] arco pendejo me mato
+[05May2025 21:49:02.216] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3df52088
+[05May2025 21:49:02.323] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[05May2025 21:49:02.392] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[05May2025 21:49:02.393] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: moltgames[/127.32.21.103:40727] logged in with entity id 8135 at (-677.5047406995296, 65.0, -476.2442845857032)
+[05May2025 21:49:02.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames joined the game
+[05May2025 21:49:02.409] [Server thread/INFO] [tac/]: PENDING
+[05May2025 21:49:02.434] [Server thread/INFO] [Waila/]: Syncing config to moltgames (b8a71927-0368-394c-a424-6af0f16fdf64)
+[05May2025 21:49:51.933] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1a9456d1
+[05May2025 21:49:52.043] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[05May2025 21:49:52.106] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[05May2025 21:49:52.107] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Rukasu2903[/127.160.233.57:42187] logged in with entity id 8375 at (-678.1266085651263, 65.0, -472.5305606882772)
+[05May2025 21:49:52.122] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 joined the game
+[05May2025 21:49:52.122] [Server thread/INFO] [tac/]: PENDING
+[05May2025 21:49:52.164] [Server thread/INFO] [Waila/]: Syncing config to Rukasu2903 (eeabb16a-5f03-3471-a099-3b18e5e1cf3c)
+[05May2025 21:50:26.383] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> arco en mano
+[05May2025 21:50:37.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> sueltelo
+[05May2025 21:50:38.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> tienes flechas?
+[05May2025 21:50:42.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> para ver primero como pega
+[05May2025 21:50:42.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> non
+[05May2025 21:50:53.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Gave 23    [Arrow] to Rukasu2903]
+[05May2025 21:50:55.233] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> tengo esa madre
+[05May2025 21:51:01.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> y bien?
+[05May2025 21:51:07.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> me dio speed
+[05May2025 21:51:17.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> ahi tambien?
+[05May2025 21:51:20.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> si
+[05May2025 21:51:28.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> a noma
+[05May2025 21:51:34.991] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> bueno a ver que pasa si lo tiro
+[05May2025 21:51:38.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> aver
+[05May2025 21:52:03.438] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Rukasu2903 lost connection: Disconnected
+[05May2025 21:52:03.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 left the game
+[05May2025 21:52:03.834] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: moltgames lost connection: Disconnected
+[05May2025 21:52:03.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames left the game
+[05May2025 21:55:08.404] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@bf3b96a
+[05May2025 21:55:08.527] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[05May2025 21:55:08.597] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[05May2025 21:55:08.598] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: moltgames[/127.32.21.103:60319] logged in with entity id 8810 at (-680.3439140460309, 66.0, -468.94260290539097)
+[05May2025 21:55:08.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames joined the game
+[05May2025 21:55:08.613] [Server thread/INFO] [tac/]: PENDING
+[05May2025 21:55:08.644] [Server thread/INFO] [Waila/]: Syncing config to moltgames (b8a71927-0368-394c-a424-6af0f16fdf64)
+[05May2025 21:55:08.977] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@732db635
+[05May2025 21:55:09.094] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[05May2025 21:55:09.155] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[05May2025 21:55:09.156] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Rukasu2903[/127.160.233.57:58319] logged in with entity id 8845 at (-678.6781851164006, 65.0, -471.7399411600903)
+[05May2025 21:55:09.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 joined the game
+[05May2025 21:55:09.171] [Server thread/INFO] [tac/]: PENDING
+[05May2025 21:55:09.180] [Server thread/INFO] [Waila/]: Syncing config to Rukasu2903 (eeabb16a-5f03-3471-a099-3b18e5e1cf3c)

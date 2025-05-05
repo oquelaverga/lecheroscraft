@@ -5056,6 +5056,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-05 03:27:41 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:01 +0000"
@@ -25180,6 +25186,12 @@
   "vampirism:recipes/vampirism/alchemy_table/evasion_oil": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-05 03:28:15 +0000"
     },
     "done": true
   },

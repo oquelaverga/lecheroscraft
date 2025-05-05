@@ -3911,3 +3911,33 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [05May2025 21:55:09.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 joined the game
 [05May2025 21:55:09.171] [Server thread/INFO] [tac/]: PENDING
 [05May2025 21:55:09.180] [Server thread/INFO] [Waila/]: Syncing config to Rukasu2903 (eeabb16a-5f03-3471-a099-3b18e5e1cf3c)
+[05May2025 21:55:47.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> dejalo en un cofre aver si explota
+[05May2025 21:56:01.129] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Rukasu2903 lost connection: Disconnected
+[05May2025 21:56:01.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 left the game
+[05May2025 21:57:34.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [moltgames: Set own game mode to Creative Mode]
+[05May2025 21:57:47.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [moltgames: Set own game mode to Survival Mode]
+[05May2025 21:59:46.216] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@46616709
+[05May2025 21:59:46.303] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[05May2025 21:59:46.367] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[05May2025 21:59:46.368] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Rukasu2903[/127.160.233.57:53345] logged in with entity id 9141 at (-678.6781851164006, 65.0, -471.7399411600903)
+[05May2025 21:59:46.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 joined the game
+[05May2025 21:59:46.382] [Server thread/INFO] [tac/]: PENDING
+[05May2025 21:59:46.425] [Server thread/INFO] [Waila/]: Syncing config to Rukasu2903 (eeabb16a-5f03-3471-a099-3b18e5e1cf3c)
+[05May2025 22:00:21.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> ahora si we
+[05May2025 22:00:22.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> aleja esa madre de mi
+[05May2025 22:00:24.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> no tiro mas el arco
+[05May2025 22:00:27.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> xd
+[05May2025 22:00:49.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> no pos ahora a ver que hago primero
+[05May2025 22:00:50.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has reached the goal [Strong or Careful]
+[05May2025 22:00:50.971] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 suffocated in a wall
+[05May2025 22:00:50.988] [Server thread/INFO] [tombstone/]: The player Rukasu2903 has successfully been saved
+[05May2025 22:00:52.927] [Server thread/INFO] [tac/]: PENDING
+[05May2025 22:00:54.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> te ira mejor en el colado
+[05May2025 22:00:54.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> ptm
+[05May2025 22:01:23.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Set own game mode to Creative Mode]
+[05May2025 22:01:59.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has reached the goal [Easy Opening]
+[05May2025 22:02:02.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Set own game mode to Survival Mode]
+[05May2025 22:02:44.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 suffocated in a wall
+[05May2025 22:02:44.704] [Server thread/INFO] [tombstone/]: The player Rukasu2903 has successfully been saved
+[05May2025 22:02:48.592] [Server thread/INFO] [tac/]: PENDING
+[05May2025 22:03:21.268] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for TranslatableComponent{key='entity.minecraft.zombified_piglin', args=[], siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}

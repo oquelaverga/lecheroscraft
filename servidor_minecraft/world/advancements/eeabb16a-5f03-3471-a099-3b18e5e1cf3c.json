@@ -10715,6 +10715,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2025-05-05 22:01:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_from_smelting": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:11 +0000"
@@ -11534,6 +11540,12 @@
   "tconstruct:recipes/tconstruct/general/common/materials/tinkers_bronze_nugget_from_ingot": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-05-05 22:00:50 +0000"
     },
     "done": true
   },

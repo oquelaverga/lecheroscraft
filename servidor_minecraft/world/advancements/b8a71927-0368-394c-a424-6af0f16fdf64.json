@@ -3738,8 +3738,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-05 02:26:49 +0000",
       "minecraft:skeleton": "2025-05-02 22:04:10 +0000",
       "minecraft:spider": "2025-05-02 22:54:45 +0000",
+      "minecraft:husk": "2025-05-05 02:23:09 +0000",
+      "minecraft:cave_spider": "2025-05-05 02:21:59 +0000",
+      "minecraft:stray": "2025-05-05 02:25:57 +0000",
       "minecraft:zombie": "2025-05-02 22:52:30 +0000"
     },
     "done": false
@@ -8886,6 +8890,12 @@
     },
     "done": true
   },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-05-05 02:22:15 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/storage_blocks_pearl_to_9_ingots": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:00 +0000"
@@ -13326,6 +13336,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-05-05 02:23:26 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/terra_sword": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:02 +0000"
@@ -14091,6 +14107,12 @@
   "mysticalworld:recipes/mysticalworld/mud_block_slab_from_mud_block_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:03 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2025-05-05 02:26:00 +0000"
     },
     "done": true
   },
@@ -21847,6 +21869,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-05-05 02:23:26 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/iron_gold_chest": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:00 +0000"
@@ -22623,6 +22651,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2025-05-05 02:22:15 +0000",
       "in_better_monster_room": "2025-05-03 01:50:38 +0000",
       "in_better_spider_dungeon": "2025-05-03 01:43:51 +0000"
     },

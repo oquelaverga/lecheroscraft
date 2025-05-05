@@ -3839,3 +3839,35 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [05May2025 02:13:37.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> de paso
 [05May2025 02:13:51.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> ahora si esta el libro de como comenzar en el tinkers xd
 [05May2025 02:13:57.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> zzz
+[05May2025 02:22:15.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [When in Rome]
+[05May2025 02:23:26.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Suit Up]
+[05May2025 02:23:26.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has completed the challenge [He Wasn't So Strong]
+[05May2025 02:23:33.395] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/9866, l='ServerLevel[world]', x=-479.26, y=35.65, z=-640.41]
+[05May2025 02:23:33.395] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Silver Ore'/9867, l='ServerLevel[world]', x=-475.44, y=37.26, z=-642.36]
+[05May2025 02:23:33.396] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/9872, l='ServerLevel[world]', x=-476.39, y=34.28, z=-641.53]
+[05May2025 02:23:33.808] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bauxite Ore'/9891, l='ServerLevel[world]', x=-475.34, y=32.68, z=-641.68]
+[05May2025 02:23:33.809] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Oak Fence'/9894, l='ServerLevel[world]', x=-471.60, y=37.62, z=-638.66]
+[05May2025 02:23:33.809] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Uranium Ore'/9895, l='ServerLevel[world]', x=-475.72, y=38.34, z=-642.29]
+[05May2025 02:23:33.809] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/9896, l='ServerLevel[world]', x=-470.74, y=34.35, z=-638.35]
+[05May2025 02:23:33.810] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['String'/9899, l='ServerLevel[world]', x=-473.43, y=38.49, z=-639.73]
+[05May2025 02:23:33.810] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/9900, l='ServerLevel[world]', x=-471.41, y=32.69, z=-638.59]
+[05May2025 02:23:52.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> casi me mata de un golpe esa madre no mamesw
+[05May2025 02:24:02.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> débilk
+[05May2025 02:25:01.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> talvez un hachazo te haga reflexionar
+[05May2025 02:25:16.736] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> Tremendo perdedor
+[05May2025 02:26:00.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has reached the goal [Titan-Forged]
+[05May2025 02:26:52.486] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: moltgames lost connection: Disconnected
+[05May2025 02:26:52.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames left the game
+[05May2025 02:27:22.278] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5517e08c
+[05May2025 02:27:22.376] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[05May2025 02:27:22.447] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[05May2025 02:27:22.448] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: moltgames[/127.32.21.103:33367] logged in with entity id 10505 at (-525.4029420482951, 36.0, -661.6999999880791)
+[05May2025 02:27:22.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames joined the game
+[05May2025 02:27:22.462] [Server thread/INFO] [tac/]: PENDING
+[05May2025 02:27:22.487] [Server thread/INFO] [Waila/]: Syncing config to moltgames (b8a71927-0368-394c-a424-6af0f16fdf64)
+[05May2025 02:27:29.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> Un hombre se une a la partida
+[05May2025 02:27:51.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> when
+[05May2025 02:29:10.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Ambush]
+[05May2025 02:29:33.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> batman
+[05May2025 02:29:42.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> ?
+[05May2025 02:29:45.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> habian 50 pillager metidos en una esquina

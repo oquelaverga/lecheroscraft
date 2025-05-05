@@ -3739,6 +3739,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-05 01:43:48 +0000",
       "minecraft:skeleton": "2025-05-02 04:18:58 +0000",
       "minecraft:spider": "2025-05-02 03:09:54 +0000",
       "minecraft:creeper": "2025-05-02 04:56:36 +0000",
@@ -20859,6 +20860,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-05-05 01:43:48 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/alfheim_portal": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:23 +0000"
@@ -21240,6 +21247,12 @@
   "mysticalworld:recipes/mysticalworld/soft_stone_wide_post_from_soft_stone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:22 +0000"
+    },
+    "done": true
+  },
+  "electrodynamics:raworetin": {
+    "criteria": {
+      "HasRawOre": "2025-05-05 01:39:41 +0000"
     },
     "done": true
   },

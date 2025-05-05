@@ -3791,3 +3791,34 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [05May2025 01:33:16.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> Encerrado
 [05May2025 01:33:16.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> tienes obsidiana we?
 [05May2025 01:33:27.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> no tengo dayamonds
+[05May2025 01:38:59.661] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/4781, l='ServerLevel[world]', x=-956.59, y=37.46, z=-468.59]
+[05May2025 01:38:59.661] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Limestone'/4782, l='ServerLevel[world]', x=-958.30, y=37.66, z=-465.41]
+[05May2025 01:38:59.662] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/4783, l='ServerLevel[world]', x=-956.55, y=39.37, z=-465.43]
+[05May2025 01:38:59.662] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Limestone'/4784, l='ServerLevel[world]', x=-958.54, y=36.45, z=-465.33]
+[05May2025 01:38:59.662] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Marble'/4785, l='ServerLevel[world]', x=-955.64, y=39.40, z=-468.60]
+[05May2025 01:39:00.198] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/4799, l='ServerLevel[world]', x=-955.30, y=37.26, z=-471.69]
+[05May2025 01:39:00.198] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Marble'/4801, l='ServerLevel[world]', x=-954.62, y=38.42, z=-469.54]
+[05May2025 01:39:41.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has made the advancement [Raw Cassiterite Ore]
+[05May2025 01:39:50.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> dame
+[05May2025 01:39:59.091] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> dame un poco de esa cassiterita
+[05May2025 01:39:59.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> Ñom
+[05May2025 01:43:48.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has made the advancement [Ambush]
+[05May2025 01:44:21.543] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/5588, l='ServerLevel[world]', x=-885.57, y=35.63, z=-433.28]
+[05May2025 01:46:20.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> Batman
+[05May2025 01:46:25.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> Desaparecio mi waypoint
+[05May2025 01:46:25.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> que paso guason
+[05May2025 01:46:35.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> waypoint de que guason
+[05May2025 01:46:46.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> De mi casa}
+[05May2025 01:46:50.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> Debo volver todo el camino
+[05May2025 01:46:53.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> batman{wa
+[05May2025 01:47:00.672] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for TranslatableComponent{key='entity.minecraft.zombified_piglin', args=[], siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[05May2025 01:47:24.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [moltgames: Teleported Oasins to moltgames]
+[05May2025 01:47:33.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> no este chingando guason
+[05May2025 01:47:41.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> ponga bien su waypoint
+[05May2025 01:47:54.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> Si lo puse bien batman
+[05May2025 01:47:59.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> Maldito mod todo estupido
+[05May2025 01:48:03.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> entonces donde esta guason
+[05May2025 01:48:13.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> NO esta batman{
+[05May2025 01:48:39.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins was pricked to death
+[05May2025 01:48:39.921] [Server thread/INFO] [tombstone/]: The player Oasins has successfully been saved
+[05May2025 01:48:41.156] [Server thread/INFO] [tac/]: PENDING

@@ -3779,3 +3779,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [05May2025 01:21:53.392] [Server thread/INFO] [tac/]: PENDING
 [05May2025 01:21:53.650] [Server thread/INFO] [Waila/]: Syncing config to moltgames (b8a71927-0368-394c-a424-6af0f16fdf64)
 [05May2025 01:27:02.551] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching CombatRules#getDamageAfterMagicAbsorb
+[05May2025 01:28:48.902] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5b10d035
+[05May2025 01:28:49.007] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[05May2025 01:28:49.087] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[05May2025 01:28:49.088] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Oasins[/127.243.100.200:35309] logged in with entity id 1463 at (-674.3015405999043, 63.9375, -445.61238248836804)
+[05May2025 01:28:49.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins joined the game
+[05May2025 01:28:49.106] [Server thread/INFO] [tac/]: PENDING
+[05May2025 01:28:49.170] [Server thread/INFO] [Waila/]: Syncing config to Oasins (b0ca8948-c238-3f8b-97ac-0b3bcdd2cbb5)
+[05May2025 01:29:06.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> tu ere el oason
+[05May2025 01:29:13.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> Server en decadencia
+[05May2025 01:33:16.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> Encerrado
+[05May2025 01:33:16.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> tienes obsidiana we?
+[05May2025 01:33:27.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> no tengo dayamonds

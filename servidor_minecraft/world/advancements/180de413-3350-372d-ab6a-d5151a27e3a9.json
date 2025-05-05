@@ -5541,7 +5541,8 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "cabbage": "2025-05-02 03:25:13 +0000",
-      "tomato": "2025-05-02 03:25:28 +0000"
+      "tomato": "2025-05-02 03:25:28 +0000",
+      "sugar_cane": "2025-05-05 03:35:27 +0000"
     },
     "done": false
   },

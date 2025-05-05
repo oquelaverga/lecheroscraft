@@ -13893,6 +13893,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-05 03:36:38 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/quicksilver_wall_from_quicksilver_block_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:23 +0000"
@@ -16521,6 +16527,7 @@
       "shrubland": "2025-05-02 02:43:25 +0000",
       "lush_savanna": "2025-05-02 03:14:54 +0000",
       "marsh": "2025-05-02 04:11:16 +0000",
+      "alps": "2025-05-05 03:40:03 +0000",
       "tall_dead_forest": "2025-05-02 03:22:09 +0000",
       "dryland": "2025-05-02 03:04:52 +0000",
       "wasteland": "2025-05-02 03:15:03 +0000",
@@ -16530,6 +16537,7 @@
       "dead_forest": "2025-05-02 03:22:40 +0000",
       "shrubland_hills": "2025-05-02 02:48:43 +0000",
       "burnt_forest": "2025-05-02 04:49:03 +0000",
+      "snowy_coniferous_forest": "2025-05-05 03:38:16 +0000",
       "gravel_beach": "2025-05-02 03:25:05 +0000"
     },
     "done": false

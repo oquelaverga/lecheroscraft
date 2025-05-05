@@ -4072,3 +4072,46 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [05May2025 04:12:04.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> como que eta vaina se extiende
 [05May2025 04:12:09.792] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> si we
 [05May2025 04:12:15.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> si yo lo veo igual
+[05May2025 04:12:58.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> sabes que seria chistoso
+[05May2025 04:13:02.807] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> no
+[05May2025 04:13:09.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has made the advancement [Boar Rider]
+[05May2025 04:13:16.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> lo siento paps
+[05May2025 04:13:24.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> pero ya me dio sueño
+[05May2025 04:13:34.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> a mi iwal
+[05May2025 04:13:39.003] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> es tarde
+[05May2025 04:13:40.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> asi que
+[05May2025 04:13:44.146] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> zzzzz
+[05May2025 04:13:47.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[05May2025 04:13:47.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05May2025 04:13:47.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05May2025 04:13:47.925] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: moltgames lost connection: Internal Exception: java.lang.StackOverflowError
+[05May2025 04:13:47.925] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames left the game
+[05May2025 04:13:47.930] [Server thread/INFO] [Astral Sorcery/]: Clearing perk-tree because the player's skill-tree version was outdated!
+[05May2025 04:13:47.993] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Oasins lost connection: Internal Exception: java.lang.StackOverflowError
+[05May2025 04:13:47.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins left the game
+[05May2025 04:13:47.994] [Server thread/INFO] [Astral Sorcery/]: Clearing perk-tree because the player's skill-tree version was outdated!
+[05May2025 04:13:48.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05May2025 04:13:48.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05May2025 04:13:50.457] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05May2025 04:13:50.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05May2025 04:13:50.459] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05May2025 04:13:50.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05May2025 04:13:50.460] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05May2025 04:13:50.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/bloodmagic:dungeon
+[05May2025 04:13:50.460] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[05May2025 04:13:50.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilightforest
+[05May2025 04:13:50.461] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved
+[05May2025 04:13:50.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/atum:atum
+[05May2025 04:13:50.462] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (atum): All chunks are saved
+[05May2025 04:13:50.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:skylight_forest
+[05May2025 04:13:50.463] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved
+[05May2025 04:13:50.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/appliedenergistics2:spatial_storage
+[05May2025 04:13:50.463] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[05May2025 04:13:50.537] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05May2025 04:13:50.632] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05May2025 04:13:50.640] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05May2025 04:13:50.640] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[05May2025 04:13:50.640] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved
+[05May2025 04:13:50.641] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (atum): All chunks are saved
+[05May2025 04:13:50.641] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved
+[05May2025 04:13:50.641] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved

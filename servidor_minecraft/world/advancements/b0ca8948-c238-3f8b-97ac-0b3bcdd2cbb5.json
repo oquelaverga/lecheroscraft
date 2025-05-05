@@ -1781,6 +1781,12 @@
     },
     "done": true
   },
+  "mod_lavacow:recipe/plagued_porkchop": {
+    "criteria": {
+      "has_item": "2025-05-05 04:13:12 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/vampire/coffin_brown": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:21 +0000"
@@ -5118,6 +5124,12 @@
   "botania:recipes/botania/cocoon": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-05-05 04:11:19 +0000"
     },
     "done": true
   },
@@ -11298,6 +11310,12 @@
   "cfm:recipes/cfm/stripped_warped_desk_cabinet": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:24 +0000"
+    },
+    "done": true
+  },
+  "mod_lavacow:recipe/pigboarhide": {
+    "criteria": {
+      "has_item": "2025-05-05 04:13:12 +0000"
     },
     "done": true
   },
@@ -20397,6 +20415,12 @@
   "biomesoplenty:recipes/building_blocks/dead_stairs": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:22 +0000"
+    },
+    "done": true
+  },
+  "mod_lavacow:mod_lavacow/kill_undeadswine": {
+    "criteria": {
+      "killed": "2025-05-05 04:13:09 +0000"
     },
     "done": true
   },

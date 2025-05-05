@@ -1043,6 +1043,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-05-05 04:10:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:00 +0000"
@@ -1707,6 +1713,12 @@
   "appliedenergistics2:recipes/appliedenergistics2/shaped/walls/sky_stone_block": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:52:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-05-05 04:11:22 +0000"
     },
     "done": true
   },
@@ -5141,6 +5153,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-05-05 04:11:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:00 +0000"
@@ -7604,6 +7622,12 @@
   "securitycraft:recipes/securitycraft/reinforced_mossy_cobblestone": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:03 +0000"
+    },
+    "done": true
+  },
+  "mod_lavacow:mod_lavacow/kill_parasite": {
+    "criteria": {
+      "killed": "2025-05-05 04:11:27 +0000"
     },
     "done": true
   },

@@ -9185,6 +9185,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-05-05 22:34:34 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/ingots_copper_to_9_nuggets": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:03 +0000"
@@ -18403,6 +18409,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/uncommon": {
+    "criteria": {
+      "sword": "2025-05-05 22:38:57 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/redwood_fence": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:00 +0000"
@@ -24689,6 +24701,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-05-02 22:04:32 +0000",
+      "golden_apple": "2025-05-05 22:33:19 +0000",
       "enchanted_golden_apple": "2025-05-03 01:50:46 +0000"
     },
     "done": false

@@ -13132,3 +13132,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [05May2025 02:05:29.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has made the advancement [It Certainly Seems Rare...]
 [05May2025 02:05:36.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> waos
 [05May2025 02:08:43.431] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-643, y=65, z=-469} BlockPos{x=-642, y=64, z=-469}
+[05May2025 02:10:21.760] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05May2025 02:10:21.777] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05May2025 02:13:37.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> de paso
+[05May2025 02:13:51.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> ahora si esta el libro de como comenzar en el tinkers xd
+[05May2025 02:13:57.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> zzz
+[05May2025 02:15:21.667] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05May2025 02:15:21.685] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

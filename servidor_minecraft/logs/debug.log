@@ -16048,3 +16048,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [05May2025 23:33:26.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato left the game
 [05May2025 23:37:13.274] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [05May2025 23:37:13.293] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05May2025 23:42:13.226] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05May2025 23:42:13.244] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05May2025 23:47:13.243] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05May2025 23:47:13.262] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

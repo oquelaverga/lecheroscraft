@@ -1,0 +1,32 @@
+[
+  {
+    "uuid": "fa181dd5-02bf-35d4-8d79-86a18889c63b",
+    "name": "Takuda",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "eeabb16a-5f03-3471-a099-3b18e5e1cf3c",
+    "name": "Rukasu2903",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "180de413-3350-372d-ab6a-d5151a27e3a9",
+    "name": "totato",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b8a71927-0368-394c-a424-6af0f16fdf64",
+    "name": "moltgames",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b0ca8948-c238-3f8b-97ac-0b3bcdd2cbb5",
+    "name": "Oasins",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

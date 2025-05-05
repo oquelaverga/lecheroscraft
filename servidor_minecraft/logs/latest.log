@@ -4046,3 +4046,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [05May2025 23:21:29.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato has made the advancement [Suit Up]
 [05May2025 23:21:35.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> hay mesa de encantamientos?
 [05May2025 23:21:55.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> nose
+[05May2025 23:32:48.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> me dio sueño x.x
+[05May2025 23:32:51.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> xd
+[05May2025 23:32:55.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> anoche dormi 1 hora
+[05May2025 23:33:02.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> voy a tomar una siesta
+[05May2025 23:33:05.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> vas
+[05May2025 23:33:17.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> a ver si cuando vuelva siguen en maincra
+[05May2025 23:33:26.041] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: totato lost connection: Disconnected
+[05May2025 23:33:26.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato left the game

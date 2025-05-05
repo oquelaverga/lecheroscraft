@@ -15950,3 +15950,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [05May2025 22:38:57.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Not Quite Common]
 [05May2025 22:42:13.484] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [05May2025 22:42:13.501] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05May2025 22:47:13.626] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05May2025 22:47:13.644] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05May2025 22:52:01.899] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.15 and blood value 0 for entity exoticbirds:duck
+[05May2025 22:52:02.040] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.13 and blood value 0 for entity exoticbirds:kingfisher
+[05May2025 22:52:02.180] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.42 and blood value 2 for entity mysticalworld:beetle
+[05May2025 22:52:02.180] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[05May2025 22:52:02.587] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.42 and blood value 2 for entity mysticalworld:beetle
+[05May2025 22:52:02.587] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.42 and blood value 2 for entity mysticalworld:beetle
+[05May2025 22:52:13.774] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05May2025 22:52:13.791] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05May2025 22:52:40.427] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[05May2025 22:52:40.428] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[05May2025 22:52:40.428] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[05May2025 22:54:03.339] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.1 and blood value 0 for entity exoticbirds:budgerigar

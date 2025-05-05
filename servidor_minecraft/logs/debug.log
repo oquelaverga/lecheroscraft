@@ -22627,3 +22627,159 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [05May2025 03:41:44.663] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_180 at (-1914 | 40 | -17)
 [05May2025 03:41:44.663] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-120,-1]
 [05May2025 03:41:47.212] [Worker-Main-177/DEBUG] [betterdungeons/]: Small Dungeon at -2079 41 -143
+[05May2025 03:41:50.507] [Worker-Main-176/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-120,-3]
+[05May2025 03:41:50.507] [Worker-Main-176/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-120,-3]
+[05May2025 03:41:50.517] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-120,-2]
+[05May2025 03:41:50.517] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_180 at (-1907 | 49 | -28)
+[05May2025 03:41:50.517] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_180 at (-1907 | 49 | -28)
+[05May2025 03:41:50.517] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_180 at (-1914 | 40 | -17)
+[05May2025 03:41:50.518] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_180 at (-1914 | 40 | -17)
+[05May2025 03:41:50.518] [Worker-Main-71/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-120,-2]
+[05May2025 03:41:56.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> un pinguino
+[05May2025 03:42:15.523] [Worker-Main-177/DEBUG] [betterdungeons/]: Small Dungeon at -1561 31 535
+[05May2025 03:42:17.311] [Worker-Main-176/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-120,-4]
+[05May2025 03:42:17.311] [Worker-Main-176/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-120,-4]
+[05May2025 03:42:37.141] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.18 and blood value 8 for entity alexsmobs:seal
+[05May2025 03:42:37.141] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.18 and blood value 8 for entity alexsmobs:seal
+[05May2025 03:42:37.142] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.18 and blood value 8 for entity alexsmobs:seal
+[05May2025 03:42:37.152] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.18 and blood value 8 for entity alexsmobs:seal
+[05May2025 03:42:37.153] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.18 and blood value 8 for entity alexsmobs:seal
+[05May2025 03:42:37.153] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.18 and blood value 8 for entity alexsmobs:seal
+[05May2025 03:42:37.153] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.18 and blood value 8 for entity alexsmobs:seal
+[05May2025 03:42:38.269] [Worker-Main-177/DEBUG] [betterdungeons/]: Small Dungeon at -2201 19 359
+[05May2025 03:42:38.921] [Worker-Main-176/DEBUG] [betterdungeons/]: Small Dungeon at -2209 44 529
+[05May2025 03:42:43.866] [Worker-Main-177/DEBUG] [betterdungeons/]: Small Dungeon at -2227 24 7
+[05May2025 03:42:48.204] [Worker-Main-177/DEBUG] [betterdungeons/]: Small Dungeon at -2233 23 191
+[05May2025 03:42:52.529] [Worker-Main-6/DEBUG] [betterdungeons/]: Small Dungeon at -1705 25 639
+[05May2025 03:42:56.308] [Worker-Main-71/DEBUG] [betterdungeons/]: Small Dungeon at -1593 45 657
+[05May2025 03:43:06.954] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.17 and blood value 0 for entity exoticbirds:gull
+[05May2025 03:43:10.428] [Worker-Main-72/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-2412 | 49 | 644).
+[05May2025 03:43:10.428] [Worker-Main-72/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[05May2025 03:43:10.429] [Worker-Main-72/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 6(0) Nodes and 4(0) Rooms
+[05May2025 03:43:10.429] [Worker-Main-72/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[05May2025 03:43:10.429] [Worker-Main-72/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 7(0) Nodes and 5(0) Rooms
+[05May2025 03:43:10.429] [Worker-Main-72/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[05May2025 03:43:10.429] [Worker-Main-72/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 4(6) Nodes and 4(0) Rooms
+[05May2025 03:43:10.429] [Worker-Main-72/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[05May2025 03:43:10.430] [Worker-Main-72/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 8(0) Nodes and 6(0) Rooms
+[05May2025 03:43:10.430] [Worker-Main-72/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[05May2025 03:43:10.430] [Worker-Main-72/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 12(0) Nodes and 6(0) Rooms
+[05May2025 03:43:10.432] [Worker-Main-72/DEBUG] [Dungeon Crawl/]: Created the dungeon layout for [-146, 45] with a total of 304 pieces.
+[05May2025 03:43:19.322] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[05May2025 03:43:36.544] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.61 and blood value 15 for entity iceandfire:hippocampus
+[05May2025 03:43:36.544] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.61 and blood value 15 for entity iceandfire:hippocampus
+[05May2025 03:43:38.772] [Worker-Main-177/DEBUG] [betterdungeons/]: Small Dungeon at -1737 31 823
+[05May2025 03:43:41.992] [Worker-Main-71/DEBUG] [betterdungeons/]: Small Dungeon at -2233 47 831
+[05May2025 03:43:42.153] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.61 and blood value 15 for entity iceandfire:hippocampus
+[05May2025 03:43:59.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> hay wey recierdos de vietnam
+[05May2025 03:44:14.745] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.13 and blood value 0 for entity iceandfire:sea_serpent
+[05May2025 03:44:15.605] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1826, y=24, z=742} but found not block entity block Block{minecraft:water}[level=0] at location
+[05May2025 03:44:15.605] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-1826, y=24, z=742}
+[05May2025 03:44:15.605] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1834, y=18, z=739} but found not block entity block Block{minecraft:water}[level=0] at location
+[05May2025 03:44:15.606] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-1834, y=18, z=739}
+[05May2025 03:44:15.606] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1836, y=20, z=740} but found not block entity block Block{minecraft:water}[level=0] at location
+[05May2025 03:44:15.606] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-1836, y=20, z=740}
+[05May2025 03:44:22.225] [Worker-Main-176/DEBUG] [betterdungeons/]: Small Dungeon at -1561 23 839
+[05May2025 03:44:26.618] [Worker-Main-177/DEBUG] [betterdungeons/]: Small Dungeon at -1721 24 967
+[05May2025 03:44:39.644] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.1 and blood value 0 for entity exoticbirds:budgerigar
+[05May2025 03:45:14.799] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.13 and blood value 0 for entity exoticbirds:kookaburra
+[05May2025 03:45:24.161] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05May2025 03:45:24.182] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05May2025 03:45:40.174] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[05May2025 03:45:40.174] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[05May2025 03:45:42.932] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[05May2025 03:45:42.933] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[05May2025 03:45:42.933] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[05May2025 03:45:42.933] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.42 and blood value 2 for entity mysticalworld:beetle
+[05May2025 03:45:42.933] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[05May2025 03:45:42.934] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[05May2025 03:45:42.934] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[05May2025 03:45:42.991] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[05May2025 03:46:01.877] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.42 and blood value 2 for entity mysticalworld:beetle
+[05May2025 03:46:01.877] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.42 and blood value 2 for entity mysticalworld:beetle
+[05May2025 03:47:27.102] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.39 and blood value 2 for entity alexsmobs:tasmanian_devil
+[05May2025 03:47:40.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> 0 endermas
+[05May2025 03:47:55.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> Literalmente 1984
+[05May2025 03:47:58.474] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.86 and blood value 13 for entity exoticbirds:ostrich
+[05May2025 03:47:58.474] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[05May2025 03:48:02.826] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.08 and blood value 0 for entity exoticbirds:gouldianfinch
+[05May2025 03:48:02.827] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[05May2025 03:48:02.827] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[05May2025 03:48:24.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> ofreco 3 diamantes por una enderperl
+[05May2025 03:48:33.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> Te ofrezco 3 chingas
+[05May2025 03:48:48.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> q oferton
+[05May2025 03:49:06.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has completed the challenge [Regicide]
+[05May2025 03:49:46.776] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.18 and blood value 15 for entity alexsmobs:emu
+[05May2025 03:49:46.778] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.18 and blood value 15 for entity alexsmobs:emu
+[05May2025 03:49:49.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> z
+[05May2025 03:50:11.496] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.15 and blood value 0 for entity alexsmobs:roadrunner
+[05May2025 03:50:15.598] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:rattlesnake
+[05May2025 03:50:15.598] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:rattlesnake
+[05May2025 03:50:24.597] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05May2025 03:50:24.615] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05May2025 03:50:43.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> finalmente un desierto
+[05May2025 03:51:03.146] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.31 and blood value 2 for entity ars_nouveau:summon_wolf
+[05May2025 03:51:03.146] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.31 and blood value 2 for entity ars_nouveau:summon_wolf
+[05May2025 03:51:06.246] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.64 and blood value 4 for entity exoticbirds:roadrunner
+[05May2025 03:51:06.247] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.64 and blood value 4 for entity exoticbirds:roadrunner
+[05May2025 03:51:10.400] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.51 and blood value 3 for entity iceandfire:deathworm
+[05May2025 03:51:12.544] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.51 and blood value 3 for entity iceandfire:deathworm
+[05May2025 03:51:12.595] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.51 and blood value 3 for entity iceandfire:deathworm
+[05May2025 03:51:15.145] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.51 and blood value 3 for entity iceandfire:deathworm
+[05May2025 03:51:15.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has reached the goal [Bone Crusher]
+[05May2025 03:51:16.752] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.51 and blood value 3 for entity iceandfire:deathworm
+[05May2025 03:51:16.752] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.51 and blood value 3 for entity iceandfire:deathworm
+[05May2025 03:51:17.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has made the advancement [Get it OFFFFF!]
+[05May2025 03:51:23.467] [Worker-Main-176/DEBUG] [betterdungeons/]: Small Dungeon at 813 26 -275
+[05May2025 03:51:31.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [The One Re-Bone]
+[05May2025 03:51:47.106] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=673, y=15, z=-417} but found not block entity block Block{quark:deepslate}[axis=y] at location
+[05May2025 03:51:47.107] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:deepslate}[axis=y] but failed at location BlockPos{x=673, y=15, z=-417}
+[05May2025 03:51:47.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has made the advancement [Knowledge raises the soul]
+[05May2025 03:52:27.678] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=614, y=18, z=-772} but found not block entity block Block{quark:deepslate}[axis=y] at location
+[05May2025 03:52:27.678] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:deepslate}[axis=y] but failed at location BlockPos{x=614, y=18, z=-772}
+[05May2025 03:52:27.679] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=623, y=18, z=-770} but found not block entity block Block{quark:deepslate}[axis=y] at location
+[05May2025 03:52:27.679] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:deepslate}[axis=y] but failed at location BlockPos{x=623, y=18, z=-770}
+[05May2025 03:52:27.749] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=606, y=19, z=-771} but found not block entity block Block{minecraft:stone} at location
+[05May2025 03:52:27.750] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=606, y=19, z=-771}
+[05May2025 03:52:38.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Vultursaur]
+[05May2025 03:53:41.669] [Worker-Main-72/DEBUG] [betterdungeons/]: Small Dungeon at 663 20 -1071
+[05May2025 03:53:41.961] [Worker-Main-71/DEBUG] [betterdungeons/]: Small Dungeon at 167 13 -1075
+[05May2025 03:53:43.717] [Worker-Main-177/DEBUG] [betterdungeons/]: Spider Dungeon at 698 49 -1114
+[05May2025 03:53:47.099] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.86 and blood value 6 for entity iceandfire:cockatrice
+[05May2025 03:53:47.099] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.86 and blood value 6 for entity iceandfire:cockatrice
+[05May2025 03:53:48.963] [Worker-Main-6/DEBUG] [betterdungeons/]: Small Dungeon at 319 16 -1121
+[05May2025 03:53:48.968] [Worker-Main-177/DEBUG] [betterdungeons/]: Small Dungeon at 529 19 -1113
+[05May2025 03:55:09.995] [Server thread/INFO] [tac/]: PENDING
+[05May2025 03:55:10.217] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Pickaxe'/36908, l='ServerLevel[world]', x=-74.40, y=68.00, z=-55.57]
+[05May2025 03:55:11.597] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[05May2025 03:55:12.002] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.13 and blood value 7 for entity alexsmobs:warped_toad
+[05May2025 03:55:12.002] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.13 and blood value 7 for entity alexsmobs:warped_toad
+[05May2025 03:55:12.002] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.13 and blood value 7 for entity alexsmobs:warped_toad
+[05May2025 03:55:12.114] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[05May2025 03:55:12.114] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[05May2025 03:55:12.476] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[05May2025 03:55:24.448] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05May2025 03:55:24.466] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05May2025 03:56:05.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [A Terrible Fortress]
+[05May2025 03:56:50.193] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: moltgames moved too quickly! 5.304797814887991,-17.0,5.883531572256018
+[05May2025 03:59:29.751] [Server thread/INFO] [tac/]: PENDING
+[05May2025 04:00:11.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> auuu
+[05May2025 04:00:23.834] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05May2025 04:00:23.852] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05May2025 04:00:28.056] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> y mis vidrios cabron
+[05May2025 04:00:35.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> puedo explicarlo
+[05May2025 04:00:44.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> >:(
+[05May2025 04:00:54.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> listo arreglado
+[05May2025 04:00:55.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> xd
+[05May2025 04:01:29.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> la venganza será cocinada a fuego lento
+[05May2025 04:01:37.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> xdddd
+[05May2025 04:01:41.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> FJKRHDKJASHDJKSHADK
+[05May2025 04:01:51.094] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato suffocated in a wall
+[05May2025 04:01:51.126] [Server thread/DEBUG] [tombstone/]: A new grave of the player totato was created at position [x:-615, y:51, z:-481, dim:minecraft:overworld]
+[05May2025 04:01:51.129] [Server thread/INFO] [tombstone/]: The player totato has successfully been saved
+[05May2025 04:01:52.806] [Server thread/INFO] [tac/]: PENDING
+[05May2025 04:01:52.854] [Server thread/DEBUG] [twilightforest/]: Player totato (180de413-3350-372d-ab6a-d5151a27e3a9) respawned and received items held in storage
+[05May2025 04:01:54.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> al colado
+[05May2025 04:02:02.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> spawneaste un hoyo
+[05May2025 04:02:06.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> Tal vez potato no sobreviva
+[05May2025 04:02:06.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> ahora como saco mis cosas

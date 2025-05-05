@@ -6879,6 +6879,12 @@
     },
     "done": true
   },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "earth": "2025-05-05 03:43:36 +0000"
+    },
+    "done": false
+  },
   "botania:recipes/botania/pattern_1_2": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:21 +0000"
@@ -7578,6 +7584,12 @@
   "securitycraft:recipes/securitycraft/reinforced_mossy_cobblestone": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:23 +0000"
+    },
+    "done": true
+  },
+  "mod_lavacow:mod_lavacow/kill_parasite": {
+    "criteria": {
+      "killed": "2025-05-05 03:51:17 +0000"
     },
     "done": true
   },
@@ -15873,6 +15885,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-05 03:51:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/yellow_kitchen_drawer": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:23 +0000"
@@ -21087,6 +21105,12 @@
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-05-05 03:51:15 +0000"
     },
     "done": true
   },

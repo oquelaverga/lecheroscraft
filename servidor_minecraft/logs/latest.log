@@ -3971,3 +3971,54 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [05May2025 03:40:32.594] [Server thread/INFO] [Waila/]: Syncing config to moltgames (b8a71927-0368-394c-a424-6af0f16fdf64)
 [05May2025 03:40:35.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> ola
 [05May2025 03:41:25.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> hay cabron
+[05May2025 03:41:56.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> un pinguino
+[05May2025 03:43:19.322] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[05May2025 03:43:59.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> hay wey recierdos de vietnam
+[05May2025 03:44:15.605] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1826, y=24, z=742} but found not block entity block Block{minecraft:water}[level=0] at location
+[05May2025 03:44:15.605] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-1826, y=24, z=742}
+[05May2025 03:44:15.605] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1834, y=18, z=739} but found not block entity block Block{minecraft:water}[level=0] at location
+[05May2025 03:44:15.606] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-1834, y=18, z=739}
+[05May2025 03:44:15.606] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1836, y=20, z=740} but found not block entity block Block{minecraft:water}[level=0] at location
+[05May2025 03:44:15.606] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-1836, y=20, z=740}
+[05May2025 03:47:40.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> 0 endermas
+[05May2025 03:47:55.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> Literalmente 1984
+[05May2025 03:48:24.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> ofreco 3 diamantes por una enderperl
+[05May2025 03:48:33.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> Te ofrezco 3 chingas
+[05May2025 03:48:48.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> q oferton
+[05May2025 03:49:06.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has completed the challenge [Regicide]
+[05May2025 03:49:49.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> z
+[05May2025 03:50:43.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> finalmente un desierto
+[05May2025 03:51:15.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has reached the goal [Bone Crusher]
+[05May2025 03:51:17.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has made the advancement [Get it OFFFFF!]
+[05May2025 03:51:31.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [The One Re-Bone]
+[05May2025 03:51:47.106] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=673, y=15, z=-417} but found not block entity block Block{quark:deepslate}[axis=y] at location
+[05May2025 03:51:47.107] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:deepslate}[axis=y] but failed at location BlockPos{x=673, y=15, z=-417}
+[05May2025 03:51:47.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has made the advancement [Knowledge raises the soul]
+[05May2025 03:52:27.678] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=614, y=18, z=-772} but found not block entity block Block{quark:deepslate}[axis=y] at location
+[05May2025 03:52:27.678] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:deepslate}[axis=y] but failed at location BlockPos{x=614, y=18, z=-772}
+[05May2025 03:52:27.679] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=623, y=18, z=-770} but found not block entity block Block{quark:deepslate}[axis=y] at location
+[05May2025 03:52:27.679] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:deepslate}[axis=y] but failed at location BlockPos{x=623, y=18, z=-770}
+[05May2025 03:52:27.749] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=606, y=19, z=-771} but found not block entity block Block{minecraft:stone} at location
+[05May2025 03:52:27.750] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=606, y=19, z=-771}
+[05May2025 03:52:38.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Vultursaur]
+[05May2025 03:55:09.995] [Server thread/INFO] [tac/]: PENDING
+[05May2025 03:55:10.217] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Pickaxe'/36908, l='ServerLevel[world]', x=-74.40, y=68.00, z=-55.57]
+[05May2025 03:56:05.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [A Terrible Fortress]
+[05May2025 03:56:50.193] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: moltgames moved too quickly! 5.304797814887991,-17.0,5.883531572256018
+[05May2025 03:59:29.751] [Server thread/INFO] [tac/]: PENDING
+[05May2025 04:00:11.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> auuu
+[05May2025 04:00:28.056] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> y mis vidrios cabron
+[05May2025 04:00:35.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> puedo explicarlo
+[05May2025 04:00:44.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> >:(
+[05May2025 04:00:54.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> listo arreglado
+[05May2025 04:00:55.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> xd
+[05May2025 04:01:29.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> la venganza será cocinada a fuego lento
+[05May2025 04:01:37.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> xdddd
+[05May2025 04:01:41.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> FJKRHDKJASHDJKSHADK
+[05May2025 04:01:51.094] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato suffocated in a wall
+[05May2025 04:01:51.129] [Server thread/INFO] [tombstone/]: The player totato has successfully been saved
+[05May2025 04:01:52.806] [Server thread/INFO] [tac/]: PENDING
+[05May2025 04:01:54.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> al colado
+[05May2025 04:02:02.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> spawneaste un hoyo
+[05May2025 04:02:06.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> Tal vez potato no sobreviva
+[05May2025 04:02:06.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> ahora como saco mis cosas

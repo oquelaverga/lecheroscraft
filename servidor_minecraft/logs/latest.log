@@ -3828,3 +3828,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [05May2025 01:49:43.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> tu eri pendejo guason
 [05May2025 01:50:09.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> Si cae de la nada el vampiro que hago we
 [05May2025 01:54:45.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> tengo hambre we
+[05May2025 01:59:27.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins was pricked to death
+[05May2025 01:59:27.336] [Server thread/INFO] [tombstone/]: The player Oasins has successfully been saved
+[05May2025 01:59:28.642] [Server thread/INFO] [tac/]: PENDING
+[05May2025 02:05:20.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> checate lo que me solto un zombi
+[05May2025 02:05:29.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has made the advancement [How'd You Get This?]
+[05May2025 02:05:29.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has made the advancement [It Certainly Seems Rare...]
+[05May2025 02:05:36.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> waos
+[05May2025 02:08:43.431] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-643, y=65, z=-469} BlockPos{x=-642, y=64, z=-469}

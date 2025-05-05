@@ -1061,6 +1061,12 @@
     },
     "done": true
   },
+  "vampirism:hunter/become_hunter": {
+    "criteria": {
+      "main": "2025-05-05 02:02:57 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/mud_brick_from_wet_mud_brick_smelting": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:21 +0000"
@@ -7418,6 +7424,12 @@
       "has_the_recipe": "2025-05-02 02:43:23 +0000"
     },
     "done": true
+  },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "faction": "2025-05-05 02:02:57 +0000"
+    },
+    "done": false
   },
   "tconstruct:recipes/tconstruct/general/common/slime/sky/slimeball_from_congealed": {
     "criteria": {

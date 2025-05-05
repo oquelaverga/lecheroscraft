@@ -13113,3 +13113,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [05May2025 01:54:45.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> tengo hambre we
 [05May2025 01:55:21.776] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [05May2025 01:55:21.795] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05May2025 01:59:27.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins was pricked to death
+[05May2025 01:59:27.290] [Server thread/DEBUG] [tombstone/]: A new grave of the player Oasins was created at position [x:-697, y:62, z:-444, dim:minecraft:overworld]
+[05May2025 01:59:27.336] [Server thread/INFO] [tombstone/]: The player Oasins has successfully been saved
+[05May2025 01:59:28.642] [Server thread/INFO] [tac/]: PENDING
+[05May2025 01:59:28.675] [Server thread/DEBUG] [twilightforest/]: Player Oasins (b0ca8948-c238-3f8b-97ac-0b3bcdd2cbb5) respawned and received items held in storage
+[05May2025 02:00:21.818] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05May2025 02:00:21.836] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05May2025 02:02:38.434] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.22 and blood value 0 for entity mysticalworld:owl
+[05May2025 02:02:45.240] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.49 and blood value 3 for entity exoticbirds:swan
+[05May2025 02:02:45.240] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.49 and blood value 3 for entity exoticbirds:swan
+[05May2025 02:02:53.383] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 0 for entity iceandfire:fire_dragon
+[05May2025 02:02:57.841] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Oasins has new faction level vampirism:hunter 1
+[05May2025 02:05:20.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> checate lo que me solto un zombi
+[05May2025 02:05:21.903] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05May2025 02:05:21.921] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05May2025 02:05:29.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has made the advancement [How'd You Get This?]
+[05May2025 02:05:29.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has made the advancement [It Certainly Seems Rare...]
+[05May2025 02:05:36.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> waos
+[05May2025 02:08:43.431] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-643, y=65, z=-469} BlockPos{x=-642, y=64, z=-469}

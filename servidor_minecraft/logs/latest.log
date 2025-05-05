@@ -3949,3 +3949,37 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [05May2025 22:07:50.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [That's No Carrot...]
 [05May2025 22:12:51.897] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/10409, l='ServerLevel[world]', x=-717.59, y=64.32, z=-508.96]
 [05May2025 22:15:53.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> potato se esta peleando con optifine xd
+[05May2025 22:16:00.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> que paso? xD
+[05May2025 22:16:12.897] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [Me Eat Dead People]
+[05May2025 22:16:22.192] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> anda peleandose con el optifine porque se le instala solo y le crashea xd
+[05May2025 22:16:28.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> xDDDDD
+[05May2025 22:16:31.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> Por usar mac
+[05May2025 22:19:28.050] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: moltgames moved wrongly!
+[05May2025 22:19:32.635] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@772360b1
+[05May2025 22:19:32.723] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[05May2025 22:19:32.780] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[05May2025 22:19:32.781] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: totato[/127.51.233.245:34607] logged in with entity id 11767 at (-616.5, 70.0, -497.5)
+[05May2025 22:19:32.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato joined the game
+[05May2025 22:19:32.794] [Server thread/INFO] [tac/]: PENDING
+[05May2025 22:19:32.840] [Server thread/INFO] [Waila/]: Syncing config to totato (180de413-3350-372d-ab6a-d5151a27e3a9)
+[05May2025 22:19:35.494] [Server thread/WARN] [tombstone/]: The death event of the player moltgames was canceled by another mod
+[05May2025 22:19:35.508] [Server thread/INFO] [tombstone/]: The player moltgames has successfully been saved
+[05May2025 22:19:36.755] [Server thread/WARN] [twilightforest/]: Dropping inventory items previously held in reserve for player moltgames (b8a71927-0368-394c-a424-6af0f16fdf64)
+[05May2025 22:19:36.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames died because of Zombie
+[05May2025 22:19:36.770] [Server thread/INFO] [tombstone/]: The player moltgames has successfully been saved
+[05May2025 22:19:37.906] [Server thread/INFO] [tac/]: PENDING
+[05May2025 22:20:22.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> ya le ganaste a optifine?
+[05May2025 22:20:25.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> si se pudo señores
+[05May2025 22:21:51.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> por un momento
+[05May2025 22:22:03.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> me asuste que una abeja tuviera tanta conciencia
+[05May2025 22:22:07.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> xd
+[05May2025 22:22:31.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> y esa iguana?
+[05May2025 22:22:32.946] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> xD
+[05May2025 22:22:44.347] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> e un pejelagarto
+[05May2025 22:23:00.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> voy a robar comida a oasin
+[05May2025 22:23:08.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> vamos*
+[05May2025 22:23:42.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> se ve chistoso caminar en las cosechas asi
+[05May2025 22:23:54.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> pov eres una iguana comiendo un tomate
+[05May2025 22:24:26.265] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Summoned new Leafcutter Ant]
+[05May2025 22:24:38.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> xddd
+[05May2025 22:24:50.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> como la pelicula bichos

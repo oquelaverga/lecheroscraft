@@ -18544,6 +18544,12 @@
     },
     "done": true
   },
+  "mod_lavacow:recipe/sharptooth": {
+    "criteria": {
+      "has_item": "2025-05-05 22:16:17 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_polished_blackstone_bricks_from_reinforced_polished_blackstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:11 +0000"
@@ -21169,6 +21175,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:10 +0000"
+    },
+    "done": true
+  },
+  "mod_lavacow:mod_lavacow/kill_ghoul": {
+    "criteria": {
+      "killed": "2025-05-05 22:16:12 +0000"
     },
     "done": true
   },

@@ -3734,7 +3734,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-02 04:18:00 +0000",
-      "minecraft:spider": "2025-05-02 04:02:35 +0000"
+      "minecraft:spider": "2025-05-02 04:02:35 +0000",
+      "minecraft:silverfish": "2025-05-05 23:10:29 +0000"
     },
     "done": false
   },
@@ -14410,6 +14411,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/modified": {
+    "criteria": {
+      "crafted_tool": "2025-05-05 23:11:42 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/lead_helmet": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:18 +0000"
@@ -16476,6 +16483,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "seasonal_pumpkin_patch": "2025-05-05 23:07:50 +0000",
       "shrubland": "2025-05-02 02:54:19 +0000",
       "tall_dead_forest": "2025-05-02 03:22:29 +0000",
       "dryland": "2025-05-02 03:27:32 +0000",
@@ -16741,6 +16749,12 @@
       "has_the_recipe": "2025-05-02 02:54:18 +0000"
     },
     "done": true
+  },
+  "tconstruct:tools/tool_smith": {
+    "criteria": {
+      "pickaxe": "2025-05-05 23:11:42 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
@@ -20648,6 +20662,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2025-05-05 23:11:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:17 +0000"
@@ -20701,6 +20721,13 @@
       "has_the_recipe": "2025-05-02 02:54:18 +0000"
     },
     "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "cobalt": "2025-05-05 23:11:42 +0000",
+      "rose_gold": "2025-05-05 23:11:42 +0000"
+    },
+    "done": false
   },
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {

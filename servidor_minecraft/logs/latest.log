@@ -4036,3 +4036,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [05May2025 23:05:24.493] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-132, y=11, z=-14} BlockPos{x=-131, y=11, z=-14}
 [05May2025 23:05:31.144] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-152, y=10, z=-14} BlockPos{x=-150, y=10, z=-14}
 [05May2025 23:05:52.996] [Server thread/INFO] [tac/]: PENDING
+[05May2025 23:11:17.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [moltgames: Teleported moltgames to totato]
+[05May2025 23:11:20.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> ola
+[05May2025 23:11:25.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> ola
+[05May2025 23:11:30.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> checate ete pico
+[05May2025 23:11:31.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> me explotó un cofre
+[05May2025 23:11:37.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> es una flecha
+[05May2025 23:12:31.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> ta weno el pico

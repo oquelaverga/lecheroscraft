@@ -3807,3 +3807,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [06May2025 20:52:59.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> y no se que hace cada cosa
 [06May2025 20:53:46.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> entra a discord y te explico mejor xd
 [06May2025 20:55:05.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [moltgames: Teleported moltgames to Rukasu2903]
+[06May2025 20:58:43.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Take Aim]
+[06May2025 20:59:10.832] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: moltgames lost connection: Disconnected
+[06May2025 20:59:10.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames left the game
+[06May2025 20:59:18.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Set own game mode to Creative Mode]
+[06May2025 20:59:37.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Set own game mode to Survival Mode]
+[06May2025 21:02:44.018] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5d8dd3e9
+[06May2025 21:02:44.113] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[06May2025 21:02:44.185] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[06May2025 21:02:44.186] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: moltgames[/127.253.25.70:51881] logged in with entity id 9943 at (-639.9700861775792, 64.0, -529.4661052435937)
+[06May2025 21:02:44.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames joined the game
+[06May2025 21:02:44.204] [Server thread/INFO] [tac/]: PENDING
+[06May2025 21:02:44.265] [Server thread/INFO] [Waila/]: Syncing config to moltgames (b8a71927-0368-394c-a424-6af0f16fdf64)
+[06May2025 21:03:36.529] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: moltgames lost connection: Disconnected
+[06May2025 21:03:36.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames left the game
+[06May2025 21:06:33.111] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6f00219b
+[06May2025 21:06:33.226] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[06May2025 21:06:33.293] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[06May2025 21:06:33.294] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: moltgames[/127.253.25.70:39721] logged in with entity id 11220 at (-639.9700861775792, 64.0, -529.4661052435937)
+[06May2025 21:06:33.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames joined the game
+[06May2025 21:06:33.310] [Server thread/INFO] [tac/]: PENDING
+[06May2025 21:06:33.328] [Server thread/INFO] [Waila/]: Syncing config to moltgames (b8a71927-0368-394c-a424-6af0f16fdf64)
+[06May2025 21:06:46.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Teleported Rukasu2903 to moltgames]

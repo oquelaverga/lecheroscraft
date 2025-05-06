@@ -16237,3 +16237,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [06May2025 17:52:58.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 was shot by Stymphalian Bird
 [06May2025 17:52:58.219] [Server thread/DEBUG] [tombstone/]: A new grave of the player Rukasu2903 was created at position [x:-995, y:63, z:-1454, dim:minecraft:overworld]
 [06May2025 17:52:58.225] [Server thread/INFO] [tombstone/]: The player Rukasu2903 has successfully been saved
+[06May2025 17:54:41.534] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06May2025 17:54:41.550] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06May2025 17:54:58.659] [Server thread/INFO] [tac/]: PENDING
+[06May2025 17:54:58.690] [Server thread/DEBUG] [twilightforest/]: Player Rukasu2903 (eeabb16a-5f03-3471-a099-3b18e5e1cf3c) respawned and received items held in storage
+[06May2025 17:54:59.568] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.42 and blood value 2 for entity mysticalworld:beetle
+[06May2025 17:54:59.568] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.42 and blood value 2 for entity mysticalworld:beetle
+[06May2025 17:54:59.568] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.39 and blood value 2 for entity alexsmobs:tasmanian_devil
+[06May2025 17:57:14.668] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Toolsmith'/13462, l='ServerLevel[world]', x=-1067.88, y=69.41, z=-1575.33] died, message: 'Toolsmith was slain by Fire Dragon'
+[06May2025 17:57:20.617] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/13519, l='ServerLevel[world]', x=-1069.43, y=66.00, z=-1595.07] died, message: 'Villager was turned into KFC by Fire Dragon'
+[06May2025 17:57:27.364] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/13319, l='ServerLevel[world]', x=-1062.52, y=69.41, z=-1569.30] died, message: 'Farmer was slain by Fire Dragon'
+[06May2025 17:57:35.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [Ambush]
+[06May2025 17:58:34.765] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/13881, l='ServerLevel[world]', x=-1058.48, y=67.00, z=-1598.48] died, message: 'Villager was burnt to a crisp whilst fighting Fire Dragon'
+[06May2025 17:59:41.617] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06May2025 17:59:41.636] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06May2025 18:00:04.263] [Worker-Main-83/DEBUG] [betterdungeons/]: Small Dungeon at -1251 35 -1873
+[06May2025 18:01:34.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [A Strange Grave Dust]
+[06May2025 18:02:09.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [Knowledge raises the soul]

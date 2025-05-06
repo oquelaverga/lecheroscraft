@@ -12707,6 +12707,12 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/tool_forge": {
+    "criteria": {
+      "sledge_hammer": "2025-05-06 21:28:35 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:02 +0000"

@@ -15115,6 +15115,12 @@
     },
     "done": true
   },
+  "tconstruct:world/sky_island": {
+    "criteria": {
+      "found_island": "2025-05-06 18:31:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:14 +0000"
@@ -16486,15 +16492,22 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-05-06 17:44:17 +0000",
+      "seasonal_pumpkin_patch": "2025-05-06 18:30:39 +0000",
       "shrubland": "2025-05-02 02:43:14 +0000",
       "lush_savanna": "2025-05-02 03:13:54 +0000",
+      "highland": "2025-05-06 18:29:30 +0000",
+      "marsh": "2025-05-06 18:29:20 +0000",
       "orchard": "2025-05-06 02:21:06 +0000",
       "dryland": "2025-05-02 03:05:10 +0000",
       "wasteland": "2025-05-02 03:14:58 +0000",
       "lush_desert": "2025-05-02 03:14:05 +0000",
+      "seasonal_orchard": "2025-05-06 18:30:02 +0000",
+      "seasonal_forest": "2025-05-06 18:30:03 +0000",
       "dense_woodland": "2025-05-06 17:42:39 +0000",
       "dead_forest": "2025-05-06 02:34:17 +0000",
-      "shrubland_hills": "2025-05-02 03:27:55 +0000"
+      "shrubland_hills": "2025-05-02 03:27:55 +0000",
+      "dense_marsh": "2025-05-06 18:29:29 +0000",
+      "gravel_beach": "2025-05-06 18:34:27 +0000"
     },
     "done": false
   },
@@ -23654,13 +23667,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-05-06 18:34:21 +0000",
       "minecraft:mountains": "2025-05-06 02:35:04 +0000",
+      "minecraft:forest": "2025-05-06 18:30:25 +0000",
       "minecraft:taiga": "2025-05-06 02:38:31 +0000",
       "minecraft:giant_tree_taiga": "2025-05-06 02:38:40 +0000",
+      "minecraft:deep_cold_ocean": "2025-05-06 18:34:36 +0000",
       "minecraft:birch_forest": "2025-05-02 03:05:37 +0000",
       "minecraft:savanna_plateau": "2025-05-02 03:13:09 +0000",
       "minecraft:river": "2025-05-02 03:05:34 +0000",
       "minecraft:snowy_taiga": "2025-05-06 02:38:55 +0000",
+      "minecraft:wooded_mountains": "2025-05-06 18:35:47 +0000",
+      "minecraft:wooded_hills": "2025-05-06 18:32:28 +0000",
       "minecraft:snowy_taiga_hills": "2025-05-06 02:58:11 +0000",
       "minecraft:savanna": "2025-05-02 02:58:07 +0000",
       "minecraft:plains": "2025-05-06 02:21:18 +0000"

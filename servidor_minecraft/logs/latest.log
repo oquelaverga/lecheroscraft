@@ -3795,3 +3795,62 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [06May2025 01:38:35.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> y eploto
 [06May2025 01:38:51.013] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Rukasu2903 lost connection: Disconnected
 [06May2025 01:38:51.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 left the game
+[06May2025 01:43:09.492] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@a420bc6
+[06May2025 01:43:09.571] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[06May2025 01:43:09.627] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[06May2025 01:43:09.628] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Rukasu2903[/127.160.233.57:60551] logged in with entity id 2115 at (-560.5178683057288, 65.0, -498.76686489243946)
+[06May2025 01:43:09.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 joined the game
+[06May2025 01:43:09.644] [Server thread/INFO] [tac/]: PENDING
+[06May2025 01:43:09.688] [Server thread/INFO] [Waila/]: Syncing config to Rukasu2903 (eeabb16a-5f03-3471-a099-3b18e5e1cf3c)
+[06May2025 01:43:45.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> checate eta
+[06May2025 01:43:52.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> espera
+[06May2025 01:43:55.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Set own game mode to Spectator Mode]
+[06May2025 01:43:57.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> ahora si
+[06May2025 01:43:57.849] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@48343c65
+[06May2025 01:43:57.922] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[06May2025 01:43:57.973] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[06May2025 01:43:57.973] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Oasins[/127.243.100.200:60199] logged in with entity id 2148 at (-674.5, 65.0, -477.5)
+[06May2025 01:43:57.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins joined the game
+[06May2025 01:43:57.988] [Server thread/INFO] [tac/]: PENDING
+[06May2025 01:43:58.022] [Server thread/INFO] [Waila/]: Syncing config to Oasins (b0ca8948-c238-3f8b-97ac-0b3bcdd2cbb5)
+[06May2025 01:44:06.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> aqui esta el arco bugeado
+[06May2025 01:44:27.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Set own game mode to Survival Mode]
+[06May2025 01:44:36.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> ahora si
+[06May2025 01:44:41.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> observer
+[06May2025 01:44:57.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> wais
+[06May2025 01:44:59.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> waos
+[06May2025 01:45:14.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> ah sos un
+[06May2025 01:46:04.927] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> tenes semillas we?
+[06May2025 01:46:08.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> non
+[06May2025 01:46:25.113] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Rukasu2903 lost connection: Timed out
+[06May2025 01:46:25.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 left the game
+[06May2025 01:46:25.210] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[06May2025 01:46:28.315] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Oasins lost connection: Timed out
+[06May2025 01:46:28.315] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins left the game
+[06May2025 01:46:45.433] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2164a6ac
+[06May2025 01:46:45.507] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[06May2025 01:46:45.561] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[06May2025 01:46:45.562] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Rukasu2903[/127.160.233.57:56323] logged in with entity id 2631 at (-600.697019443819, 67.7531999805212, -521.2697558792353)
+[06May2025 01:46:45.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 joined the game
+[06May2025 01:46:45.575] [Server thread/INFO] [tac/]: PENDING
+[06May2025 01:46:45.612] [Server thread/INFO] [Waila/]: Syncing config to Rukasu2903 (eeabb16a-5f03-3471-a099-3b18e5e1cf3c)
+[06May2025 01:46:53.660] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@2ec47c98[id=<null>,name=Oasins,properties={},legacy=false] (/127.243.100.200:46091) lost connection: Disconnected
+[06May2025 01:47:27.593] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@57932da6
+[06May2025 01:47:27.682] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[06May2025 01:47:27.727] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[06May2025 01:47:27.728] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Oasins[/127.243.100.200:58627] logged in with entity id 2688 at (-677.4389491558866, 64.0, -449.26846753097595)
+[06May2025 01:47:27.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins joined the game
+[06May2025 01:47:27.744] [Server thread/INFO] [tac/]: PENDING
+[06May2025 01:47:27.782] [Server thread/INFO] [Waila/]: Syncing config to Oasins (b0ca8948-c238-3f8b-97ac-0b3bcdd2cbb5)
+[06May2025 01:48:22.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> tenes para hacer otro de esos picos ? necesito bastante hierro
+[06May2025 01:48:36.714] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> si,pero ta dificil
+[06May2025 01:48:44.218] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> requiero una cabeza de mob
+[06May2025 01:48:48.271] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> al menos tenes hierro como para un bloque?
+[06May2025 01:48:49.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> un disco
+[06May2025 01:48:54.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> si tengo
+[06May2025 01:49:02.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> presta pa la orquesta
+[06May2025 01:49:15.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> gracias we
+[06May2025 01:51:26.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> a que chistoso
+[06May2025 01:51:47.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> tienes dos de hierro we?
+[06May2025 01:52:17.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> gracias we toma
+[06May2025 01:52:22.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> Ñom

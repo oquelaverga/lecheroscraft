@@ -1115,6 +1115,12 @@
     },
     "done": true
   },
+  "tac:recipes/tac/light_armor": {
+    "criteria": {
+      "has_iron": "2025-05-06 01:49:10 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/blazeblock_deconstruct": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:13 +0000"
@@ -6294,6 +6300,12 @@
     },
     "done": true
   },
+  "tac:recipes/tac/medium_steel_armor": {
+    "criteria": {
+      "has_iron": "2025-05-06 01:49:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:09 +0000"
@@ -7527,6 +7539,12 @@
   "securitycraft:recipes/securitycraft/reinforced_acacia_wood": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:10 +0000"
+    },
+    "done": true
+  },
+  "tac:recipes/tac/light_armor_plate": {
+    "criteria": {
+      "has_iron": "2025-05-06 01:49:10 +0000"
     },
     "done": true
   },
@@ -18380,6 +18398,12 @@
   "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:11 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/structure": {
+    "criteria": {
+      "open_smeltery": "2025-05-06 01:45:26 +0000"
     },
     "done": true
   },

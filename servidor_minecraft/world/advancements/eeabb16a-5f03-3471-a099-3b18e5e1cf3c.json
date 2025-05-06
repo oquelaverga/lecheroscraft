@@ -1697,6 +1697,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-05-06 18:01:34 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/terrasteel_block": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:12 +0000"
@@ -3715,6 +3721,7 @@
       "minecraft:creeper": "2025-05-05 22:30:17 +0000",
       "minecraft:husk": "2025-05-06 02:01:42 +0000",
       "minecraft:cave_spider": "2025-05-06 17:50:42 +0000",
+      "minecraft:stray": "2025-05-06 18:07:52 +0000",
       "minecraft:zombie": "2025-05-06 02:00:08 +0000",
       "minecraft:drowned": "2025-05-06 17:40:42 +0000"
     },
@@ -13230,6 +13237,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-05-06 18:07:19 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/terra_sword": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:11 +0000"
@@ -15813,6 +15826,12 @@
   "botania:recipes/botania/drum_gathering": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-06 18:02:09 +0000"
     },
     "done": true
   },

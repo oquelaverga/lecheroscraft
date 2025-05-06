@@ -16254,3 +16254,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [06May2025 18:00:04.263] [Worker-Main-83/DEBUG] [betterdungeons/]: Small Dungeon at -1251 35 -1873
 [06May2025 18:01:34.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [A Strange Grave Dust]
 [06May2025 18:02:09.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [Knowledge raises the soul]
+[06May2025 18:04:41.565] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06May2025 18:04:41.584] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06May2025 18:06:13.303] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 94ab7287-d8dc-454c-ac07-42289b27f749. Existing mod_lavacow:raven#14972, new: mod_lavacow:raven#14972
+[06May2025 18:07:19.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [Suit Up]
+[06May2025 18:08:40.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 was shot by Stray
+[06May2025 18:08:40.335] [Server thread/DEBUG] [tombstone/]: A new grave of the player Rukasu2903 was created at position [x:-925, y:33, z:-1437, dim:minecraft:overworld]
+[06May2025 18:08:40.339] [Server thread/INFO] [tombstone/]: The player Rukasu2903 has successfully been saved
+[06May2025 18:08:41.523] [Server thread/INFO] [tac/]: PENDING
+[06May2025 18:08:41.557] [Server thread/DEBUG] [twilightforest/]: Player Rukasu2903 (eeabb16a-5f03-3471-a099-3b18e5e1cf3c) respawned and received items held in storage
+[06May2025 18:08:42.612] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[06May2025 18:08:42.612] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[06May2025 18:08:42.612] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[06May2025 18:08:42.613] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[06May2025 18:08:42.613] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[06May2025 18:09:41.490] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06May2025 18:09:41.508] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06May2025 18:14:41.578] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06May2025 18:14:41.595] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

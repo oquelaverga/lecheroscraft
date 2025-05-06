@@ -3824,3 +3824,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [06May2025 17:58:34.765] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/13881, l='ServerLevel[world]', x=-1058.48, y=67.00, z=-1598.48] died, message: 'Villager was burnt to a crisp whilst fighting Fire Dragon'
 [06May2025 18:01:34.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [A Strange Grave Dust]
 [06May2025 18:02:09.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [Knowledge raises the soul]
+[06May2025 18:06:13.303] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 94ab7287-d8dc-454c-ac07-42289b27f749. Existing mod_lavacow:raven#14972, new: mod_lavacow:raven#14972
+[06May2025 18:07:19.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [Suit Up]
+[06May2025 18:08:40.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 was shot by Stray
+[06May2025 18:08:40.339] [Server thread/INFO] [tombstone/]: The player Rukasu2903 has successfully been saved
+[06May2025 18:08:41.523] [Server thread/INFO] [tac/]: PENDING

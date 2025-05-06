@@ -3784,3 +3784,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [06May2025 17:16:13.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [Sky of Beginning]
 [06May2025 17:25:04.673] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@720e8d1
 [06May2025 17:33:02.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Set own game mode to Survival Mode]
+[06May2025 17:35:03.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Gave 1    [Sapphire] to Rukasu2903]
+[06May2025 17:38:07.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Set the weather to clear]
+[06May2025 17:40:19.939] [Worker-Main-89/INFO] [ObserverLib/]: Load CachedWorldData 'rock-crystals' for world minecraft:overworld
+[06May2025 17:40:19.974] [Worker-Main-89/INFO] [ObserverLib/]: Loading of 'rock-crystals' for world minecraft:overworld finished.
+[06May2025 17:42:01.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [Ashes 'n Bones]

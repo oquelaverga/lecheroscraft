@@ -12738,3 +12738,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [06May2025 17:29:41.467] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [06May2025 17:29:41.484] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [06May2025 17:33:02.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Set own game mode to Survival Mode]
+[06May2025 17:34:41.370] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06May2025 17:34:41.389] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06May2025 17:35:03.468] [Server thread/DEBUG] [mixin/]: Mixing ItemInputMixin from tombstone.mixins.json into net.minecraft.command.arguments.ItemInput
+[06May2025 17:35:03.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Gave 1    [Sapphire] to Rukasu2903]
+[06May2025 17:36:03.420] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.22 and blood value 0 for entity mysticalworld:owl
+[06May2025 17:36:15.220] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 0 for entity iceandfire:fire_dragon
+[06May2025 17:36:17.847] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.0 and blood value 0 for entity quark:toretoise
+[06May2025 17:38:07.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Set the weather to clear]
+[06May2025 17:39:41.706] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06May2025 17:39:41.725] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06May2025 17:40:14.749] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.18 and blood value 15 for entity alexsmobs:emu
+[06May2025 17:40:14.750] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.18 and blood value 15 for entity alexsmobs:emu
+[06May2025 17:40:14.750] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.18 and blood value 15 for entity alexsmobs:emu
+[06May2025 17:40:14.750] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.18 and blood value 15 for entity alexsmobs:emu
+[06May2025 17:40:15.421] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.1 and blood value 0 for entity exoticbirds:budgerigar
+[06May2025 17:40:19.939] [Worker-Main-89/INFO] [ObserverLib/]: Load CachedWorldData 'rock-crystals' for world minecraft:overworld
+[06May2025 17:40:19.974] [Worker-Main-89/INFO] [ObserverLib/]: Loading of 'rock-crystals' for world minecraft:overworld finished.
+[06May2025 17:40:57.828] [Worker-Main-84/DEBUG] [betterdungeons/]: Small Dungeon at -143 32 -1433
+[06May2025 17:40:59.491] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.86 and blood value 6 for entity iceandfire:cockatrice
+[06May2025 17:40:59.492] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.86 and blood value 6 for entity iceandfire:cockatrice
+[06May2025 17:42:01.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [Ashes 'n Bones]

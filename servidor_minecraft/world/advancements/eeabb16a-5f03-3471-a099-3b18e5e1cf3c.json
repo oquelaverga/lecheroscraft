@@ -14764,6 +14764,12 @@
     },
     "done": true
   },
+  "mod_lavacow:recipe/feather_black": {
+    "criteria": {
+      "has_item": "2025-05-06 21:55:12 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/glass/cyan_clear_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:12 +0000"
@@ -23761,6 +23767,7 @@
       "minecraft:taiga": "2025-05-06 02:38:31 +0000",
       "minecraft:giant_tree_taiga": "2025-05-06 02:38:40 +0000",
       "minecraft:deep_cold_ocean": "2025-05-06 18:34:36 +0000",
+      "minecraft:taiga_hills": "2025-05-06 21:54:56 +0000",
       "minecraft:birch_forest": "2025-05-02 03:05:37 +0000",
       "minecraft:savanna_plateau": "2025-05-02 03:13:09 +0000",
       "minecraft:river": "2025-05-02 03:05:34 +0000",

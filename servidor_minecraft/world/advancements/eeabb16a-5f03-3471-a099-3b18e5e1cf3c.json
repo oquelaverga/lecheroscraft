@@ -7858,6 +7858,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-05-06 21:08:00 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/cosmetic_devil_tail": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:11 +0000"
@@ -17828,6 +17834,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-05-06 21:08:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_granite_wall": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:10 +0000"
@@ -19916,6 +19928,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-05-06 21:08:00 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/conversions/cyan_petal_block_deconstruct": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:13 +0000"
@@ -21283,6 +21301,12 @@
   "botania:recipes/botania/slab_recombine/metamorphic_mesa_bricks": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:13 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:foundry/encyclopedia": {
+    "criteria": {
+      "crafted_book": "2025-05-06 21:11:47 +0000"
     },
     "done": true
   },

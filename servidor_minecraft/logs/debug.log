@@ -15407,3 +15407,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [06May2025 21:06:33.310] [Server thread/INFO] [tac/]: PENDING
 [06May2025 21:06:33.328] [Server thread/INFO] [Waila/]: Syncing config to moltgames (b8a71927-0368-394c-a424-6af0f16fdf64)
 [06May2025 21:06:46.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Teleported Rukasu2903 to moltgames]
+[06May2025 21:07:24.996] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.49 and blood value 3 for entity exoticbirds:swan
+[06May2025 21:07:46.393] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [moltgames: Teleported moltgames to Rukasu2903]
+[06May2025 21:07:50.077] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06May2025 21:07:50.095] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06May2025 21:08:00.833] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [How'd You Get This?]
+[06May2025 21:08:00.833] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [It Certainly Seems Rare...]
+[06May2025 21:08:00.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [A Stunning Fixation]
+[06May2025 21:08:57.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames was annihilated by Rukasu2903
+[06May2025 21:08:57.347] [Server thread/DEBUG] [tombstone/]: A new grave of the player moltgames was created at position [x:-699, y:62, z:-583, dim:minecraft:overworld]
+[06May2025 21:08:57.375] [Server thread/INFO] [tombstone/]: The player moltgames has successfully been saved
+[06May2025 21:08:58.641] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: moltgames has new faction level vampirism:vampire 4
+[06May2025 21:08:58.652] [Server thread/INFO] [tac/]: PENDING
+[06May2025 21:08:58.680] [Server thread/DEBUG] [twilightforest/]: Player moltgames (b8a71927-0368-394c-a424-6af0f16fdf64) respawned and received items held in storage
+[06May2025 21:09:03.243] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.96 and blood value 6 for entity alexsmobs:shoebill
+[06May2025 21:09:03.295] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.96 and blood value 6 for entity alexsmobs:shoebill
+[06May2025 21:09:04.118] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.61 and blood value 4 for entity exoticbirds:flamingo
+[06May2025 21:09:34.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [moltgames: Teleported moltgames to Rukasu2903]
+[06May2025 21:11:47.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has reached the goal [Encyclopedia]
+[06May2025 21:12:50.144] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06May2025 21:12:50.165] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06May2025 21:17:28.012] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for TranslatableComponent{key='entity.minecraft.zombified_piglin', args=[], siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}

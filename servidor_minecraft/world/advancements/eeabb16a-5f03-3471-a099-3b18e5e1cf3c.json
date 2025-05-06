@@ -5490,6 +5490,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-05-06 01:32:07 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/securitycraft/keycard_lv2": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:13 +0000"
@@ -23605,6 +23611,12 @@
   "cfm:recipes/cfm/stripped_dark_oak_crate": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-06 01:32:07 +0000"
     },
     "done": true
   },

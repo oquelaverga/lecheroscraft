@@ -3781,3 +3781,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [06May2025 01:26:06.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Set own game mode to Creative Mode]
 [06May2025 01:29:02.732] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching CombatRules#getDamageAfterMagicAbsorb
 [06May2025 01:32:07.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [A Seedy Place]
+[06May2025 01:33:43.814] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1056a89f
+[06May2025 01:37:37.926] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4c335d3b
+[06May2025 01:37:38.020] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[06May2025 01:37:38.073] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[06May2025 01:37:38.074] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: moltgames[/127.253.25.70:50573] logged in with entity id 1874 at (-562.9373052889439, 64.0, -499.74565938334547)
+[06May2025 01:37:38.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames joined the game
+[06May2025 01:37:38.093] [Server thread/INFO] [tac/]: PENDING
+[06May2025 01:37:38.146] [Server thread/INFO] [Waila/]: Syncing config to moltgames (b8a71927-0368-394c-a424-6af0f16fdf64)
+[06May2025 01:37:38.369] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 0f65151a-3fa3-4820-bfe0-1f464f86b4ca. Existing mod_lavacow:raven#1896, new: mod_lavacow:raven#1896
+[06May2025 01:37:59.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> we creo que arregle el bug del arco
+[06May2025 01:38:21.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> aver tire el arco
+[06May2025 01:38:35.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> y eploto
+[06May2025 01:38:51.013] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Rukasu2903 lost connection: Disconnected
+[06May2025 01:38:51.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 left the game

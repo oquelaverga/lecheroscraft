@@ -9040,6 +9040,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-06 20:34:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:12 +0000"
@@ -19712,6 +19718,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/part_builder": {
+    "criteria": {
+      "crafted_block": "2025-05-06 20:33:39 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/metamorphic_plains_bricks_wall": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:10 +0000"
@@ -23512,6 +23524,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-06 20:39:02 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/dead_slab": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:13 +0000"
@@ -25010,6 +25028,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:13 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/tinker_station": {
+    "criteria": {
+      "crafted_block": "2025-05-06 20:33:35 +0000"
     },
     "done": true
   },

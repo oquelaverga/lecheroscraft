@@ -14080,3 +14080,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [06May2025 20:32:50.168] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [06May2025 20:32:50.192] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [06May2025 20:34:37.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [Ice Bucket Challenge]
+[06May2025 20:37:49.794] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06May2025 20:37:49.815] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06May2025 20:39:02.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [Amateur Archaeologist]
+[06May2025 20:40:26.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Set own game mode to Survival Mode]
+[06May2025 20:41:51.093] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.4 and blood value 2 for entity exoticbirds:heron
+[06May2025 20:41:51.093] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.4 and blood value 2 for entity exoticbirds:heron
+[06May2025 20:41:51.583] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.4 and blood value 2 for entity exoticbirds:heron
+[06May2025 20:41:51.583] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.4 and blood value 2 for entity exoticbirds:heron
+[06May2025 20:41:52.931] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.1 and blood value 0 for entity exoticbirds:budgerigar
+[06May2025 20:41:59.424] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.13 and blood value 0 for entity exoticbirds:kookaburra
+[06May2025 20:42:01.347] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.08 and blood value 0 for entity exoticbirds:gouldianfinch
+[06May2025 20:42:06.501] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 0 for entity iceandfire:fire_dragon
+[06May2025 20:42:50.060] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06May2025 20:42:50.081] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06May2025 20:42:55.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [Fluorite Ore]

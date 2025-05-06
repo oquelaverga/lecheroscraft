@@ -3789,3 +3789,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [06May2025 20:39:02.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [Amateur Archaeologist]
 [06May2025 20:40:26.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Set own game mode to Survival Mode]
 [06May2025 20:42:55.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [Fluorite Ore]
+[06May2025 20:47:08.872] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Scribe'/6655, l='ServerLevel[world]', x=259.95, y=73.00, z=-661.50] died, message: 'Scribe went up in flames'
+[06May2025 20:47:30.523] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/6701, l='ServerLevel[world]', x=268.07, y=70.00, z=-700.95] died, message: 'Villager was slain by Fire Dragon'
+[06May2025 20:51:34.379] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@392ff926
+[06May2025 20:51:34.489] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[06May2025 20:51:34.563] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[06May2025 20:51:34.564] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: moltgames[/127.253.25.70:56871] logged in with entity id 9233 at (-561.7986866838396, 65.16610926093821, -499.24536861875833)
+[06May2025 20:51:34.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames joined the game
+[06May2025 20:51:34.583] [Server thread/INFO] [tac/]: PENDING
+[06May2025 20:51:34.635] [Server thread/INFO] [Waila/]: Syncing config to moltgames (b8a71927-0368-394c-a424-6af0f16fdf64)
+[06May2025 20:51:42.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> oye we
+[06May2025 20:51:46.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> tengo una pregunta
+[06May2025 20:52:24.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> cual
+[06May2025 20:52:41.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> cuales son los mejores liquidos que te puede dar el tinkers?
+[06May2025 20:52:47.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> si
+[06May2025 20:52:53.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> es que le puse ores de otros mods a mi cacharro
+[06May2025 20:52:59.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> y no se que hace cada cosa
+[06May2025 20:53:46.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> entra a discord y te explico mejor xd
+[06May2025 20:55:05.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [moltgames: Teleported moltgames to Rukasu2903]

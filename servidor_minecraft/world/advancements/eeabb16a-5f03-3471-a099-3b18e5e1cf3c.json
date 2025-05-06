@@ -4114,6 +4114,12 @@
     },
     "done": true
   },
+  "electrodynamics:rawfluorite": {
+    "criteria": {
+      "HasRawOre": "2025-05-06 20:42:55 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/cosmetic_thick_eyebrows": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:11 +0000"

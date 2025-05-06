@@ -6776,6 +6776,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-05-06 17:09:08 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/lens_phantom": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:13 +0000"

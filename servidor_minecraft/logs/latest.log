@@ -3780,3 +3780,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [06May2025 16:37:08.474] [Server thread/INFO] [tac/]: PENDING
 [06May2025 16:37:08.609] [Server thread/INFO] [Waila/]: Syncing config to Rukasu2903 (eeabb16a-5f03-3471-a099-3b18e5e1cf3c)
 [06May2025 16:39:16.647] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching CombatRules#getDamageAfterMagicAbsorb
+[06May2025 17:09:08.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [Hot Stuff]

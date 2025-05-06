@@ -3709,10 +3709,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-05-06 17:42:01 +0000",
       "minecraft:spider": "2025-05-02 02:56:34 +0000",
       "minecraft:creeper": "2025-05-05 22:30:17 +0000",
       "minecraft:husk": "2025-05-06 02:01:42 +0000",
-      "minecraft:zombie": "2025-05-06 02:00:08 +0000"
+      "minecraft:zombie": "2025-05-06 02:00:08 +0000",
+      "minecraft:drowned": "2025-05-06 17:40:42 +0000"
     },
     "done": false
   },
@@ -9623,6 +9625,12 @@
   "cfm:recipes/cfm/oak_bedside_cabinet": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:12 +0000"
+    },
+    "done": true
+  },
+  "mod_lavacow:recipe/ghoul_claw": {
+    "criteria": {
+      "has_item": "2025-05-06 17:45:11 +0000"
     },
     "done": true
   },
@@ -16456,12 +16464,14 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-05-06 17:44:17 +0000",
       "shrubland": "2025-05-02 02:43:14 +0000",
       "lush_savanna": "2025-05-02 03:13:54 +0000",
       "orchard": "2025-05-06 02:21:06 +0000",
       "dryland": "2025-05-02 03:05:10 +0000",
       "wasteland": "2025-05-02 03:14:58 +0000",
       "lush_desert": "2025-05-02 03:14:05 +0000",
+      "dense_woodland": "2025-05-06 17:42:39 +0000",
       "dead_forest": "2025-05-06 02:34:17 +0000",
       "shrubland_hills": "2025-05-02 03:27:55 +0000"
     },
@@ -24891,6 +24901,12 @@
   "vampirism:recipes/vampirism/alchemy_table/evasion_oil": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-06 17:42:01 +0000"
     },
     "done": true
   },

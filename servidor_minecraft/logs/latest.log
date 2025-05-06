@@ -3789,3 +3789,30 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [06May2025 17:40:19.939] [Worker-Main-89/INFO] [ObserverLib/]: Load CachedWorldData 'rock-crystals' for world minecraft:overworld
 [06May2025 17:40:19.974] [Worker-Main-89/INFO] [ObserverLib/]: Loading of 'rock-crystals' for world minecraft:overworld finished.
 [06May2025 17:42:01.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [Ashes 'n Bones]
+[06May2025 17:44:37.891] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-512, y=0, z=-1405} but found not block entity block Block{minecraft:bedrock} at location
+[06May2025 17:44:37.891] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-512, y=0, z=-1405}
+[06May2025 17:44:37.924] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-526, y=0, z=-1407} but found not block entity block Block{minecraft:bedrock} at location
+[06May2025 17:44:37.924] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-526, y=0, z=-1407}
+[06May2025 17:44:37.925] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-522, y=0, z=-1407} but found not block entity block Block{minecraft:bedrock} at location
+[06May2025 17:44:37.925] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-522, y=0, z=-1407}
+[06May2025 17:44:37.981] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-537, y=0, z=-1405} but found not block entity block Block{minecraft:bedrock} at location
+[06May2025 17:44:37.981] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-537, y=0, z=-1405}
+[06May2025 17:44:38.322] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-531, y=0, z=-1409} but found not block entity block Block{minecraft:bedrock} at location
+[06May2025 17:44:38.323] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-531, y=0, z=-1409}
+[06May2025 17:44:38.323] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-531, y=0, z=-1419} but found not block entity block Block{minecraft:bedrock} at location
+[06May2025 17:44:38.323] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-531, y=0, z=-1419}
+[06May2025 17:44:38.323] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-531, y=0, z=-1415} but found not block entity block Block{minecraft:bedrock} at location
+[06May2025 17:44:38.323] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-531, y=0, z=-1415}
+[06May2025 17:44:38.323] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-535, y=0, z=-1413} but found not block entity block Block{minecraft:bedrock} at location
+[06May2025 17:44:38.324] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-535, y=0, z=-1413}
+[06May2025 17:44:39.086] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-590, y=27, z=-1425}
+[06May2025 17:47:11.920] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Set own game mode to Creative Mode]
+[06May2025 17:47:11.968] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/9844, l='ServerLevel[world]', x=-654.06, y=70.00, z=-1668.74]
+[06May2025 17:51:18.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Set own game mode to Survival Mode]
+[06May2025 17:51:30.065] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/11391, l='ServerLevel[world]', x=-1121.07, y=64.00, z=-1555.71] died, message: 'Farmer was slain by Fire Dragon'
+[06May2025 17:51:33.116] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/11392, l='ServerLevel[world]', x=-1122.40, y=62.95, z=-1560.68] died, message: 'Villager was turned into KFC by Fire Dragon'
+[06May2025 17:51:44.514] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Fisherman'/11258, l='ServerLevel[world]', x=-1089.96, y=71.41, z=-1587.60] died, message: 'Fisherman was slain by Fire Dragon'
+[06May2025 17:51:53.819] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Hunter Expert'/11277, l='ServerLevel[world]', x=-1094.49, y=73.41, z=-1568.85] died, message: 'Hunter Expert was slain by Fire Dragon'
+[06May2025 17:52:04.317] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/11271, l='ServerLevel[world]', x=-1086.90, y=69.00, z=-1593.47] died, message: 'Villager was incinerated by Fire Dragon'
+[06May2025 17:52:58.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 was shot by Stymphalian Bird
+[06May2025 17:52:58.225] [Server thread/INFO] [tombstone/]: The player Rukasu2903 has successfully been saved

@@ -7866,6 +7866,12 @@
     },
     "done": true
   },
+  "mod_lavacow:mod_lavacow/kill_sludgelord": {
+    "criteria": {
+      "killed": "2025-05-06 22:02:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:00 +0000"
@@ -15758,6 +15764,12 @@
     },
     "done": true
   },
+  "mod_lavacow:recipe/silky_sludge": {
+    "criteria": {
+      "has_item": "2025-05-06 22:02:00 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/smooth_white_sandstone_slab_from_smooth_white_sandstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:02 +0000"
@@ -16794,6 +16806,7 @@
       "shrubland_hills": "2025-05-02 21:59:28 +0000",
       "burnt_forest": "2025-05-02 23:08:27 +0000",
       "dense_marsh": "2025-05-04 21:39:05 +0000",
+      "prairie": "2025-05-06 22:01:18 +0000",
       "snowy_coniferous_forest": "2025-05-05 03:36:44 +0000",
       "gravel_beach": "2025-05-06 21:57:08 +0000",
       "undergrowth": "2025-05-04 20:59:21 +0000"
@@ -18419,6 +18432,12 @@
       "has_the_recipe": "2025-05-02 21:53:01 +0000"
     },
     "done": true
+  },
+  "tconstruct:smeltery/abilities": {
+    "criteria": {
+      "luck": "2025-05-06 22:04:37 +0000"
+    },
+    "done": false
   },
   "botania:recipes/botania/conversions/elementium_block_deconstruct": {
     "criteria": {
@@ -21383,6 +21402,12 @@
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:52:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-05-06 22:02:09 +0000"
     },
     "done": true
   },

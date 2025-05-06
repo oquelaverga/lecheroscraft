@@ -3892,3 +3892,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [06May2025 21:58:00.490] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager ConvertedVillagerEntity['Villager'/23044, l='ServerLevel[world]', x=203.36, y=75.92, z=1057.68] died, message: 'Villager was slain by Frigid'
 [06May2025 21:58:23.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [moltgames: Teleported moltgames to Rukasu2903]
 [06May2025 21:58:29.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [Get it OFFFFF!]
+[06May2025 22:00:04.915] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 58ae5996-479a-46a4-8ffc-d7a5e9a88e32. Existing mod_lavacow:raven#25565, new: mod_lavacow:raven#25565
+[06May2025 22:00:16.514] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID c891e6fc-64f2-4afa-9640-5dbe08966fd9. Existing mod_lavacow:raven#25603, new: mod_lavacow:raven#25603
+[06May2025 22:01:43.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Teleported Rukasu2903 to moltgames]
+[06May2025 22:02:09.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has reached the goal [Bone Crusher]
+[06May2025 22:02:29.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Botany Crisis]
+[06May2025 22:02:52.693] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rukasu2903 moved too quickly! -10.142831106204994,-0.07520089011894271,-1.912769622584392
+[06May2025 22:03:20.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Teleported Rukasu2903 to moltgames]
+[06May2025 22:04:24.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Gave 5    [Mine] to Rukasu2903]
+[06May2025 22:07:59.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 fell from a high place
+[06May2025 22:07:59.219] [Server thread/INFO] [tombstone/]: The player Rukasu2903 has successfully been saved
+[06May2025 22:08:01.936] [Server thread/INFO] [tac/]: PENDING
+[06May2025 22:08:43.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 fell from a high place
+[06May2025 22:08:43.847] [Server thread/INFO] [tombstone/]: The player Rukasu2903 has successfully been saved
+[06May2025 22:08:45.406] [Server thread/INFO] [tac/]: PENDING

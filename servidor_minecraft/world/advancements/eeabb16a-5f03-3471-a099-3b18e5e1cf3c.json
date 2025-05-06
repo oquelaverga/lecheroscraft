@@ -4396,6 +4396,12 @@
     },
     "done": true
   },
+  "mod_lavacow:recipe/chitin": {
+    "criteria": {
+      "has_item": "2025-05-06 21:58:40 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/weapontable/hunter_coat_feet_enhanced": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:13 +0000"
@@ -7561,6 +7567,12 @@
   "securitycraft:recipes/securitycraft/reinforced_mossy_cobblestone": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:11 +0000"
+    },
+    "done": true
+  },
+  "mod_lavacow:mod_lavacow/kill_parasite": {
+    "criteria": {
+      "killed": "2025-05-06 21:58:29 +0000"
     },
     "done": true
   },
@@ -16565,6 +16577,7 @@
       "dead_forest": "2025-05-06 02:34:17 +0000",
       "shrubland_hills": "2025-05-02 03:27:55 +0000",
       "dense_marsh": "2025-05-06 18:29:29 +0000",
+      "prairie": "2025-05-06 22:01:44 +0000",
       "gravel_beach": "2025-05-06 18:34:27 +0000"
     },
     "done": false
@@ -20276,6 +20289,12 @@
       "has_the_recipe": "2025-05-02 02:43:12 +0000"
     },
     "done": true
+  },
+  "mod_lavacow:mod_lavacow/entomophobia": {
+    "criteria": {
+      "mod_lavacow:beelzebub": "2025-05-06 21:58:39 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/cfm/stripped_jungle_table": {
     "criteria": {

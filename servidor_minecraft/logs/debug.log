@@ -17808,3 +17808,73 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [06May2025 21:58:29.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [Get it OFFFFF!]
 [06May2025 21:58:39.796] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.31 and blood value 2 for entity ars_nouveau:summon_wolf
 [06May2025 21:58:39.797] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.31 and blood value 2 for entity ars_nouveau:summon_wolf
+[06May2025 22:00:04.915] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 58ae5996-479a-46a4-8ffc-d7a5e9a88e32. Existing mod_lavacow:raven#25565, new: mod_lavacow:raven#25565
+[06May2025 22:00:16.514] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID c891e6fc-64f2-4afa-9640-5dbe08966fd9. Existing mod_lavacow:raven#25603, new: mod_lavacow:raven#25603
+[06May2025 22:00:30.089] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.13 and blood value 0 for entity mysticalworld:frog
+[06May2025 22:01:14.849] [Worker-Main-133/DEBUG] [betterdungeons/]: Small Dungeon at -1913 16 -1107
+[06May2025 22:01:18.375] [Worker-Main-146/DEBUG] [betterdungeons/]: Small Dungeon at -1897 14 -1225
+[06May2025 22:01:29.720] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.42 and blood value 2 for entity mysticalworld:beetle
+[06May2025 22:01:29.720] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[06May2025 22:01:29.721] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[06May2025 22:01:29.726] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[06May2025 22:01:33.620] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[06May2025 22:01:43.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Teleported Rukasu2903 to moltgames]
+[06May2025 22:02:09.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has reached the goal [Bone Crusher]
+[06May2025 22:02:29.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Botany Crisis]
+[06May2025 22:02:52.623] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06May2025 22:02:52.640] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06May2025 22:02:52.693] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rukasu2903 moved too quickly! -10.142831106204994,-0.07520089011894271,-1.912769622584392
+[06May2025 22:02:57.393] [Worker-Main-142/DEBUG] [betterdungeons/]: Skeleton Dungeon at -1975 13 -1159
+[06May2025 22:02:57.470] [Worker-Main-133/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-113,-66]
+[06May2025 22:02:57.470] [Worker-Main-133/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-113,-66]
+[06May2025 22:02:57.477] [Worker-Main-133/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-113,-65]
+[06May2025 22:02:57.477] [Worker-Main-133/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (-1811 | 31 | -1029)
+[06May2025 22:02:57.478] [Worker-Main-133/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (-1811 | 31 | -1029)
+[06May2025 22:02:57.478] [Worker-Main-133/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (-1807 | 31 | -1028)
+[06May2025 22:02:57.478] [Worker-Main-133/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (-1807 | 31 | -1028)
+[06May2025 22:02:57.480] [Worker-Main-133/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (-1812 | 31 | -1029)
+[06May2025 22:02:57.480] [Worker-Main-133/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (-1812 | 31 | -1029)
+[06May2025 22:02:57.480] [Worker-Main-133/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-113,-65]
+[06May2025 22:02:57.488] [Worker-Main-161/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-113,-64]
+[06May2025 22:02:57.488] [Worker-Main-161/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (-1806 | 36 | -1023)
+[06May2025 22:02:57.488] [Worker-Main-161/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (-1806 | 36 | -1023)
+[06May2025 22:02:57.488] [Worker-Main-161/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (-1811 | 31 | -1017)
+[06May2025 22:02:57.489] [Worker-Main-161/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (-1811 | 31 | -1017)
+[06May2025 22:02:57.489] [Worker-Main-161/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (-1800 | 31 | -1024)
+[06May2025 22:02:57.489] [Worker-Main-161/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (-1800 | 31 | -1024)
+[06May2025 22:02:57.491] [Worker-Main-161/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (-1807 | 31 | -1017)
+[06May2025 22:02:57.491] [Worker-Main-161/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (-1807 | 31 | -1017)
+[06May2025 22:02:57.492] [Worker-Main-161/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (-1812 | 31 | -1029)
+[06May2025 22:02:57.493] [Worker-Main-161/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (-1812 | 31 | -1029)
+[06May2025 22:02:57.493] [Worker-Main-161/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-113,-64]
+[06May2025 22:02:57.501] [Worker-Main-133/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-113,-63]
+[06May2025 22:02:57.501] [Worker-Main-133/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation NONE at (-1821 | 49 | -1002)
+[06May2025 22:02:57.502] [Worker-Main-133/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation NONE at (-1821 | 49 | -1002)
+[06May2025 22:02:57.502] [Worker-Main-133/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-113,-63]
+[06May2025 22:02:57.512] [Worker-Main-133/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-113,-62]
+[06May2025 22:02:57.512] [Worker-Main-133/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation NONE at (-1821 | 49 | -1002)
+[06May2025 22:02:57.512] [Worker-Main-133/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation NONE at (-1821 | 49 | -1002)
+[06May2025 22:02:57.512] [Worker-Main-133/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-113,-62]
+[06May2025 22:02:57.528] [Worker-Main-133/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-113,-61]
+[06May2025 22:02:57.528] [Worker-Main-133/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-113,-61]
+[06May2025 22:02:57.543] [Worker-Main-146/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-113,-60]
+[06May2025 22:02:57.543] [Worker-Main-146/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-113,-60]
+[06May2025 22:02:57.700] [Worker-Main-146/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-113,-59]
+[06May2025 22:02:57.700] [Worker-Main-146/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-113,-59]
+[06May2025 22:02:57.755] [Worker-Main-142/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-113,-58]
+[06May2025 22:02:57.755] [Worker-Main-142/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-113,-58]
+[06May2025 22:03:01.129] [Worker-Main-161/DEBUG] [betterdungeons/]: Spider Dungeon at -1903 42 -1293
+[06May2025 22:03:20.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Teleported Rukasu2903 to moltgames]
+[06May2025 22:04:24.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Gave 5    [Mine] to Rukasu2903]
+[06May2025 22:07:52.122] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06May2025 22:07:52.141] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06May2025 22:07:59.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 fell from a high place
+[06May2025 22:07:59.218] [Server thread/DEBUG] [tombstone/]: A new grave of the player Rukasu2903 was created at position [x:-629, y:52, z:-485, dim:minecraft:overworld]
+[06May2025 22:07:59.219] [Server thread/INFO] [tombstone/]: The player Rukasu2903 has successfully been saved
+[06May2025 22:08:01.936] [Server thread/INFO] [tac/]: PENDING
+[06May2025 22:08:01.970] [Server thread/DEBUG] [twilightforest/]: Player Rukasu2903 (eeabb16a-5f03-3471-a099-3b18e5e1cf3c) respawned and received items held in storage
+[06May2025 22:08:43.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 fell from a high place
+[06May2025 22:08:43.837] [Server thread/DEBUG] [tombstone/]: A new grave of the player Rukasu2903 was created at position [x:-631, y:9, z:-491, dim:minecraft:overworld]
+[06May2025 22:08:43.847] [Server thread/INFO] [tombstone/]: The player Rukasu2903 has successfully been saved
+[06May2025 22:08:45.406] [Server thread/INFO] [tac/]: PENDING
+[06May2025 22:08:45.442] [Server thread/DEBUG] [twilightforest/]: Player Rukasu2903 (eeabb16a-5f03-3471-a099-3b18e5e1cf3c) respawned and received items held in storage

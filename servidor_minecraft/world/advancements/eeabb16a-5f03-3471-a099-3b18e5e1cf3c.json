@@ -18820,6 +18820,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-05-06 18:18:58 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/silver_spear": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:10 +0000"
@@ -24351,6 +24357,7 @@
       "apple": "2025-05-02 02:52:41 +0000",
       "bread": "2025-05-06 01:51:29 +0000",
       "golden_apple": "2025-05-06 03:06:09 +0000",
+      "golden_carrot": "2025-05-06 18:20:20 +0000",
       "carrot": "2025-05-02 03:56:31 +0000"
     },
     "done": false

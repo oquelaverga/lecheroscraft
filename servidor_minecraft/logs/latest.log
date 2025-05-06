@@ -3829,3 +3829,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [06May2025 18:08:40.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 was shot by Stray
 [06May2025 18:08:40.339] [Server thread/INFO] [tombstone/]: The player Rukasu2903 has successfully been saved
 [06May2025 18:08:41.523] [Server thread/INFO] [tac/]: PENDING
+[06May2025 18:15:07.353] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 01a6894d-60d1-4b03-ab36-903fcf9737c3. Existing mod_lavacow:raven#17064, new: mod_lavacow:raven#17064
+[06May2025 18:16:39.464] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/16751, l='ServerLevel[world]', x=-1130.14, y=63.00, z=-1520.50] died, message: 'Villager was slain by Fire Dragon'
+[06May2025 18:16:51.662] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/16354, l='ServerLevel[world]', x=-1069.12, y=82.00, z=-1566.30] died, message: 'Villager was incinerated by Fire Dragon'
+[06May2025 18:17:02.965] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Toolsmith'/16406, l='ServerLevel[world]', x=-1068.31, y=66.95, z=-1574.78] died, message: 'Toolsmith was turned into KFC by Fire Dragon'
+[06May2025 18:17:04.015] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Scribe'/16404, l='ServerLevel[world]', x=-1076.24, y=65.94, z=-1582.80] died, message: 'Scribe was incinerated by Fire Dragon'
+[06May2025 18:17:05.466] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/17235, l='ServerLevel[world]', x=-1076.50, y=66.00, z=-1575.52] died, message: 'Villager suffocated in a wall'
+[06May2025 18:17:09.669] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/17317, l='ServerLevel[world]', x=-1075.80, y=68.94, z=-1601.82] died, message: 'Villager was turned into KFC by Fire Dragon'
+[06May2025 18:18:58.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [Where Is The Stone Pen?]
+[06May2025 18:20:17.753] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for TranslatableComponent{key='entity.minecraft.zombified_piglin', args=[], siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[06May2025 18:22:25.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Gave 1    [White Bed] to Rukasu2903]
+[06May2025 18:22:36.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Set the weather to clear]
+[06May2025 18:24:03.826] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Gave 20    [Feather] to Rukasu2903]
+[06May2025 18:24:38.676] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Set own game mode to Creative Mode]
+[06May2025 18:24:52.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Set own game mode to Survival Mode]

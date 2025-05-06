@@ -3095,6 +3095,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-05-06 02:58:51 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/common/glass/vanilla/end_crystal": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:09 +0000"
@@ -6806,6 +6812,12 @@
     },
     "done": true
   },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "earth": "2025-05-06 02:52:07 +0000"
+    },
+    "done": false
+  },
   "botania:recipes/botania/pattern_1_2": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:10 +0000"
@@ -6887,6 +6899,12 @@
   "framedblocks:recipes/framed_blocks/framed_vertical_half_stairs": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:13 +0000"
+    },
+    "done": true
+  },
+  "electrodynamics:ores": {
+    "criteria": {
+      "HasWoodenPickaxe": "2025-05-06 02:40:21 +0000"
     },
     "done": true
   },
@@ -8207,6 +8225,12 @@
   "vampirism:recipes/vampirism/weapontable/enhanced_crossbow": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:11 +0000"
+    },
+    "done": true
+  },
+  "tac:recipes/tac/module_item": {
+    "criteria": {
+      "has_diamond": "2025-05-06 02:54:03 +0000"
     },
     "done": true
   },
@@ -11777,6 +11801,12 @@
   "botania:recipes/botania/floating_rafflowsia": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-06 02:54:03 +0000"
     },
     "done": true
   },
@@ -23570,6 +23600,7 @@
       "minecraft:savanna_plateau": "2025-05-02 03:13:09 +0000",
       "minecraft:river": "2025-05-02 03:05:34 +0000",
       "minecraft:snowy_taiga": "2025-05-06 02:38:55 +0000",
+      "minecraft:snowy_taiga_hills": "2025-05-06 02:58:11 +0000",
       "minecraft:savanna": "2025-05-02 02:58:07 +0000",
       "minecraft:plains": "2025-05-06 02:21:18 +0000"
     },
@@ -24261,6 +24292,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-05-06 02:48:53 +0000",
       "apple": "2025-05-02 02:52:41 +0000",
       "bread": "2025-05-06 01:51:29 +0000",
       "carrot": "2025-05-02 03:56:31 +0000"

@@ -11525,6 +11525,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "red": "2025-05-06 02:23:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_acacia_stairs": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:01 +0000"

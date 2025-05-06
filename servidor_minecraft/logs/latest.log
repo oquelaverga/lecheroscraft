@@ -3875,3 +3875,131 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [06May2025 02:12:40.294] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
 [06May2025 02:13:05.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> que haces we
 [06May2025 02:13:06.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> hijo de la verga con razon pedia hierro
+[06May2025 02:13:26.771] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> te salvaste porque no tengo balas
+[06May2025 02:13:35.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> yo me salve
+[06May2025 02:13:40.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> tu sin embargo
+[06May2025 02:14:29.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames was decimated by Rukasu2903
+[06May2025 02:14:29.638] [Server thread/INFO] [tombstone/]: The player moltgames has successfully been saved
+[06May2025 02:14:30.851] [Server thread/INFO] [tac/]: PENDING
+[06May2025 02:14:36.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> a casa
+[06May2025 02:14:48.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> bonk
+[06May2025 02:14:59.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> te salio mal we
+[06May2025 02:15:48.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 drowned
+[06May2025 02:15:48.733] [Server thread/INFO] [tombstone/]: The player Rukasu2903 has successfully been saved
+[06May2025 02:15:51.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> ahora por chistoso exintinguire todos los materiales para hacer el pico chido
+[06May2025 02:16:04.924] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-601, y=48, z=-551} BlockPos{x=-602, y=47, z=-552}
+[06May2025 02:16:31.835] [Server thread/INFO] [tac/]: PENDING
+[06May2025 02:16:31.859] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Copper Ore'/9189, l='ServerLevel[world]', x=-592.93, y=39.00, z=-550.88]
+[06May2025 02:16:37.276] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-579, y=32, z=-552} BlockPos{x=-579, y=31, z=-551}
+[06May2025 02:16:37.328] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-580, y=32, z=-551} BlockPos{x=-579, y=31, z=-551}
+[06May2025 02:16:40.079] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-577, y=31, z=-552} BlockPos{x=-577, y=28, z=-552}
+[06May2025 02:16:40.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> no importa hago otro
+[06May2025 02:16:41.577] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-575, y=29, z=-554} BlockPos{x=-575, y=28, z=-554}
+[06May2025 02:16:41.624] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-575, y=29, z=-554} BlockPos{x=-575, y=28, z=-554}
+[06May2025 02:16:41.686] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-575, y=29, z=-554} BlockPos{x=-575, y=28, z=-554}
+[06May2025 02:16:41.727] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-575, y=29, z=-554} BlockPos{x=-575, y=28, z=-554}
+[06May2025 02:16:41.779] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-575, y=29, z=-554} BlockPos{x=-575, y=28, z=-554}
+[06May2025 02:16:41.827] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-576, y=26, z=-556} BlockPos{x=-575, y=28, z=-554}
+[06May2025 02:16:42.023] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-576, y=26, z=-557} BlockPos{x=-576, y=26, z=-556}
+[06May2025 02:16:46.176] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-576, y=18, z=-558} BlockPos{x=-576, y=19, z=-558}
+[06May2025 02:16:46.230] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-576, y=18, z=-558} BlockPos{x=-576, y=19, z=-558}
+[06May2025 02:16:46.283] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-577, y=18, z=-558} BlockPos{x=-576, y=19, z=-558}
+[06May2025 02:16:46.330] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-577, y=18, z=-558} BlockPos{x=-576, y=19, z=-558}
+[06May2025 02:16:46.375] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-577, y=18, z=-558} BlockPos{x=-576, y=19, z=-558}
+[06May2025 02:16:46.432] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-577, y=18, z=-558} BlockPos{x=-576, y=19, z=-558}
+[06May2025 02:16:46.479] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-577, y=18, z=-558} BlockPos{x=-576, y=19, z=-558}
+[06May2025 02:16:46.526] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-577, y=18, z=-558} BlockPos{x=-576, y=19, z=-558}
+[06May2025 02:16:46.574] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-577, y=18, z=-558} BlockPos{x=-576, y=19, z=-558}
+[06May2025 02:16:46.628] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-577, y=18, z=-558} BlockPos{x=-576, y=19, z=-558}
+[06May2025 02:16:46.681] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-578, y=17, z=-558} BlockPos{x=-576, y=19, z=-558}
+[06May2025 02:16:47.884] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-579, y=16, z=-560} BlockPos{x=-579, y=15, z=-560}
+[06May2025 02:16:47.926] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-579, y=16, z=-560} BlockPos{x=-579, y=15, z=-560}
+[06May2025 02:16:47.984] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-579, y=16, z=-560} BlockPos{x=-579, y=15, z=-560}
+[06May2025 02:16:48.030] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-579, y=16, z=-560} BlockPos{x=-579, y=15, z=-560}
+[06May2025 02:16:48.083] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-579, y=16, z=-560} BlockPos{x=-579, y=15, z=-560}
+[06May2025 02:16:48.129] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-579, y=16, z=-560} BlockPos{x=-579, y=15, z=-560}
+[06May2025 02:18:50.691] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Rukasu2903 lost connection: Disconnected
+[06May2025 02:18:50.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 left the game
+[06May2025 02:19:10.018] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@153df995
+[06May2025 02:19:10.086] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[06May2025 02:19:10.138] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[06May2025 02:19:10.139] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Rukasu2903[/127.160.233.57:44103] logged in with entity id 10497 at (-639.6415896643465, 64.0, -505.2611348849408)
+[06May2025 02:19:10.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 joined the game
+[06May2025 02:19:10.154] [Server thread/INFO] [tac/]: PENDING
+[06May2025 02:19:10.191] [Server thread/INFO] [Waila/]: Syncing config to Rukasu2903 (eeabb16a-5f03-3471-a099-3b18e5e1cf3c)
+[06May2025 02:20:30.840] [Worker-Main-4/INFO] [ObserverLib/]: Load CachedWorldData 'rock-crystals' for world minecraft:overworld
+[06May2025 02:20:30.889] [Worker-Main-4/INFO] [ObserverLib/]: Loading of 'rock-crystals' for world minecraft:overworld finished.
+[06May2025 02:20:49.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> ay wey
+[06May2025 02:20:51.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> un dragon
+[06May2025 02:20:57.137] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> n e g r o
+[06May2025 02:20:59.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> aver me lo macheteo al toque
+[06May2025 02:21:03.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [moltgames: Teleported moltgames to Oasins]
+[06May2025 02:21:04.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Teleported Rukasu2903 to Oasins]
+[06May2025 02:21:10.271] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> ola reina
+[06May2025 02:21:14.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> negro? donde?
+[06May2025 02:21:41.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 was burnt to a crisp whilst fighting Fire Dragon
+[06May2025 02:21:41.979] [Server thread/INFO] [tombstone/]: The player Rukasu2903 has successfully been saved
+[06May2025 02:21:42.692] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rukasu2903 moved too quickly! -0.9420064091682434,6.804000585436825,-10.21666431427002
+[06May2025 02:21:44.454] [Server thread/INFO] [tac/]: PENDING
+[06May2025 02:21:53.614] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/10199, l='ServerLevel[world]', x=-1049.74, y=68.00, z=-818.67] died, message: 'Librarian was turned into KFC by Fire Dragon'
+[06May2025 02:21:55.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins was burnt to a crisp whilst fighting Fire Dragon
+[06May2025 02:21:55.693] [Server thread/INFO] [tombstone/]: The player Oasins has successfully been saved
+[06May2025 02:21:57.044] [Server thread/INFO] [tac/]: PENDING
+[06May2025 02:22:01.190] [Server thread/WARN] [tombstone/]: The death event of the player moltgames was canceled by another mod
+[06May2025 02:22:01.225] [Server thread/INFO] [tombstone/]: The player moltgames has successfully been saved
+[06May2025 02:22:02.380] [Server thread/WARN] [twilightforest/]: Dropping inventory items previously held in reserve for player moltgames (b8a71927-0368-394c-a424-6af0f16fdf64)
+[06May2025 02:22:02.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames died because of Fire Dragon
+[06May2025 02:22:02.392] [Server thread/INFO] [tombstone/]: The player moltgames has successfully been saved
+[06May2025 02:22:03.568] [Server thread/INFO] [tac/]: PENDING
+[06May2025 02:22:11.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins was slain by Fire Dragon
+[06May2025 02:22:11.910] [Server thread/INFO] [tombstone/]: The player Oasins has successfully been saved
+[06May2025 02:22:13.199] [Server thread/INFO] [tac/]: PENDING
+[06May2025 02:22:29.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has reached the goal [Chain Death]
+[06May2025 02:22:29.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 was incinerated by Fire Dragon
+[06May2025 02:22:29.845] [Server thread/INFO] [tombstone/]: The player Rukasu2903 has successfully been saved
+[06May2025 02:22:31.139] [Server thread/INFO] [tac/]: PENDING
+[06May2025 02:22:31.423] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/10133, l='ServerLevel[world]', x=-994.72, y=65.17, z=-742.60] died, message: 'Farmer was incinerated by Fire Dragon'
+[06May2025 02:22:34.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> Barrió con mi armadura
+[06May2025 02:22:40.263] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/10238, l='ServerLevel[world]', x=-997.67, y=71.30, z=-734.29] died, message: 'Villager was slain by Fire Dragon'
+[06May2025 02:22:45.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 was incinerated by Fire Dragon
+[06May2025 02:22:45.752] [Server thread/INFO] [tombstone/]: The player Rukasu2903 has successfully been saved
+[06May2025 02:22:46.928] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/10271, l='ServerLevel[world]', x=-1004.05, y=68.00, z=-727.16] died, message: 'Villager was incinerated by Fire Dragon'
+[06May2025 02:22:47.042] [Server thread/INFO] [tac/]: PENDING
+[06May2025 02:22:48.538] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/10209, l='ServerLevel[world]', x=-1006.38, y=64.00, z=-729.90] died, message: 'Villager was turned into KFC by Fire Dragon'
+[06May2025 02:22:59.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins was burnt to a crisp whilst fighting Fire Dragon
+[06May2025 02:22:59.092] [Server thread/INFO] [tombstone/]: The player Oasins has successfully been saved
+[06May2025 02:23:00.349] [Server thread/INFO] [tac/]: PENDING
+[06May2025 02:23:07.815] [Server thread/WARN] [tombstone/]: The death event of the player moltgames was canceled by another mod
+[06May2025 02:23:07.840] [Server thread/INFO] [tombstone/]: The player moltgames has successfully been saved
+[06May2025 02:23:08.981] [Server thread/WARN] [twilightforest/]: Dropping inventory items previously held in reserve for player moltgames (b8a71927-0368-394c-a424-6af0f16fdf64)
+[06May2025 02:23:08.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames died because of Iron Golem
+[06May2025 02:23:09.035] [Server thread/INFO] [tombstone/]: The player moltgames has successfully been saved
+[06May2025 02:23:09.566] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/10208, l='ServerLevel[world]', x=-992.41, y=64.00, z=-739.78] died, message: 'Villager was slain by Fire Dragon'
+[06May2025 02:23:10.161] [Server thread/INFO] [tac/]: PENDING
+[06May2025 02:23:17.263] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/10172, l='ServerLevel[world]', x=-1068.86, y=64.95, z=-785.70] died, message: 'Farmer was turned into KFC by Fire Dragon'
+[06May2025 02:23:19.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 was turned into KFC by Fire Dragon
+[06May2025 02:23:19.308] [Server thread/INFO] [tombstone/]: The player Rukasu2903 has successfully been saved
+[06May2025 02:23:20.551] [Server thread/INFO] [tac/]: PENDING
+[06May2025 02:23:26.676] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/10207, l='ServerLevel[world]', x=-1036.61, y=63.00, z=-766.86] died, message: 'Villager was incinerated by Fire Dragon'
+[06May2025 02:23:26.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins was turned into KFC by Iron Golem
+[06May2025 02:23:26.849] [Server thread/INFO] [tombstone/]: The player Oasins has successfully been saved
+[06May2025 02:23:27.461] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/10173, l='ServerLevel[world]', x=-1021.06, y=63.00, z=-753.99] died, message: 'Villager was turned into KFC by Fire Dragon'
+[06May2025 02:23:28.193] [Server thread/INFO] [tac/]: PENDING
+[06May2025 02:23:47.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Mother of Dragons]
+[06May2025 02:23:55.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> ñom
+[06May2025 02:24:19.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> El bosque de vampiros se quema
+[06May2025 02:24:27.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> alchile que bueno
+[06May2025 02:24:29.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> donde esta el baboso?
+[06May2025 02:24:42.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> yo le quite la mayoria de vida we el loot es mio
+[06May2025 02:24:47.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 was slain by moltgames using    [Culling Netherite Axe, the God-Slayer]
+[06May2025 02:24:47.952] [Server thread/WARN] [twilightforest/]: Dropping inventory items previously held in reserve for player Rukasu2903 (eeabb16a-5f03-3471-a099-3b18e5e1cf3c)
+[06May2025 02:24:47.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 died
+[06May2025 02:24:47.959] [Server thread/INFO] [tombstone/]: The player Rukasu2903 has successfully been saved
+[06May2025 02:24:49.431] [Server thread/INFO] [tac/]: PENDING
+[06May2025 02:24:52.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> ptm
+[06May2025 02:25:11.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> yo y mi arma que quita porcentajes
+[06May2025 02:26:46.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> esa estaca pa que o que we
+[06May2025 02:28:07.090] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> MI NAVE
+[06May2025 02:28:10.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> (mochila)
+[06May2025 02:28:36.027] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/17837, l='ServerLevel[world]', x=-618.18, y=62.50, z=-678.73] died, message: 'Farmer was shot by Stymphalian Bird'
+[06May2025 02:32:27.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Bonfire Lit]

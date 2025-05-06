@@ -815,6 +815,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-05-06 21:47:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_red_nether_brick_slab": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:09 +0000"

@@ -2123,6 +2123,15 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/melter": {
+    "criteria": {
+      "seared_fuel_tank": "2025-05-06 20:30:33 +0000",
+      "seared_heater": "2025-05-06 20:29:47 +0000",
+      "seared_table": "2025-05-06 20:30:26 +0000",
+      "seared_faucet": "2025-05-06 20:31:02 +0000"
+    },
+    "done": false
+  },
   "botania:recipes/botania/mushroom_12": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:13 +0000"

@@ -15106,3 +15106,30 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [06May2025 01:51:47.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> tienes dos de hierro we?
 [06May2025 01:52:17.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> gracias we toma
 [06May2025 01:52:22.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> Ñom
+[06May2025 01:53:08.462] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.49 and blood value 3 for entity exoticbirds:swan
+[06May2025 01:53:11.263] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.49 and blood value 3 for entity exoticbirds:swan
+[06May2025 01:53:37.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> entonces si se expande o no?
+[06May2025 01:54:53.384] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06May2025 01:54:53.404] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06May2025 01:58:01.047] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID e805b7de-a7fe-4f94-833a-ee1375f626a0. Existing mod_lavacow:raven#4181, new: mod_lavacow:raven#4181
+[06May2025 01:58:15.868] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.06 and blood value 0 for entity exoticbirds:hummingbird
+[06May2025 01:58:30.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 tried to swim in lava
+[06May2025 01:58:30.405] [Server thread/DEBUG] [tombstone/]: A new grave of the player Rukasu2903 was created at position [x:-651, y:11, z:-518, dim:minecraft:overworld]
+[06May2025 01:58:30.419] [Server thread/INFO] [tombstone/]: The player Rukasu2903 has successfully been saved
+[06May2025 01:58:31.995] [Server thread/INFO] [tac/]: PENDING
+[06May2025 01:58:32.027] [Server thread/DEBUG] [twilightforest/]: Player Rukasu2903 (eeabb16a-5f03-3471-a099-3b18e5e1cf3c) respawned and received items held in storage
+[06May2025 01:59:00.815] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 0 for entity iceandfire:fire_dragon
+[06May2025 01:59:53.450] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06May2025 01:59:53.471] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06May2025 01:59:57.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 was slain by Zombie
+[06May2025 01:59:57.069] [Server thread/DEBUG] [tombstone/]: A new grave of the player Rukasu2903 was created at position [x:-647, y:64, z:-533, dim:minecraft:overworld]
+[06May2025 01:59:57.086] [Server thread/INFO] [tombstone/]: The player Rukasu2903 has successfully been saved
+[06May2025 01:59:58.289] [Server thread/INFO] [tac/]: PENDING
+[06May2025 01:59:58.326] [Server thread/DEBUG] [twilightforest/]: Player Rukasu2903 (eeabb16a-5f03-3471-a099-3b18e5e1cf3c) respawned and received items held in storage
+[06May2025 02:00:53.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has completed the challenge [Regicide]
+[06May2025 02:02:14.393] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has made the advancement [Ghostbuster]
+[06May2025 02:02:24.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 was slain by Husk
+[06May2025 02:02:24.724] [Server thread/DEBUG] [tombstone/]: A new grave of the player Rukasu2903 was created at position [x:-652, y:39, z:-516, dim:minecraft:overworld]
+[06May2025 02:02:24.735] [Server thread/INFO] [tombstone/]: The player Rukasu2903 has successfully been saved
+[06May2025 02:02:25.937] [Server thread/INFO] [tac/]: PENDING
+[06May2025 02:02:25.967] [Server thread/DEBUG] [twilightforest/]: Player Rukasu2903 (eeabb16a-5f03-3471-a099-3b18e5e1cf3c) respawned and received items held in storage

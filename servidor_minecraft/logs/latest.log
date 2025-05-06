@@ -3782,3 +3782,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [06May2025 16:39:16.647] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching CombatRules#getDamageAfterMagicAbsorb
 [06May2025 17:09:08.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [Hot Stuff]
 [06May2025 17:16:13.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [Sky of Beginning]
+[06May2025 17:25:04.673] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@720e8d1
+[06May2025 17:33:02.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Set own game mode to Survival Mode]

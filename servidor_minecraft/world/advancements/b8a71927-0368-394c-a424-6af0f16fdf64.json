@@ -2944,6 +2944,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-05-06 02:32:27 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/framed_blocks/framed_prism": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:02 +0000"

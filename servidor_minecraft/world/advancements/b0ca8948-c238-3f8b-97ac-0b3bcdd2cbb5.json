@@ -16571,6 +16571,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-05-06 02:33:15 +0000",
       "seasonal_pumpkin_patch": "2025-05-02 03:13:05 +0000",
       "shrubland": "2025-05-02 02:43:25 +0000",
       "lush_savanna": "2025-05-02 03:14:54 +0000",

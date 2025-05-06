@@ -4003,3 +4003,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [06May2025 02:28:10.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> (mochila)
 [06May2025 02:28:36.027] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/17837, l='ServerLevel[world]', x=-618.18, y=62.50, z=-678.73] died, message: 'Farmer was shot by Stymphalian Bird'
 [06May2025 02:32:27.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Bonfire Lit]
+[06May2025 02:34:45.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> oye weyes traen corazones humanos?
+[06May2025 02:34:58.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> nel
+[06May2025 02:35:41.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 was slain by Spider
+[06May2025 02:35:41.698] [Server thread/INFO] [tombstone/]: The player Rukasu2903 has successfully been saved
+[06May2025 02:35:43.780] [Server thread/INFO] [tac/]: PENDING
+[06May2025 02:36:25.149] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for TranslatableComponent{key='entity.minecraft.zombified_piglin', args=[], siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[06May2025 02:36:39.473] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/871, l='ServerLevel[world]', x=-27.86, y=65.00, z=-101.39] died, message: 'Farmer was slain by Zombie'
+[06May2025 02:36:55.480] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager AggressiveVillagerEntity['Angry Villager'/23223, l='ServerLevel[world]', x=57.50, y=69.00, z=-119.49] died, message: 'Angry Villager was slain by Sinister Solace'
+[06May2025 02:37:03.149] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager AggressiveVillagerEntity['Angry Villager'/23222, l='ServerLevel[world]', x=0.70, y=65.00, z=-124.51] died, message: 'Angry Villager was slain by Vampire'
+[06May2025 02:42:31.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> la estaca es pa rematar cuando estoy en el piso we

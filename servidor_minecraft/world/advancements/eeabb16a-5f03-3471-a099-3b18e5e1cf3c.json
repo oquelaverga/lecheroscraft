@@ -485,6 +485,12 @@
     },
     "done": true
   },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-05-06 17:16:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/jungle_cabinet": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:11 +0000"
@@ -13814,6 +13820,12 @@
     },
     "done": true
   },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-05-06 17:16:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_observer": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:10 +0000"
@@ -24963,6 +24975,12 @@
   "cfm:recipes/cfm/andesite_coffee_table": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:11 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-05-06 17:16:13 +0000"
     },
     "done": true
   },

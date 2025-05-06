@@ -12363,6 +12363,12 @@
     },
     "done": true
   },
+  "vampirism:main/regicide": {
+    "criteria": {
+      "main": "2025-05-06 02:00:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/warped_blinds": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:21 +0000"
@@ -12858,6 +12864,12 @@
   "botania:recipes/botania/metamorphic_taiga_cobblestone_wall": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:24 +0000"
+    },
+    "done": true
+  },
+  "mod_lavacow:recipe/cursed_fabric": {
+    "criteria": {
+      "has_item": "2025-05-06 02:02:16 +0000"
     },
     "done": true
   },
@@ -17367,6 +17379,12 @@
   "mysticalworld:recipes/mysticalworld/brown_mushroom_fence_gate": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:25 +0000"
+    },
+    "done": true
+  },
+  "mod_lavacow:mod_lavacow/kill_wraith": {
+    "criteria": {
+      "killed": "2025-05-06 02:02:14 +0000"
     },
     "done": true
   },

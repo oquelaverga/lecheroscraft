@@ -2588,6 +2588,12 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/gold_casting": {
+    "criteria": {
+      "crafted_cast": "2025-05-06 21:26:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:11 +0000"
@@ -14674,6 +14680,12 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/cast_collector": {
+    "criteria": {
+      "large_plate": "2025-05-06 21:26:20 +0000"
+    },
+    "done": false
+  },
   "botania:recipes/botania/elementium_block": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:13 +0000"
@@ -15109,6 +15121,12 @@
   "securitycraft:recipes/securitycraft/reinforced_stone_brick_slab_from_reinforced_stone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-06 21:19:52 +0000"
     },
     "done": true
   },
@@ -16528,6 +16546,7 @@
       "dryland": "2025-05-02 03:05:10 +0000",
       "wasteland": "2025-05-02 03:14:58 +0000",
       "lush_desert": "2025-05-02 03:14:05 +0000",
+      "visceral_heap": "2025-05-06 21:19:52 +0000",
       "seasonal_orchard": "2025-05-06 18:30:02 +0000",
       "seasonal_forest": "2025-05-06 18:30:03 +0000",
       "dense_woodland": "2025-05-06 17:42:39 +0000",
@@ -20995,6 +21014,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-06 21:19:52 +0000"
     },
     "done": true
   },

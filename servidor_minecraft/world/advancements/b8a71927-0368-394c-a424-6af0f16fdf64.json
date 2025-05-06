@@ -797,6 +797,12 @@
     },
     "done": true
   },
+  "mysticalworld:aubergine": {
+    "criteria": {
+      "book": "2025-05-06 21:25:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:00 +0000"
@@ -14887,8 +14893,11 @@
   },
   "tconstruct:smeltery/cast_collector": {
     "criteria": {
+      "large_plate": "2025-05-06 21:26:43 +0000",
+      "tough_handle": "2025-05-06 21:25:05 +0000",
       "small_blade": "2025-05-04 01:05:20 +0000",
       "tool_binding": "2025-05-04 01:05:11 +0000",
+      "hammer_head": "2025-05-06 21:24:16 +0000",
       "small_axe_head": "2025-05-04 01:04:34 +0000",
       "tool_handle": "2025-05-04 01:04:47 +0000",
       "pickaxe_head": "2025-05-04 01:05:03 +0000",

@@ -12090,6 +12090,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-05-07 02:26:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/secret_dark_oak_sign_item": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:52:59 +0000"

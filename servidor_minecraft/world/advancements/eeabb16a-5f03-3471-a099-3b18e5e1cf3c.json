@@ -8831,6 +8831,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-05-07 21:58:43 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/slab_recombine/black_pavement": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:11 +0000"
@@ -16594,9 +16600,12 @@
       "woodland": "2025-05-06 17:44:17 +0000",
       "seasonal_pumpkin_patch": "2025-05-06 18:30:39 +0000",
       "shrubland": "2025-05-02 02:43:14 +0000",
+      "scrubland": "2025-05-07 22:01:58 +0000",
       "lush_savanna": "2025-05-02 03:13:54 +0000",
       "highland": "2025-05-06 18:29:30 +0000",
       "marsh": "2025-05-06 18:29:20 +0000",
+      "wooded_scrubland": "2025-05-07 22:01:54 +0000",
+      "tundra_bog": "2025-05-07 21:54:47 +0000",
       "orchard": "2025-05-06 02:21:06 +0000",
       "dryland": "2025-05-02 03:05:10 +0000",
       "wasteland": "2025-05-02 03:14:58 +0000",
@@ -16609,6 +16618,7 @@
       "shrubland_hills": "2025-05-02 03:27:55 +0000",
       "dense_marsh": "2025-05-06 18:29:29 +0000",
       "prairie": "2025-05-06 22:01:44 +0000",
+      "tundra": "2025-05-07 21:54:48 +0000",
       "gravel_beach": "2025-05-06 18:34:27 +0000"
     },
     "done": false
@@ -23836,11 +23846,13 @@
       "minecraft:giant_tree_taiga": "2025-05-06 02:38:40 +0000",
       "minecraft:deep_cold_ocean": "2025-05-06 18:34:36 +0000",
       "minecraft:taiga_hills": "2025-05-06 21:54:56 +0000",
+      "minecraft:desert": "2025-05-07 21:58:24 +0000",
       "minecraft:birch_forest": "2025-05-02 03:05:37 +0000",
       "minecraft:savanna_plateau": "2025-05-02 03:13:09 +0000",
       "minecraft:beach": "2025-05-07 21:51:42 +0000",
       "minecraft:river": "2025-05-02 03:05:34 +0000",
       "minecraft:snowy_taiga": "2025-05-06 02:38:55 +0000",
+      "minecraft:birch_forest_hills": "2025-05-07 21:54:55 +0000",
       "minecraft:wooded_mountains": "2025-05-06 18:35:47 +0000",
       "minecraft:wooded_hills": "2025-05-06 18:32:28 +0000",
       "minecraft:snowy_taiga_hills": "2025-05-06 02:58:11 +0000",

@@ -3791,3 +3791,32 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [07May2025 21:40:08.631] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 43d6388c-d3b0-46c9-b3b6-e55aa61b2b85. Existing minecraft:zombie#2378, new: minecraft:zombie#2378
 [07May2025 21:51:41.793] [Worker-Main-5/INFO] [ObserverLib/]: Load CachedWorldData 'rock-crystals' for world minecraft:overworld
 [07May2025 21:51:41.855] [Worker-Main-5/INFO] [ObserverLib/]: Loading of 'rock-crystals' for world minecraft:overworld finished.
+[07May2025 21:54:11.659] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1217, y=21, z=706} but found not block entity block Block{minecraft:stone} at location
+[07May2025 21:54:11.660] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1217, y=21, z=706}
+[07May2025 21:57:14.279] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for TranslatableComponent{key='entity.minecraft.zombified_piglin', args=[], siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[07May2025 21:58:43.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [Eye of The Storm]
+[07May2025 21:59:13.837] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/14741, l='ServerLevel[world]', x=1426.42, y=66.00, z=22.53] died, message: 'Villager was slain by Doctor Ewen the Manly'
+[07May2025 21:59:33.917] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1663, y=12, z=70} but found not block entity block Block{quark:deepslate}[axis=y] at location
+[07May2025 21:59:33.917] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:deepslate}[axis=y] but failed at location BlockPos{x=1663, y=12, z=70}
+[07May2025 21:59:33.917] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1652, y=12, z=67} but found not block entity block Block{quark:deepslate}[axis=y] at location
+[07May2025 21:59:33.917] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:deepslate}[axis=y] but failed at location BlockPos{x=1652, y=12, z=67}
+[07May2025 21:59:33.961] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1652, y=12, z=85} but found not block entity block Block{electrodynamics:oresulfur} at location
+[07May2025 21:59:33.962] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{electrodynamics:oresulfur} but failed at location BlockPos{x=1652, y=12, z=85}
+[07May2025 21:59:59.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 was slain by Parasite
+[07May2025 21:59:59.423] [Server thread/INFO] [tombstone/]: The player Rukasu2903 has successfully been saved
+[07May2025 22:00:01.441] [Server thread/INFO] [tac/]: PENDING
+[07May2025 22:01:12.990] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager ConvertedVillagerEntity['Librarian'/886, l='ServerLevel[world]', x=40.58, y=67.00, z=-122.48] died, message: 'Librarian was slain by Vampire Hunter'
+[07May2025 22:02:58.262] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1912, y=18, z=367} but found not block entity block Block{quark:deepslate}[axis=y] at location
+[07May2025 22:02:58.263] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:deepslate}[axis=y] but failed at location BlockPos{x=1912, y=18, z=367}
+[07May2025 22:02:58.263] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1914, y=23, z=355} but found not block entity block Block{minecraft:stone} at location
+[07May2025 22:02:58.263] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1914, y=23, z=355}
+[07May2025 22:02:58.263] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1912, y=17, z=358} but found not block entity block Block{minecraft:stone} at location
+[07May2025 22:02:58.263] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1912, y=17, z=358}
+[07May2025 22:02:58.309] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1904, y=17, z=373} but found not block entity block Block{minecraft:cave_air} at location
+[07May2025 22:02:58.309] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=1904, y=17, z=373}
+[07May2025 22:02:58.309] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1909, y=19, z=369} but found not block entity block Block{minecraft:gravel} at location
+[07May2025 22:02:58.310] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:gravel} but failed at location BlockPos{x=1909, y=19, z=369}
+[07May2025 22:02:58.310] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1904, y=17, z=371} but found not block entity block Block{minecraft:cave_air} at location
+[07May2025 22:02:58.310] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=1904, y=17, z=371}
+[07May2025 22:04:26.649] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Rukasu2903 lost connection: Disconnected
+[07May2025 22:04:26.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 left the game

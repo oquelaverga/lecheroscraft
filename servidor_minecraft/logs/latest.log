@@ -3789,3 +3789,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [07May2025 21:39:44.278] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ArrowEntity['Arrow'/2064, l='ServerLevel[world]', x=-66.71, y=69.05, z=-581.18]
 [07May2025 21:39:47.522] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager ConvertedVillagerEntity['Cartographer'/892, l='ServerLevel[world]', x=71.88, y=71.00, z=-126.70] died, message: 'Cartographer was slain by Vampire Hunter'
 [07May2025 21:40:08.631] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 43d6388c-d3b0-46c9-b3b6-e55aa61b2b85. Existing minecraft:zombie#2378, new: minecraft:zombie#2378
+[07May2025 21:51:41.793] [Worker-Main-5/INFO] [ObserverLib/]: Load CachedWorldData 'rock-crystals' for world minecraft:overworld
+[07May2025 21:51:41.855] [Worker-Main-5/INFO] [ObserverLib/]: Loading of 'rock-crystals' for world minecraft:overworld finished.

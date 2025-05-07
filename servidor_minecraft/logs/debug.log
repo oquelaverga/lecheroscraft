@@ -13171,3 +13171,30 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [07May2025 02:16:24.814] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.22 and blood value 0 for entity exoticbirds:cardinal
 [07May2025 02:16:24.958] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.42 and blood value 2 for entity mysticalworld:beetle
 [07May2025 02:16:24.958] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.42 and blood value 2 for entity mysticalworld:beetle
+[07May2025 02:19:51.965] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[07May2025 02:19:51.990] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[07May2025 02:20:36.007] [Server thread/INFO] [tac/]: PENDING
+[07May2025 02:20:36.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Teleported Rukasu2903 to moltgames]
+[07May2025 02:20:46.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> que quemas??
+[07May2025 02:20:46.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> que cosa we
+[07May2025 02:20:56.720] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> que requieres we
+[07May2025 02:21:08.669] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> solo me hice tp porque no encontraba el portal xDDDD
+[07May2025 02:21:12.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> xd
+[07May2025 02:21:20.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> me sirvió bastante para buscar netherita
+[07May2025 02:21:25.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> we por que me echas
+[07May2025 02:21:27.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> necesito el horno
+[07May2025 02:21:30.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> xd
+[07May2025 02:23:16.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Best Friends Forever]
+[07May2025 02:23:22.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> ahora con 2 de netherita que puedo hacer
+[07May2025 02:23:25.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> en que lo gasto?
+[07May2025 02:23:29.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> mejorar el martillo
+[07May2025 02:23:37.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> como?
+[07May2025 02:23:45.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> en el yunque este
+[07May2025 02:24:11.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> le tengo que agregar algo mas?
+[07May2025 02:24:21.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> por ahora no puedes
+[07May2025 02:24:41.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> ahora esta mas piola
+[07May2025 02:24:51.383] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[07May2025 02:24:51.405] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[07May2025 02:24:53.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> ahora pique afuera de mi casa canalla
+[07May2025 02:25:03.091] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> en tu casa? ok
+[07May2025 02:26:03.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Dragon Commander]

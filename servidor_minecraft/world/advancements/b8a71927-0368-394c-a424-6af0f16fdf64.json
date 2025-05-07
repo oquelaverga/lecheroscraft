@@ -7194,6 +7194,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-07 02:23:16 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:suns_blessing": {
     "criteria": {
       "get_suns_blessing": "2025-05-03 23:14:49 +0000"

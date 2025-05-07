@@ -3816,3 +3816,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [07May2025 02:07:30.792] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Netherrack'/8458, l='ServerLevel[world]', x=-74.32, y=68.00, z=-55.82]
 [07May2025 02:07:30.792] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Oak Planks'/8459, l='ServerLevel[world]', x=-74.68, y=68.00, z=-56.11]
 [07May2025 02:07:30.795] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Birch Log'/8456, l='ServerLevel[world]', x=-74.60, y=68.00, z=-56.11]
+[07May2025 02:08:22.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [Nightmare Fuel]
+[07May2025 02:12:03.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [Hidden in the Depths]
+[07May2025 02:16:14.049] [Server thread/INFO] [tac/]: PENDING
+[07May2025 02:16:14.157] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/8457, l='ServerLevel[world]', x=-74.04, y=68.00, z=-55.42]
+[07May2025 02:16:24.189] [Server thread/INFO] [tac/]: PENDING

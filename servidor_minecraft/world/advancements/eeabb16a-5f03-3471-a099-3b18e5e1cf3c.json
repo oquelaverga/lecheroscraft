@@ -1325,6 +1325,13 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-05-07 02:09:23 +0000",
+      "minecraft:warped_forest": "2025-05-07 02:07:35 +0000"
+    },
+    "done": false
+  },
   "vampirism:recipes/vampirism/vampire/vampire_cloak_white_black": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:10 +0000"
@@ -4915,6 +4922,12 @@
   "botania:recipes/botania/chiseled_red_quartz": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-05-07 02:12:03 +0000"
     },
     "done": true
   },
@@ -13639,6 +13652,12 @@
   "vampirism:recipes/vampirism/vampire/blood_pedestal": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:12 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-05-07 02:08:22 +0000"
     },
     "done": true
   },

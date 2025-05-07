@@ -13113,3 +13113,47 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [07May2025 01:54:52.689] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [07May2025 01:56:27.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [Quite the Renovation]
 [07May2025 01:57:00.957] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID ff42c1f4-57b3-4cab-9e40-907a8348c51f. Existing mod_lavacow:foglet#3166, new: mod_lavacow:foglet#3166
+[07May2025 01:57:26.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has reached the goal [Bone Crusher]
+[07May2025 01:58:26.860] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [Magic Writing]
+[07May2025 01:59:51.743] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[07May2025 01:59:51.765] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[07May2025 02:00:07.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [Thorianite Ore]
+[07May2025 02:02:50.160] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/5539, l='ServerLevel[world]', x=359.53, y=38.97, z=-624.45]
+[07May2025 02:02:50.160] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Redstone Dust'/5541, l='ServerLevel[world]', x=354.44, y=39.26, z=-624.37]
+[07May2025 02:02:50.162] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gold Ore'/5542, l='ServerLevel[world]', x=359.25, y=37.59, z=-628.59]
+[07May2025 02:02:50.162] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Emerald'/5543, l='ServerLevel[world]', x=354.60, y=38.69, z=-624.42]
+[07May2025 02:02:50.163] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Redstone Dust'/5545, l='ServerLevel[world]', x=359.47, y=40.53, z=-626.62]
+[07May2025 02:02:50.163] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Ore'/5547, l='ServerLevel[world]', x=354.70, y=37.36, z=-624.74]
+[07May2025 02:02:50.164] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['String'/5549, l='ServerLevel[world]', x=359.43, y=40.74, z=-624.57]
+[07May2025 02:02:50.164] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diamond'/5550, l='ServerLevel[world]', x=353.73, y=37.30, z=-626.44]
+[07May2025 02:02:50.164] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/5551, l='ServerLevel[world]', x=354.41, y=38.63, z=-626.34]
+[07May2025 02:02:50.165] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Lapis Lazuli'/5555, l='ServerLevel[world]', x=353.36, y=37.43, z=-625.61]
+[07May2025 02:02:50.644] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/5577, l='ServerLevel[world]', x=355.70, y=38.60, z=-630.51]
+[07May2025 02:02:50.645] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Redstone Dust'/5578, l='ServerLevel[world]', x=358.35, y=38.63, z=-630.62]
+[07May2025 02:02:50.646] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Emerald'/5579, l='ServerLevel[world]', x=357.68, y=38.37, z=-630.47]
+[07May2025 02:02:50.647] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gold Ore'/5580, l='ServerLevel[world]', x=359.49, y=38.50, z=-630.34]
+[07May2025 02:02:50.648] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Lapis Lazuli'/5581, l='ServerLevel[world]', x=355.48, y=39.74, z=-630.64]
+[07May2025 02:02:59.799] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.18 and blood value 15 for entity alexsmobs:emu
+[07May2025 02:02:59.894] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.18 and blood value 15 for entity alexsmobs:emu
+[07May2025 02:02:59.967] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.18 and blood value 15 for entity alexsmobs:emu
+[07May2025 02:04:10.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 burned to death
+[07May2025 02:04:10.782] [Server thread/DEBUG] [tombstone/]: A new grave of the player Rukasu2903 was created at position [x:302, y:4, z:-595, dim:minecraft:overworld]
+[07May2025 02:04:10.788] [Server thread/INFO] [tombstone/]: The player Rukasu2903 has successfully been saved
+[07May2025 02:04:12.048] [Server thread/INFO] [tac/]: PENDING
+[07May2025 02:04:12.095] [Server thread/DEBUG] [twilightforest/]: Player Rukasu2903 (eeabb16a-5f03-3471-a099-3b18e5e1cf3c) respawned and received items held in storage
+[07May2025 02:04:15.738] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.2 and blood value 0 for entity exoticbirds:woodpecker
+[07May2025 02:04:51.736] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[07May2025 02:04:51.759] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[07May2025 02:07:25.770] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.22 and blood value 0 for entity exoticbirds:bluejay
+[07May2025 02:07:30.526] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for TranslatableComponent{key='entity.minecraft.zombified_piglin', args=[], siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[07May2025 02:07:30.532] [Server thread/INFO] [tac/]: PENDING
+[07May2025 02:07:30.792] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Netherrack'/8458, l='ServerLevel[world]', x=-74.32, y=68.00, z=-55.82]
+[07May2025 02:07:30.792] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Oak Planks'/8459, l='ServerLevel[world]', x=-74.68, y=68.00, z=-56.11]
+[07May2025 02:07:30.795] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Birch Log'/8456, l='ServerLevel[world]', x=-74.60, y=68.00, z=-56.11]
+[07May2025 02:07:30.936] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[07May2025 02:07:30.984] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[07May2025 02:07:32.313] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.13 and blood value 7 for entity alexsmobs:warped_toad
+[07May2025 02:07:32.314] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.13 and blood value 7 for entity alexsmobs:warped_toad
+[07May2025 02:07:32.314] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.13 and blood value 7 for entity alexsmobs:warped_toad
+[07May2025 02:07:32.785] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.13 and blood value 7 for entity alexsmobs:warped_toad
+[07May2025 02:07:32.835] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.13 and blood value 7 for entity alexsmobs:warped_toad

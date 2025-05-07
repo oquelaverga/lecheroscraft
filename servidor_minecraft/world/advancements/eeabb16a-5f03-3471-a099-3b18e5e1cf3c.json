@@ -4312,6 +4312,12 @@
     },
     "done": true
   },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-05-07 01:56:27 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/metamorphic_forest_bricks_slab": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:11 +0000"
@@ -13132,6 +13138,12 @@
     },
     "done": true
   },
+  "electrodynamics:raworethorium": {
+    "criteria": {
+      "HasRawOre": "2025-05-07 02:00:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:13 +0000"
@@ -21150,6 +21162,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-05-07 01:57:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:13 +0000"
@@ -22565,6 +22583,12 @@
       "has_the_recipe": "2025-05-02 02:43:13 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2025-05-07 01:56:27 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
@@ -24749,6 +24773,12 @@
   "securitycraft:recipes/securitycraft/reinforced_acacia_fence_gate": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-07 01:58:26 +0000"
     },
     "done": true
   },

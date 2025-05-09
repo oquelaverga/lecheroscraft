@@ -14091,3 +14091,42 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [09May2025 01:03:00.863] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.49 and blood value 3 for entity exoticbirds:swan
 [09May2025 01:03:29.171] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.22 and blood value 0 for entity mysticalworld:owl
 [09May2025 01:04:17.918] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.38 and blood value 2 for entity mysticalworld:silkworm
+[09May2025 01:07:06.691] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09May2025 01:07:06.709] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09May2025 01:08:16.598] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobbled Deepslate'/8529, l='ServerLevel[world]', x=-566.45, y=12.70, z=-405.64]
+[09May2025 01:08:16.599] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Source Gem'/8531, l='ServerLevel[world]', x=-567.29, y=16.33, z=-407.37]
+[09May2025 01:08:16.600] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/8535, l='ServerLevel[world]', x=-567.44, y=15.65, z=-408.36]
+[09May2025 01:08:16.600] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['String'/8538, l='ServerLevel[world]', x=-566.58, y=17.30, z=-406.59]
+[09May2025 01:09:20.324] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[09May2025 01:11:25.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 hit the ground too hard
+[09May2025 01:11:25.340] [Server thread/DEBUG] [tombstone/]: A new grave of the player Rukasu2903 was created at position [x:-675, y:64, z:-497, dim:minecraft:overworld]
+[09May2025 01:11:25.353] [Server thread/INFO] [tombstone/]: The player Rukasu2903 has successfully been saved
+[09May2025 01:11:26.777] [Server thread/INFO] [tac/]: PENDING
+[09May2025 01:11:26.818] [Server thread/DEBUG] [twilightforest/]: Player Rukasu2903 (eeabb16a-5f03-3471-a099-3b18e5e1cf3c) respawned and received items held in storage
+[09May2025 01:11:28.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> xd
+[09May2025 01:11:31.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames fell out of the world
+[09May2025 01:11:31.877] [Server thread/DEBUG] [tombstone/]: A new grave of the player moltgames was created at position [x:-668, y:64, z:-500, dim:minecraft:overworld]
+[09May2025 01:11:31.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Killed moltgames]
+[09May2025 01:11:31.887] [Server thread/INFO] [tombstone/]: The player moltgames has successfully been saved
+[09May2025 01:11:33.172] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: moltgames has new faction level vampirism:vampire 4
+[09May2025 01:11:33.178] [Server thread/INFO] [tac/]: PENDING
+[09May2025 01:11:33.224] [Server thread/DEBUG] [twilightforest/]: Player moltgames (b8a71927-0368-394c-a424-6af0f16fdf64) respawned and received items held in storage
+[09May2025 01:12:06.734] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09May2025 01:12:06.752] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09May2025 01:12:17.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has reached the goal [Chain Death]
+[09May2025 01:12:17.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames was taken down by Rukasu2903
+[09May2025 01:12:17.573] [Server thread/DEBUG] [tombstone/]: A new grave of the player moltgames was created at position [x:-622, y:69, z:-504, dim:minecraft:overworld]
+[09May2025 01:12:17.585] [Server thread/INFO] [tombstone/]: The player moltgames has successfully been saved
+[09May2025 01:12:20.569] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: moltgames has new faction level vampirism:vampire 4
+[09May2025 01:12:20.573] [Server thread/INFO] [tac/]: PENDING
+[09May2025 01:12:20.610] [Server thread/DEBUG] [twilightforest/]: Player moltgames (b8a71927-0368-394c-a424-6af0f16fdf64) respawned and received items held in storage
+[09May2025 01:12:27.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato has made the advancement [Amateur Archaeologist]
+[09May2025 01:14:02.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [moltgames: Teleported moltgames to totato]
+[09May2025 01:14:12.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> donde estan mis super garras
+[09May2025 01:15:22.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> mis garras we
+[09May2025 01:15:44.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames was taken down by Rukasu2903
+[09May2025 01:15:44.106] [Server thread/DEBUG] [tombstone/]: A new grave of the player moltgames was created at position [x:-636, y:64, z:-538, dim:minecraft:overworld]
+[09May2025 01:15:44.147] [Server thread/INFO] [tombstone/]: The player moltgames has successfully been saved
+[09May2025 01:15:46.241] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: moltgames has new faction level vampirism:vampire 4
+[09May2025 01:15:46.246] [Server thread/INFO] [tac/]: PENDING
+[09May2025 01:15:46.278] [Server thread/DEBUG] [twilightforest/]: Player moltgames (b8a71927-0368-394c-a424-6af0f16fdf64) respawned and received items held in storage

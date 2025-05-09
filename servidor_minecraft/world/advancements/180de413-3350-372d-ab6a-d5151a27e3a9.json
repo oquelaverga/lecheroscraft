@@ -3735,7 +3735,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-02 04:18:00 +0000",
       "minecraft:spider": "2025-05-02 04:02:35 +0000",
-      "minecraft:silverfish": "2025-05-05 23:10:29 +0000"
+      "minecraft:silverfish": "2025-05-05 23:10:29 +0000",
+      "minecraft:zombie": "2025-05-09 01:05:17 +0000"
     },
     "done": false
   },

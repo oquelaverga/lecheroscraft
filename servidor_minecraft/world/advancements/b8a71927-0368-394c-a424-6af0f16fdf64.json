@@ -3790,6 +3790,7 @@
       "minecraft:blaze": "2025-05-09 00:48:18 +0000",
       "minecraft:skeleton": "2025-05-02 22:04:10 +0000",
       "minecraft:spider": "2025-05-02 22:54:45 +0000",
+      "minecraft:wither_skeleton": "2025-05-09 01:19:22 +0000",
       "minecraft:husk": "2025-05-05 02:23:09 +0000",
       "minecraft:cave_spider": "2025-05-05 02:21:59 +0000",
       "minecraft:stray": "2025-05-05 02:25:57 +0000",
@@ -18167,6 +18168,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-05-02 23:12:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-05-09 01:12:17 +0000"
     },
     "done": true
   },

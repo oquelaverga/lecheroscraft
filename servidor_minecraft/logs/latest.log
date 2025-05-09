@@ -3924,3 +3924,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [09May2025 01:15:44.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames was taken down by Rukasu2903
 [09May2025 01:15:44.147] [Server thread/INFO] [tombstone/]: The player moltgames has successfully been saved
 [09May2025 01:15:46.246] [Server thread/INFO] [tac/]: PENDING
+[09May2025 01:17:04.371] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/9486, l='ServerLevel[world]', x=-551.04, y=64.00, z=-504.53]
+[09May2025 01:17:18.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato was executed by Rukasu2903
+[09May2025 01:17:18.688] [Server thread/INFO] [tombstone/]: The player totato has successfully been saved
+[09May2025 01:17:23.344] [Server thread/INFO] [tac/]: PENDING
+[09May2025 01:17:56.484] [Server thread/INFO] [tac/]: PENDING
+[09May2025 01:20:19.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Gave 1    [Cyan Dye] to Rukasu2903]
+[09May2025 01:21:46.578] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[09May2025 01:21:57.025] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: moltgames moved too quickly! -7.7298968223612405,6.0,5.848788532578311
+[09May2025 01:24:29.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> eh we como le aumento la durabilidad?
+[09May2025 01:24:44.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> lo reparas con bloques de oro rosa
+[09May2025 01:25:22.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> como se dispara con el arma
+[09May2025 01:25:35.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> mantene click derecho y click izquierdo
+[09May2025 01:25:49.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> como se carga?
+[09May2025 01:25:52.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> r

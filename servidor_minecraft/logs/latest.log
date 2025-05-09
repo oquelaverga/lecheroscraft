@@ -3834,3 +3834,27 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [09May2025 00:34:27.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 joined the game
 [09May2025 00:34:27.500] [Server thread/INFO] [tac/]: PENDING
 [09May2025 00:34:27.552] [Server thread/INFO] [Waila/]: Syncing config to Rukasu2903 (eeabb16a-5f03-3471-a099-3b18e5e1cf3c)
+[09May2025 00:35:03.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Teleported Rukasu2903 to moltgames]
+[09May2025 00:37:43.376] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@76875004
+[09May2025 00:37:43.493] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[09May2025 00:37:43.556] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[09May2025 00:37:43.556] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: totato[/127.116.235.36:39985] logged in with entity id 2380 at (-615.1589150676048, 76.0, -487.6899258484975)
+[09May2025 00:37:43.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato joined the game
+[09May2025 00:37:43.573] [Server thread/INFO] [tac/]: PENDING
+[09May2025 00:37:43.631] [Server thread/INFO] [Waila/]: Syncing config to totato (180de413-3350-372d-ab6a-d5151a27e3a9)
+[09May2025 00:38:39.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> ola amigos del youtube
+[09May2025 00:38:46.949] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for TranslatableComponent{key='entity.minecraft.zombified_piglin', args=[], siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
+[09May2025 00:39:30.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> ta helao
+[09May2025 00:39:59.120] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> en la mañana hubieron truenos como en maincra
+[09May2025 00:40:42.823] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[09May2025 00:42:44.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> do a crime
+[09May2025 00:42:48.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> fuckin nice
+[09May2025 00:43:06.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> molt tengo 4 lagrimas de ghast
+[09May2025 00:43:10.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> america fuck yeah
+[09May2025 00:43:15.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> traelas
+[09May2025 00:44:00.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> y necesito un ojo de ender xd
+[09May2025 00:44:05.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> vete a la tuerca
+[09May2025 00:44:12.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> tengo ender perl
+[09May2025 00:44:28.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> consigamos blaze we
+[09May2025 00:44:33.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> ahora necesito blaze
+[09May2025 00:44:39.952] [Server thread/INFO] [tac/]: PENDING

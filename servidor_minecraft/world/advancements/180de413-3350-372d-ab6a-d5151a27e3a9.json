@@ -16536,7 +16536,8 @@
       "seasonal_forest": "2025-05-02 03:22:45 +0000",
       "dead_forest": "2025-05-09 01:33:40 +0000",
       "shrubland_hills": "2025-05-02 03:20:06 +0000",
-      "burnt_forest": "2025-05-09 01:33:39 +0000"
+      "burnt_forest": "2025-05-09 01:33:39 +0000",
+      "gravel_beach": "2025-05-09 02:08:39 +0000"
     },
     "done": false
   },
@@ -23713,6 +23714,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-05-09 02:08:53 +0000",
+      "minecraft:giant_tree_taiga": "2025-05-09 02:09:51 +0000",
       "minecraft:birch_forest": "2025-05-02 03:08:05 +0000",
       "minecraft:savanna_plateau": "2025-05-09 01:55:33 +0000",
       "minecraft:river": "2025-05-02 03:04:49 +0000",

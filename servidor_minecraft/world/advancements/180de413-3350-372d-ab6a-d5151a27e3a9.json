@@ -2819,6 +2819,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-09 01:28:20 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/mine": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:17 +0000"

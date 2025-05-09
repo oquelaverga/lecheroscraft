@@ -1346,7 +1346,9 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-05-04 20:59:17 +0000",
-      "minecraft:warped_forest": "2025-05-04 20:56:14 +0000"
+      "minecraft:soul_sand_valley": "2025-05-09 01:28:22 +0000",
+      "minecraft:warped_forest": "2025-05-04 20:56:14 +0000",
+      "minecraft:basalt_deltas": "2025-05-09 01:30:00 +0000"
     },
     "done": false
   },
@@ -3789,6 +3791,7 @@
       "minecraft:pillager": "2025-05-05 02:26:49 +0000",
       "minecraft:blaze": "2025-05-09 00:48:18 +0000",
       "minecraft:skeleton": "2025-05-02 22:04:10 +0000",
+      "minecraft:magma_cube": "2025-05-09 01:23:17 +0000",
       "minecraft:spider": "2025-05-02 22:54:45 +0000",
       "minecraft:wither_skeleton": "2025-05-09 01:19:22 +0000",
       "minecraft:husk": "2025-05-05 02:23:09 +0000",
@@ -16576,6 +16579,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-05-09 01:24:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/gray_kitchen_drawer": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:00 +0000"
@@ -16812,6 +16821,7 @@
       "redwood_forest_edge": "2025-05-05 03:33:35 +0000",
       "marsh": "2025-05-03 01:14:37 +0000",
       "crystalline_chasm": "2025-05-05 03:58:41 +0000",
+      "withered_abyss": "2025-05-09 01:26:57 +0000",
       "orchard": "2025-05-03 00:32:51 +0000",
       "tall_dead_forest": "2025-05-03 23:37:12 +0000",
       "dryland": "2025-05-02 21:59:46 +0000",

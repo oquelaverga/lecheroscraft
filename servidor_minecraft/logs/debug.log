@@ -14153,3 +14153,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [09May2025 01:25:35.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> mantene click derecho y click izquierdo
 [09May2025 01:25:49.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> como se carga?
 [09May2025 01:25:52.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> r
+[09May2025 01:27:07.295] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09May2025 01:27:07.313] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09May2025 01:28:20.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato has made the advancement [Take Aim]
+[09May2025 01:28:21.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato was executed by Rukasu2903
+[09May2025 01:28:21.847] [Server thread/DEBUG] [tombstone/]: A new grave of the player totato was created at position [x:-652, y:64, z:-474, dim:minecraft:overworld]
+[09May2025 01:28:21.877] [Server thread/INFO] [tombstone/]: The player totato has successfully been saved
+[09May2025 01:28:25.082] [Server thread/INFO] [tac/]: PENDING
+[09May2025 01:28:25.128] [Server thread/DEBUG] [twilightforest/]: Player totato (180de413-3350-372d-ab6a-d5151a27e3a9) respawned and received items held in storage
+[09May2025 01:28:57.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> donde esta molt
+[09May2025 01:29:01.731] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> ven
+[09May2025 01:32:07.280] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09May2025 01:32:07.301] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09May2025 01:32:07.349] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: moltgames moved too quickly! 9.706398980364838,-0.017146080676042175,3.4412623708445835
+[09May2025 01:32:17.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <totato> me prestas la flecha chistosa un poquito?
+[09May2025 01:32:37.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Those Were the Days]
+[09May2025 01:33:11.776] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.21 and blood value 0 for entity quark:frog
+[09May2025 01:33:17.716] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.96 and blood value 6 for entity alexsmobs:shoebill
+[09May2025 01:34:03.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [War Pigs]
+[09May2025 01:34:10.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Who is Cutting Onions?]
+[09May2025 01:34:13.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato has reached the goal [Skyslime Island]
+[09May2025 01:35:16.132] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-963, y=36, z=-400} BlockPos{x=-963, y=35, z=-401}
+[09May2025 01:35:33.723] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.61 and blood value 4 for entity exoticbirds:flamingo

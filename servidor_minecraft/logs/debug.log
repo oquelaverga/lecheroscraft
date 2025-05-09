@@ -13582,3 +13582,73 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [09May2025 00:44:41.484] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.13 and blood value 7 for entity alexsmobs:warped_toad
 [09May2025 00:44:41.771] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
 [09May2025 00:44:41.847] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[09May2025 00:45:05.832] [Server thread/INFO] [tac/]: PENDING
+[09May2025 00:45:05.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Teleported Rukasu2903 to moltgames]
+[09May2025 00:45:13.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 was burnt to a crisp whilst fighting Crimson Mosquito
+[09May2025 00:45:13.909] [Server thread/DEBUG] [tombstone/]: A new grave of the player Rukasu2903 was created at position [x:-575, y:67, z:-507, dim:minecraft:overworld]
+[09May2025 00:45:13.918] [Server thread/INFO] [tombstone/]: The player Rukasu2903 has successfully been saved
+[09May2025 00:45:15.155] [Server thread/INFO] [tac/]: PENDING
+[09May2025 00:45:15.203] [Server thread/DEBUG] [twilightforest/]: Player Rukasu2903 (eeabb16a-5f03-3471-a099-3b18e5e1cf3c) respawned and received items held in storage
+[09May2025 00:45:19.884] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.51 and blood value 3 for entity iceandfire:deathworm
+[09May2025 00:45:20.134] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.51 and blood value 3 for entity iceandfire:deathworm
+[09May2025 00:45:20.572] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.3 and blood value 9 for entity alexsmobs:tarantula_hawk
+[09May2025 00:45:20.573] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.3 and blood value 9 for entity alexsmobs:tarantula_hawk
+[09May2025 00:45:20.574] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.64 and blood value 4 for entity exoticbirds:roadrunner
+[09May2025 00:45:20.627] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.3 and blood value 9 for entity alexsmobs:tarantula_hawk
+[09May2025 00:45:20.974] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:rattlesnake
+[09May2025 00:45:21.032] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.64 and blood value 4 for entity exoticbirds:roadrunner
+[09May2025 00:45:21.033] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.64 and blood value 4 for entity exoticbirds:roadrunner
+[09May2025 00:45:21.033] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.64 and blood value 4 for entity exoticbirds:roadrunner
+[09May2025 00:45:21.534] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.15 and blood value 0 for entity alexsmobs:roadrunner
+[09May2025 00:45:21.644] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.64 and blood value 4 for entity exoticbirds:roadrunner
+[09May2025 00:45:21.645] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.64 and blood value 4 for entity exoticbirds:roadrunner
+[09May2025 00:45:22.027] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:rattlesnake
+[09May2025 00:45:22.109] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.1 and blood value 0 for entity exoticbirds:budgerigar
+[09May2025 00:45:22.110] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.08 and blood value 0 for entity exoticbirds:gouldianfinch
+[09May2025 00:45:27.052] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.18 and blood value 15 for entity alexsmobs:emu
+[09May2025 00:45:27.343] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.18 and blood value 15 for entity alexsmobs:emu
+[09May2025 00:45:27.343] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.18 and blood value 15 for entity alexsmobs:emu
+[09May2025 00:45:27.535] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.18 and blood value 15 for entity alexsmobs:emu
+[09May2025 00:45:27.929] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.18 and blood value 15 for entity alexsmobs:emu
+[09May2025 00:45:28.184] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.18 and blood value 15 for entity alexsmobs:emu
+[09May2025 00:45:28.184] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.18 and blood value 15 for entity alexsmobs:emu
+[09May2025 00:45:28.285] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.18 and blood value 15 for entity alexsmobs:emu
+[09May2025 00:45:32.938] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> ira we
+[09May2025 00:45:40.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> spawneamos un wither y nadie se dara cuenta
+[09May2025 00:45:52.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> aca? bueno
+[09May2025 00:45:54.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> si tu dices
+[09May2025 00:45:56.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> aqui no we
+[09May2025 00:45:58.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> summon whiter
+[09May2025 00:46:13.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> donde we?
+[09May2025 00:46:14.780] [Server thread/INFO] [tac/]: PENDING
+[09May2025 00:46:26.337] [Server thread/INFO] [tac/]: PENDING
+[09May2025 00:46:44.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has reached the goal [Blood Island]
+[09May2025 00:47:07.475] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09May2025 00:47:07.496] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09May2025 00:47:07.546] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: moltgames moved too quickly! 8.466035664871047,0.0,-5.910611204171914
+[09May2025 00:47:20.276] [Worker-Main-20/DEBUG] [mixin/]: Mixing AssemblerMixin from vampirism.mixins.core.json into net.minecraft.world.gen.feature.jigsaw.JigsawManager$Assembler
+[09May2025 00:47:28.314] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.51 and blood value 3 for entity quark:foxhound
+[09May2025 00:47:31.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> aqui we
+[09May2025 00:47:49.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> tpate we
+[09May2025 00:47:54.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Teleported Rukasu2903 to moltgames]
+[09May2025 00:47:55.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 has made the advancement [A Terrible Fortress]
+[09May2025 00:48:16.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Into Fire]
+[09May2025 00:48:53.032] [Server thread/INFO] [tac/]: PENDING
+[09May2025 00:48:53.413] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.42 and blood value 2 for entity mysticalworld:beetle
+[09May2025 00:48:53.413] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.42 and blood value 2 for entity mysticalworld:beetle
+[09May2025 00:48:53.413] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.22 and blood value 0 for entity exoticbirds:cardinal
+[09May2025 00:48:53.613] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.39 and blood value 2 for entity alexsmobs:tasmanian_devil
+[09May2025 00:49:09.633] [Server thread/INFO] [tac/]: PENDING
+[09May2025 00:49:09.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Teleported Rukasu2903 to totato]
+[09May2025 00:49:19.090] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> necesito que pruebes esto potato
+[09May2025 00:49:20.991] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> potato puedo robarte cristal?
+[09May2025 00:49:32.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> dijo que si molt
+[09May2025 00:49:36.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Rukasu2903> la escuché
+[09May2025 00:50:27.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> rukasu venga pa aca
+[09May2025 00:50:33.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> ya tengo las mejoras
+[09May2025 00:51:16.265] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> y el martillo we
+[09May2025 00:52:06.653] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[09May2025 00:52:06.672] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[09May2025 00:53:04.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> potato no recojas el arco
+[09May2025 00:53:09.970] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Rukasu2903 lost connection: Disconnected
+[09May2025 00:53:09.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 left the game

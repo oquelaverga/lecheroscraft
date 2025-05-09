@@ -2764,6 +2764,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-09 00:48:16 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/lens_magnet": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:00 +0000"
@@ -3781,6 +3787,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-05-05 02:26:49 +0000",
+      "minecraft:blaze": "2025-05-09 00:48:18 +0000",
       "minecraft:skeleton": "2025-05-02 22:04:10 +0000",
       "minecraft:spider": "2025-05-02 22:54:45 +0000",
       "minecraft:husk": "2025-05-05 02:23:09 +0000",
@@ -21798,6 +21805,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:01 +0000"
+    },
+    "done": true
+  },
+  "mod_lavacow:recipe/intestine": {
+    "criteria": {
+      "has_item": "2025-05-09 00:46:41 +0000"
     },
     "done": true
   },

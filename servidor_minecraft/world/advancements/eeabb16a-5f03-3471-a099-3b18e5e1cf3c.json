@@ -683,6 +683,12 @@
     },
     "done": true
   },
+  "tconstruct:world/blood_island": {
+    "criteria": {
+      "found_island": "2025-05-09 00:46:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:12 +0000"
@@ -1328,6 +1334,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-05-07 02:09:23 +0000",
+      "minecraft:soul_sand_valley": "2025-05-09 00:47:12 +0000",
       "minecraft:warped_forest": "2025-05-07 02:07:35 +0000"
     },
     "done": false
@@ -3744,6 +3751,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-05-06 17:57:35 +0000",
+      "minecraft:blaze": "2025-05-09 00:48:07 +0000",
       "minecraft:skeleton": "2025-05-06 17:42:01 +0000",
       "minecraft:spider": "2025-05-02 02:56:34 +0000",
       "minecraft:creeper": "2025-05-05 22:30:17 +0000",
@@ -12053,6 +12061,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-05-09 00:47:55 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smelting_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:11 +0000"
@@ -16619,7 +16633,8 @@
       "dense_marsh": "2025-05-06 18:29:29 +0000",
       "prairie": "2025-05-06 22:01:44 +0000",
       "tundra": "2025-05-07 21:54:48 +0000",
-      "gravel_beach": "2025-05-06 18:34:27 +0000"
+      "gravel_beach": "2025-05-06 18:34:27 +0000",
+      "undergrowth": "2025-05-09 00:46:44 +0000"
     },
     "done": false
   },

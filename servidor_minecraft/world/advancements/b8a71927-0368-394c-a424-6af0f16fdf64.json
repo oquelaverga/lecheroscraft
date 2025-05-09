@@ -1347,10 +1347,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-05-04 20:59:17 +0000",
       "minecraft:soul_sand_valley": "2025-05-09 01:28:22 +0000",
+      "minecraft:nether_wastes": "2025-05-09 01:48:08 +0000",
       "minecraft:warped_forest": "2025-05-04 20:56:14 +0000",
       "minecraft:basalt_deltas": "2025-05-09 01:30:00 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:recipes/vampirism/vampire/vampire_cloak_white_black": {
     "criteria": {
@@ -3186,6 +3187,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-05-09 01:43:24 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/ingots_lead_to_storage_block": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:00 +0000"
@@ -3793,9 +3800,11 @@
       "minecraft:skeleton": "2025-05-02 22:04:10 +0000",
       "minecraft:magma_cube": "2025-05-09 01:23:17 +0000",
       "minecraft:spider": "2025-05-02 22:54:45 +0000",
+      "minecraft:piglin_brute": "2025-05-09 01:33:46 +0000",
       "minecraft:wither_skeleton": "2025-05-09 01:19:22 +0000",
       "minecraft:husk": "2025-05-05 02:23:09 +0000",
       "minecraft:cave_spider": "2025-05-05 02:21:59 +0000",
+      "minecraft:piglin": "2025-05-09 01:34:42 +0000",
       "minecraft:stray": "2025-05-05 02:25:57 +0000",
       "minecraft:enderman": "2025-05-05 03:58:10 +0000",
       "minecraft:silverfish": "2025-05-06 21:57:20 +0000",
@@ -6967,6 +6976,7 @@
   },
   "tconstruct:world/slime_collector": {
     "criteria": {
+      "magma_cream": "2025-05-09 01:34:23 +0000",
       "earth": "2025-05-03 01:50:05 +0000"
     },
     "done": false
@@ -9320,6 +9330,12 @@
   "mysticalworld:recipes/mysticalworld/iron_brick_small_post": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-05-09 01:34:03 +0000"
     },
     "done": true
   },
@@ -12986,6 +13002,12 @@
   "securitycraft:recipes/securitycraft/reinforced_stripped_warped_hyphae": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-05-09 01:34:10 +0000"
     },
     "done": true
   },
@@ -18430,6 +18452,12 @@
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-05-09 02:05:54 +0000"
     },
     "done": true
   },
@@ -24217,6 +24245,12 @@
   "electrodynamics:root": {
     "criteria": {
       "HasCraftingTable": "2025-05-02 22:02:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-09 01:32:37 +0000"
     },
     "done": true
   },

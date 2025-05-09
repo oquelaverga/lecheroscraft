@@ -4376,6 +4376,12 @@
     },
     "done": true
   },
+  "mod_lavacow:mod_lavacow/kill_weta": {
+    "criteria": {
+      "killed": "2025-05-09 01:56:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_cut_sandstone_slab_from_reinforced_cut_sandstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:14 +0000"
@@ -8102,6 +8108,12 @@
     },
     "done": true
   },
+  "electrodynamics:raworelead": {
+    "criteria": {
+      "HasRawOre": "2025-05-09 01:48:31 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/hellbark_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:10 +0000"
@@ -8693,6 +8705,12 @@
   "cfm:recipes/cfm/oak_park_bench": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:13 +0000"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2025-05-09 01:53:55 +0000"
     },
     "done": true
   },
@@ -20355,7 +20373,8 @@
   },
   "mod_lavacow:mod_lavacow/entomophobia": {
     "criteria": {
-      "mod_lavacow:beelzebub": "2025-05-06 21:58:39 +0000"
+      "mod_lavacow:beelzebub": "2025-05-06 21:58:39 +0000",
+      "mod_lavacow:weta": "2025-05-09 01:56:24 +0000"
     },
     "done": false
   },
@@ -21357,6 +21376,12 @@
     },
     "done": true
   },
+  "electrodynamics:raworevanadium": {
+    "criteria": {
+      "HasRawOre": "2025-05-09 01:48:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:11 +0000"
@@ -21612,6 +21637,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/scorched_bricks_slab_stonecutter": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:10 +0000"
+    },
+    "done": true
+  },
+  "mod_lavacow:recipe/basic_bomb": {
+    "criteria": {
+      "has_item": "2025-05-09 01:57:38 +0000"
     },
     "done": true
   },

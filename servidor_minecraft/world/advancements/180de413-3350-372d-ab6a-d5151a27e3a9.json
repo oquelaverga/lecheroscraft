@@ -6864,6 +6864,12 @@
     },
     "done": true
   },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "magma_cream": "2025-05-09 02:05:00 +0000"
+    },
+    "done": false
+  },
   "botania:recipes/botania/pattern_1_2": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:15 +0000"
@@ -7962,6 +7968,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-05-09 01:57:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:18 +0000"
@@ -9045,6 +9057,12 @@
   "mysticalworld:recipes/mysticalworld/red_mushroom_slab": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-09 02:04:44 +0000"
     },
     "done": true
   },
@@ -15108,6 +15126,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-09 02:01:58 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_stripped_oak_wood": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:17 +0000"
@@ -15135,6 +15159,12 @@
   "securitycraft:recipes/securitycraft/reinforced_purple_carpet": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:18 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/sky_island": {
+    "criteria": {
+      "found_island": "2025-05-09 01:34:13 +0000"
     },
     "done": true
   },
@@ -16498,10 +16528,15 @@
     "criteria": {
       "seasonal_pumpkin_patch": "2025-05-05 23:07:50 +0000",
       "shrubland": "2025-05-02 02:54:19 +0000",
+      "scrubland": "2025-05-09 01:56:25 +0000",
+      "marsh": "2025-05-09 01:35:33 +0000",
+      "crystalline_chasm": "2025-05-09 02:01:59 +0000",
       "tall_dead_forest": "2025-05-02 03:22:29 +0000",
       "dryland": "2025-05-02 03:27:32 +0000",
       "seasonal_forest": "2025-05-02 03:22:45 +0000",
-      "shrubland_hills": "2025-05-02 03:20:06 +0000"
+      "dead_forest": "2025-05-09 01:33:40 +0000",
+      "shrubland_hills": "2025-05-02 03:20:06 +0000",
+      "burnt_forest": "2025-05-09 01:33:39 +0000"
     },
     "done": false
   },
@@ -20946,6 +20981,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-09 02:01:58 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/birch_upgraded_gate": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:54:18 +0000"
@@ -23673,8 +23714,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-05-02 03:08:05 +0000",
+      "minecraft:savanna_plateau": "2025-05-09 01:55:33 +0000",
       "minecraft:river": "2025-05-02 03:04:49 +0000",
-      "minecraft:savanna": "2025-05-02 03:00:13 +0000"
+      "minecraft:savanna": "2025-05-02 03:00:13 +0000",
+      "minecraft:plains": "2025-05-09 01:59:55 +0000"
     },
     "done": false
   },
@@ -23759,6 +23802,12 @@
   "electrodynamics:root": {
     "criteria": {
       "HasCraftingTable": "2025-05-02 03:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-09 02:04:11 +0000"
     },
     "done": true
   },

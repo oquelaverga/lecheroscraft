@@ -3892,3 +3892,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [09May2025 00:53:04.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> potato no recojas el arco
 [09May2025 00:53:09.970] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Rukasu2903 lost connection: Disconnected
 [09May2025 00:53:09.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 left the game
+[09May2025 00:58:17.364] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@43980d93
+[09May2025 00:58:17.489] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[09May2025 00:58:17.555] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[09May2025 00:58:17.555] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Rukasu2903[/127.160.233.57:41037] logged in with entity id 7651 at (-624.486109242297, 69.0, -490.2962903819781)
+[09May2025 00:58:17.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rukasu2903 joined the game
+[09May2025 00:58:17.570] [Server thread/INFO] [tac/]: PENDING
+[09May2025 00:58:17.631] [Server thread/INFO] [Waila/]: Syncing config to Rukasu2903 (eeabb16a-5f03-3471-a099-3b18e5e1cf3c)
+[09May2025 01:01:09.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rukasu2903: Teleported Rukasu2903 to totato]

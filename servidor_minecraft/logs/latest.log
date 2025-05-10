@@ -4049,3 +4049,29 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [10May2025 02:58:16.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has made the advancement [Ice Bucket Challenge]
 [10May2025 03:00:20.538] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@29a48eee
 [10May2025 03:02:34.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has made the advancement [The Secrets of Enchanting]
+[10May2025 03:06:56.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> aaaaaaa causas
+[10May2025 03:06:58.618] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Blood Cult]
+[10May2025 03:07:11.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Oasins: Teleported Oasins to moltgames]
+[10May2025 03:07:29.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> oye we tienes sangre pura de nivel 1?
+[10May2025 03:07:55.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> aaaaaaaa causas
+[10May2025 03:08:19.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> y este es el super moltiyin
+[10May2025 03:08:54.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> expansion de dominio
+[10May2025 03:15:49.137] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Ore'/40853, l='ServerLevel[world]', x=-851.70, y=54.63, z=-602.61]
+[10May2025 03:15:49.137] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Tin Ore'/40854, l='ServerLevel[world]', x=-848.35, y=58.35, z=-600.32]
+[10May2025 03:15:49.138] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Nickel Ore'/40856, l='ServerLevel[world]', x=-853.34, y=56.31, z=-605.29]
+[10May2025 03:15:49.138] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gravel'/40857, l='ServerLevel[world]', x=-856.75, y=56.58, z=-604.50]
+[10May2025 03:15:49.138] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Certus Quartz Crystal'/40858, l='ServerLevel[world]', x=-855.51, y=58.73, z=-604.29]
+[10May2025 03:15:49.139] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/40859, l='ServerLevel[world]', x=-853.60, y=54.41, z=-603.44]
+[10May2025 03:15:49.139] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Copper Ore'/40860, l='ServerLevel[world]', x=-852.35, y=55.53, z=-598.37]
+[10May2025 03:15:49.139] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/40861, l='ServerLevel[world]', x=-849.33, y=56.50, z=-601.47]
+[10May2025 03:15:49.139] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gold Ore'/40862, l='ServerLevel[world]', x=-850.57, y=61.28, z=-603.65]
+[10May2025 03:15:49.140] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/40863, l='ServerLevel[world]', x=-854.46, y=55.64, z=-599.42]
+[10May2025 03:15:49.477] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/40894, l='ServerLevel[world]', x=-855.70, y=55.46, z=-605.61]
+[10May2025 03:15:49.477] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/40895, l='ServerLevel[world]', x=-856.61, y=58.62, z=-607.33]
+[10May2025 03:15:49.477] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Molybdenite Ore'/40896, l='ServerLevel[world]', x=-855.56, y=57.41, z=-608.41]
+[10May2025 03:15:49.478] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/40897, l='ServerLevel[world]', x=-856.73, y=61.66, z=-604.51]
+[10May2025 03:15:49.478] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/40899, l='ServerLevel[world]', x=-856.51, y=60.75, z=-605.70]
+[10May2025 03:15:49.478] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/40901, l='ServerLevel[world]', x=-858.71, y=57.59, z=-606.62]
+[10May2025 03:15:49.479] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/40902, l='ServerLevel[world]', x=-856.65, y=56.44, z=-603.41]
+[10May2025 03:15:49.527] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Copper Ore'/40917, l='ServerLevel[world]', x=-855.55, y=54.69, z=-605.28]
+[10May2025 03:16:08.505] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID dee448be-7a38-4e95-a5e1-e5d39808e2c0. Existing minecraft:skeleton#41073, new: minecraft:skeleton#41073

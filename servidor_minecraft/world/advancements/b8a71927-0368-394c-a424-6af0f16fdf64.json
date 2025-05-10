@@ -377,6 +377,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/blood_cult": {
+    "criteria": {
+      "flower": "2025-05-10 03:06:58 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_lime_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:02 +0000"

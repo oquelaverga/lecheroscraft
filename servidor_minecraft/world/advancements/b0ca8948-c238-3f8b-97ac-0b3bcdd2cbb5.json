@@ -4552,6 +4552,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-05-10 03:02:34 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_warped_upgraded_fence": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:24 +0000"
@@ -9110,6 +9116,12 @@
   "mysticalworld:recipes/mysticalworld/red_mushroom_slab": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-10 02:58:16 +0000"
     },
     "done": true
   },

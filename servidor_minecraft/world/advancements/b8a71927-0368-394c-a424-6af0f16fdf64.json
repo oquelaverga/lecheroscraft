@@ -19079,6 +19079,12 @@
     },
     "done": true
   },
+  "mod_lavacow:recipe/sharptooth": {
+    "criteria": {
+      "has_item": "2025-05-10 02:15:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_polished_blackstone_bricks_from_reinforced_polished_blackstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:03 +0000"

@@ -3955,3 +3955,33 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [10May2025 02:13:38.956] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
 [10May2025 02:14:05.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> pos no es de noche we
 [10May2025 02:14:21.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> zzzzzzzzzzzzzzzz
+[10May2025 02:14:40.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato was slain by Vampire Hunter
+[10May2025 02:14:40.890] [Server thread/INFO] [tombstone/]: The player totato has successfully been saved
+[10May2025 02:14:45.053] [Server thread/INFO] [tac/]: PENDING
+[10May2025 02:14:56.618] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [moltgames: Set the time to 13000]
+[10May2025 02:15:05.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [moltgames: Teleported moltgames to Oasins]
+[10May2025 02:15:19.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> listo we ahi hay 3 vampiros
+[10May2025 02:15:30.230] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 8bad8dd5-c236-46c5-8a1e-60e4c1616549. Existing minecraft:skeleton#30360, new: minecraft:skeleton#30360
+[10May2025 02:15:35.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> ahi we
+[10May2025 02:17:33.950] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager AggressiveVillagerEntity['Angry Villager'/30881, l='ServerLevel[world]', x=85.50, y=73.00, z=-138.49] died, message: 'Angry Villager was slain by Crimson Cat'
+[10May2025 02:17:38.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> los vampiros se acercan cabrones
+[10May2025 02:17:50.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> no mames un cazador se bajo a 3
+[10May2025 02:17:51.049] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager AggressiveVillagerEntity['Angry Villager'/30879, l='ServerLevel[world]', x=-17.50, y=65.00, z=-129.49] died, message: 'Angry Villager was slain by Vampire'
+[10May2025 02:17:58.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> ahi al frente we
+[10May2025 02:18:03.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> donde estoy mirando
+[10May2025 02:18:13.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> aqui hay varios
+[10May2025 02:18:15.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> al frente
+[10May2025 02:18:25.604] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager AggressiveVillagerEntity['Angry Villager'/30880, l='ServerLevel[world]', x=66.50, y=67.00, z=-93.51] died, message: 'Angry Villager was slain by Vampire'
+[10May2025 02:18:33.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> oye we arriba tuyo
+[10May2025 02:23:05.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [moltgames: Set the time to 13000]
+[10May2025 02:23:06.951] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager AggressiveVillagerEntity['Angry Villager'/32076, l='ServerLevel[world]', x=48.94, y=67.00, z=-122.84] died, message: 'Angry Villager was slain by Zin'
+[10May2025 02:23:07.004] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager AggressiveVillagerEntity['Angry Villager'/32075, l='ServerLevel[world]', x=-1.36, y=64.00, z=-125.75] died, message: 'Angry Villager was slain by Vampire'
+[10May2025 02:23:13.955] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:23:18.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins was slain by Zin
+[10May2025 02:23:18.580] [Server thread/INFO] [tombstone/]: The player Oasins has successfully been saved
+[10May2025 02:23:19.776] [Server thread/INFO] [tac/]: PENDING
+[10May2025 02:23:19.998] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:23:25.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> pendejo no dura nada
+[10May2025 02:24:08.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins was slain by Vampire
+[10May2025 02:24:08.663] [Server thread/INFO] [tombstone/]: The player Oasins has successfully been saved
+[10May2025 02:24:09.720] [Server thread/INFO] [tac/]: PENDING

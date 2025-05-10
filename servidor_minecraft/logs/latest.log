@@ -3823,3 +3823,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [10May2025 20:03:57.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames joined the game
 [10May2025 20:03:57.763] [Server thread/INFO] [tac/]: PENDING
 [10May2025 20:03:57.903] [Server thread/INFO] [Waila/]: Syncing config to moltgames (b8a71927-0368-394c-a424-6af0f16fdf64)
+[10May2025 20:09:09.938] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@22594ca1[id=<null>,name=Oasins,properties={},legacy=false] (/127.243.100.200:35255) lost connection: Disconnected
+[10May2025 20:16:41.536] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3bb8c4d5
+[10May2025 20:16:41.639] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[10May2025 20:16:41.709] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[10May2025 20:16:41.710] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Oasins[/127.243.100.200:53905] logged in with entity id 1700 at (65.32904821609449, 71.0, -130.53876851488937)
+[10May2025 20:16:41.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins joined the game
+[10May2025 20:16:41.727] [Server thread/INFO] [tac/]: PENDING
+[10May2025 20:16:41.774] [Server thread/INFO] [Waila/]: Syncing config to Oasins (b0ca8948-c238-3f8b-97ac-0b3bcdd2cbb5)

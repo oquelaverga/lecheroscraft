@@ -7446,9 +7446,10 @@
   },
   "vampirism:hunter/betrayal": {
     "criteria": {
-      "faction": "2025-05-05 02:02:57 +0000"
+      "faction": "2025-05-05 02:02:57 +0000",
+      "kill": "2025-05-10 02:46:03 +0000"
     },
-    "done": false
+    "done": true
   },
   "tconstruct:recipes/tconstruct/general/common/slime/sky/slimeball_from_congealed": {
     "criteria": {
@@ -8323,6 +8324,12 @@
   "vampirism:recipes/vampirism/weapontable/enhanced_crossbow": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:22 +0000"
+    },
+    "done": true
+  },
+  "tac:recipes/tac/module_item": {
+    "criteria": {
+      "has_diamond": "2025-05-10 02:55:37 +0000"
     },
     "done": true
   },
@@ -11911,6 +11918,12 @@
   "botania:recipes/botania/floating_rafflowsia": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-10 02:55:37 +0000"
     },
     "done": true
   },
@@ -18373,6 +18386,12 @@
   "botania:recipes/botania/apothecary_mountain": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-10 02:56:10 +0000"
     },
     "done": true
   },

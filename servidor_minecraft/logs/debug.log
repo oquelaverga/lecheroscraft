@@ -13511,3 +13511,42 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [10May2025 20:21:40.413] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [10May2025 20:26:40.216] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [10May2025 20:26:40.235] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10May2025 20:31:40.204] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10May2025 20:31:40.223] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10May2025 20:32:27.679] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: moltgames lost connection: Disconnected
+[10May2025 20:32:27.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames left the game
+[10May2025 20:34:26.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[10May2025 20:34:26.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10May2025 20:34:26.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10May2025 20:34:26.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10May2025 20:34:26.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10May2025 20:34:26.518] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10May2025 20:34:26.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10May2025 20:34:26.519] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10May2025 20:34:26.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10May2025 20:34:26.520] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10May2025 20:34:26.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/bloodmagic:dungeon
+[10May2025 20:34:26.521] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[10May2025 20:34:26.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilightforest
+[10May2025 20:34:26.522] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved
+[10May2025 20:34:26.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/atum:atum
+[10May2025 20:34:26.523] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (atum): All chunks are saved
+[10May2025 20:34:26.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:skylight_forest
+[10May2025 20:34:26.523] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved
+[10May2025 20:34:26.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/appliedenergistics2:spatial_storage
+[10May2025 20:34:26.524] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[10May2025 20:34:26.525] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10May2025 20:34:26.545] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10May2025 20:34:26.596] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10May2025 20:34:26.604] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10May2025 20:34:26.604] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10May2025 20:34:26.605] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[10May2025 20:34:26.605] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved
+[10May2025 20:34:26.606] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (atum): All chunks are saved
+[10May2025 20:34:26.606] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved
+[10May2025 20:34:26.606] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[10May2025 20:34:26.615] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[10May2025 20:34:26.615] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[10May2025 20:34:26.616] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file tinkerslevellingaddon-server.toml changed, sending notifies
+[10May2025 20:34:26.618] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file Mekanism/general.toml changed, sending notifies
+[10May2025 20:34:26.622] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file tombstone-server.toml changed, sending notifies

@@ -14362,3 +14362,41 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [10May2025 03:26:54.980] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Oasins has new faction level vampirism:hunter 3
 [10May2025 03:26:54.985] [Server thread/INFO] [tac/]: PENDING
 [10May2025 03:26:55.021] [Server thread/DEBUG] [twilightforest/]: Player Oasins (b0ca8948-c238-3f8b-97ac-0b3bcdd2cbb5) respawned and received items held in storage
+[10May2025 03:30:36.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins was shot by Young the Doominator
+[10May2025 03:30:36.522] [Server thread/DEBUG] [tombstone/]: A new grave of the player Oasins was created at position [x:172, y:16, z:-213, dim:minecraft:overworld]
+[10May2025 03:30:36.528] [Server thread/INFO] [tombstone/]: The player Oasins has successfully been saved
+[10May2025 03:30:38.167] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Oasins has new faction level vampirism:hunter 3
+[10May2025 03:30:38.172] [Server thread/INFO] [tac/]: PENDING
+[10May2025 03:30:38.201] [Server thread/DEBUG] [twilightforest/]: Player Oasins (b0ca8948-c238-3f8b-97ac-0b3bcdd2cbb5) respawned and received items held in storage
+[10May2025 03:30:53.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins was shot by Young the Doominator
+[10May2025 03:30:53.165] [Server thread/DEBUG] [tombstone/]: A new grave of the player Oasins was created at position [x:171, y:16, z:-212, dim:minecraft:overworld]
+[10May2025 03:30:53.173] [Server thread/INFO] [tombstone/]: The player Oasins has successfully been saved
+[10May2025 03:30:54.426] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Oasins has new faction level vampirism:hunter 3
+[10May2025 03:30:54.430] [Server thread/INFO] [tac/]: PENDING
+[10May2025 03:30:54.458] [Server thread/DEBUG] [twilightforest/]: Player Oasins (b0ca8948-c238-3f8b-97ac-0b3bcdd2cbb5) respawned and received items held in storage
+[10May2025 03:31:05.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins was shot by Young the Doominator
+[10May2025 03:31:05.860] [Server thread/DEBUG] [tombstone/]: A new grave of the player Oasins was created at position [x:172, y:16, z:-212, dim:minecraft:overworld]
+[10May2025 03:31:05.870] [Server thread/INFO] [tombstone/]: The player Oasins has successfully been saved
+[10May2025 03:31:07.303] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Oasins has new faction level vampirism:hunter 3
+[10May2025 03:31:07.308] [Server thread/INFO] [tac/]: PENDING
+[10May2025 03:31:07.341] [Server thread/DEBUG] [twilightforest/]: Player Oasins (b0ca8948-c238-3f8b-97ac-0b3bcdd2cbb5) respawned and received items held in storage
+[10May2025 03:31:24.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has reached the goal [Titan-Forged]
+[10May2025 03:31:25.325] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10May2025 03:31:25.343] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10May2025 03:31:26.483] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: moltgames moved wrongly!
+[10May2025 03:32:58.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [moltgames: Teleported moltgames to Oasins]
+[10May2025 03:33:12.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [totato: Teleported totato to Oasins]
+[10May2025 03:33:25.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has made the advancement [Magic Writing]
+[10May2025 03:34:04.747] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=151, y=13, z=-241} BlockPos{x=151, y=12, z=-241}
+[10May2025 03:34:04.796] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=151, y=13, z=-241} BlockPos{x=151, y=12, z=-241}
+[10May2025 03:34:50.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Thorianite Ore]
+[10May2025 03:34:53.100] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=121, y=7, z=-252} BlockPos{x=120, y=6, z=-254}
+[10May2025 03:36:04.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> con un paracetamol se me pasa
+[10May2025 03:36:25.122] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10May2025 03:36:25.139] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10May2025 03:36:49.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins burned to death
+[10May2025 03:36:49.020] [Server thread/DEBUG] [tombstone/]: A new grave of the player Oasins was created at position [x:-668, y:64, z:-481, dim:minecraft:overworld]
+[10May2025 03:36:49.026] [Server thread/INFO] [tombstone/]: The player Oasins has successfully been saved
+[10May2025 03:36:50.258] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Oasins has new faction level vampirism:hunter 3
+[10May2025 03:36:50.263] [Server thread/INFO] [tac/]: PENDING
+[10May2025 03:36:50.291] [Server thread/DEBUG] [twilightforest/]: Player Oasins (b0ca8948-c238-3f8b-97ac-0b3bcdd2cbb5) respawned and received items held in storage

@@ -13371,6 +13371,12 @@
     },
     "done": true
   },
+  "electrodynamics:raworethorium": {
+    "criteria": {
+      "HasRawOre": "2025-05-10 03:34:50 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_mossy_stone_brick_wall_from_reinforced_mossy_stone_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:52:59 +0000"

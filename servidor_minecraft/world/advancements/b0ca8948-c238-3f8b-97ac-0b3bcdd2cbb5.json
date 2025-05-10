@@ -3756,6 +3756,7 @@
       "minecraft:spider": "2025-05-02 03:09:54 +0000",
       "minecraft:creeper": "2025-05-02 04:56:36 +0000",
       "minecraft:husk": "2025-05-10 03:24:38 +0000",
+      "minecraft:stray": "2025-05-10 03:31:17 +0000",
       "minecraft:zombie": "2025-05-02 03:01:24 +0000",
       "minecraft:drowned": "2025-05-06 02:55:51 +0000"
     },
@@ -14127,6 +14128,12 @@
   "mysticalworld:recipes/mysticalworld/copper_small_post": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:24 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2025-05-10 03:31:24 +0000"
     },
     "done": true
   },
@@ -24829,6 +24836,12 @@
   "securitycraft:recipes/securitycraft/reinforced_acacia_fence_gate": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-10 03:33:25 +0000"
     },
     "done": true
   },

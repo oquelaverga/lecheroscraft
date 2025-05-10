@@ -3816,3 +3816,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [10May2025 19:51:40.026] [Server thread/INFO] [ObserverLib/]: Load CachedWorldData 'lightnetwork' for world minecraft:overworld
 [10May2025 19:51:40.060] [Server thread/INFO] [ObserverLib/]: Loading of 'lightnetwork' for world minecraft:overworld finished.
 [10May2025 19:51:45.305] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching CombatRules#getDamageAfterMagicAbsorb
+[10May2025 20:03:57.464] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@22d96f5d
+[10May2025 20:03:57.640] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[10May2025 20:03:57.706] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[10May2025 20:03:57.707] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: moltgames[/127.237.104.93:51723] logged in with entity id 1185 at (-564.5, 64.0, -505.5)
+[10May2025 20:03:57.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames joined the game
+[10May2025 20:03:57.763] [Server thread/INFO] [tac/]: PENDING
+[10May2025 20:03:57.903] [Server thread/INFO] [Waila/]: Syncing config to moltgames (b8a71927-0368-394c-a424-6af0f16fdf64)

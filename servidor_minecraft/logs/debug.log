@@ -13153,3 +13153,48 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [10May2025 01:30:14.898] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: moltgames moved too quickly! 7.313982524610992,3.7500001489798223,-6.554486415169777
 [10May2025 01:31:40.958] [Server thread/WARN] [tombstone/]: The death event of the player moltgames was canceled by another mod
 [10May2025 01:31:41.000] [Server thread/INFO] [tombstone/]: The player moltgames has successfully been saved
+[10May2025 01:32:57.805] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.22 and blood value 0 for entity mysticalworld:owl
+[10May2025 01:32:57.852] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.49 and blood value 3 for entity exoticbirds:swan
+[10May2025 01:35:14.710] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10May2025 01:35:14.735] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10May2025 01:35:24.394] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.39 and blood value 2 for entity alexsmobs:tasmanian_devil
+[10May2025 01:35:27.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> batman
+[10May2025 01:35:40.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> no existen las estructuras en el nether o que pedo
+[10May2025 01:36:44.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> Un hombre, busca aldeanos batman
+[10May2025 01:36:51.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> Todos estan muertos batman
+[10May2025 01:37:13.945] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.22 and blood value 0 for entity exoticbirds:cardinal
+[10May2025 01:37:49.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> hubiera respondido antes pero me estaban siguiendo 54 mosquitos
+[10May2025 01:38:02.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Oasins> waos
+[10May2025 01:38:07.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> habia 2 aldeas en el spawn del mundo
+[10May2025 01:38:25.862] [Server thread/DEBUG] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Initiated capture with strength 0.5555556 by vampirism:vampire at BlockPos{x=44, y=70, z=-135} with badomen level 1
+[10May2025 01:38:28.294] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.18 and blood value 15 for entity alexsmobs:emu
+[10May2025 01:38:28.410] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[10May2025 01:38:28.410] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[10May2025 01:38:28.669] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.18 and blood value 15 for entity alexsmobs:emu
+[10May2025 01:38:28.876] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[10May2025 01:38:28.876] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[10May2025 01:38:28.876] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[10May2025 01:38:28.877] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[10May2025 01:38:28.877] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.08 and blood value 0 for entity exoticbirds:gouldianfinch
+[10May2025 01:38:28.991] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[10May2025 01:38:28.992] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[10May2025 01:38:28.992] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[10May2025 01:38:28.995] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[10May2025 01:38:28.996] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[10May2025 01:38:28.997] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[10May2025 01:38:46.694] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager AggressiveVillagerEntity['Angry Villager'/11296, l='ServerLevel[world]', x=20.25, y=67.00, z=-136.63] died, message: 'Angry Villager was slain by Vampire'
+[10May2025 01:38:47.042] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager AggressiveVillagerEntity['Angry Villager'/11297, l='ServerLevel[world]', x=8.87, y=64.94, z=-101.36] died, message: 'Angry Villager was slain by The nightmarish Krab'
+[10May2025 01:39:02.640] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager AggressiveVillagerEntity['Angry Villager'/11298, l='ServerLevel[world]', x=89.87, y=71.00, z=-127.58] died, message: 'Angry Villager was slain by The powerful Bill'
+[10May2025 01:39:07.139] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager AggressiveVillagerEntity['Angry Villager'/11299, l='ServerLevel[world]', x=87.58, y=70.00, z=-123.60] died, message: 'Angry Villager was slain by The powerful Bill'
+[10May2025 01:39:11.594] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity alexsmobs:raccoon
+[10May2025 01:40:08.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins was slain by Sinister Solace
+[10May2025 01:40:08.058] [Server thread/DEBUG] [tombstone/]: A new grave of the player Oasins was created at position [x:-13, y:64, z:-121, dim:minecraft:overworld]
+[10May2025 01:40:08.082] [Server thread/INFO] [tombstone/]: The player Oasins has successfully been saved
+[10May2025 01:40:09.427] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Oasins has new faction level vampirism:hunter 2
+[10May2025 01:40:09.439] [Server thread/INFO] [tac/]: PENDING
+[10May2025 01:40:09.442] [Server thread/DEBUG] [twilightforest/]: Player Oasins (b0ca8948-c238-3f8b-97ac-0b3bcdd2cbb5) respawned and received items held in storage
+[10May2025 01:40:14.368] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10May2025 01:40:14.392] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10May2025 01:40:14.442] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: moltgames moved too quickly! -9.200168672234327,2.906297721715589,-2.9432321817903357
+[10May2025 01:41:06.833] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[10May2025 01:41:44.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has made the advancement [Vampire Diaries]

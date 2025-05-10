@@ -7786,6 +7786,12 @@
     },
     "done": true
   },
+  "mod_lavacow:mod_lavacow/kill_sludgelord": {
+    "criteria": {
+      "killed": "2025-05-10 01:43:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:23 +0000"
@@ -15556,6 +15562,12 @@
     },
     "done": true
   },
+  "mod_lavacow:recipe/silky_sludge": {
+    "criteria": {
+      "has_item": "2025-05-10 01:43:52 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/smooth_white_sandstone_slab_from_smooth_white_sandstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:23 +0000"
@@ -20251,6 +20263,12 @@
   "tconstruct:recipes/tconstruct/general/common/firewood/blazewood_slab": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:25 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/ancient_knowledge": {
+    "criteria": {
+      "blood_container": "2025-05-10 01:41:44 +0000"
     },
     "done": true
   },

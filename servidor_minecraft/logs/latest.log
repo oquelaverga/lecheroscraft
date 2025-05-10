@@ -3831,3 +3831,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [10May2025 20:16:41.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins joined the game
 [10May2025 20:16:41.727] [Server thread/INFO] [tac/]: PENDING
 [10May2025 20:16:41.774] [Server thread/INFO] [Waila/]: Syncing config to Oasins (b0ca8948-c238-3f8b-97ac-0b3bcdd2cbb5)
+[10May2025 20:20:29.892] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Oasins lost connection: Disconnected
+[10May2025 20:20:29.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins left the game

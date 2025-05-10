@@ -13504,3 +13504,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [10May2025 20:16:43.625] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
 [10May2025 20:16:43.625] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
 [10May2025 20:16:43.626] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[10May2025 20:19:56.295] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.0 and blood value 0 for entity quark:toretoise
+[10May2025 20:20:29.892] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Oasins lost connection: Disconnected
+[10May2025 20:20:29.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins left the game
+[10May2025 20:21:40.389] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10May2025 20:21:40.413] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10May2025 20:26:40.216] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10May2025 20:26:40.235] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

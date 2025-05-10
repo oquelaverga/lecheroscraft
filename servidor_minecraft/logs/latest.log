@@ -3900,3 +3900,58 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [10May2025 02:03:43.090] [Worker-Main-38/INFO] [ObserverLib/]: Load CachedWorldData 'rock-crystals' for world minecraft:overworld
 [10May2025 02:03:43.143] [Worker-Main-38/INFO] [ObserverLib/]: Loading of 'rock-crystals' for world minecraft:overworld finished.
 [10May2025 02:03:46.454] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5076ms or 101 ticks behind
+[10May2025 02:07:24.530] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 590be8d9-1890-4f76-b4af-8e109055ada5. Existing mod_lavacow:foglet#25254, new: mod_lavacow:foglet#25254
+[10May2025 02:08:39.865] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=107, y=72, z=-127} BlockPos{x=108, y=70, z=-127}
+[10May2025 02:08:39.915] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=107, y=72, z=-127} BlockPos{x=108, y=70, z=-127}
+[10May2025 02:09:42.545] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@16e26da4
+[10May2025 02:09:42.656] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[10May2025 02:09:42.726] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[10May2025 02:09:42.727] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: totato[/127.87.29.22:38299] logged in with entity id 25536 at (-566.2714647277378, 64.0, 887.3000000119209)
+[10May2025 02:09:42.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: totato joined the game
+[10May2025 02:09:42.741] [Server thread/INFO] [tac/]: PENDING
+[10May2025 02:09:42.772] [Server thread/INFO] [Waila/]: Syncing config to totato (180de413-3350-372d-ab6a-d5151a27e3a9)
+[10May2025 02:12:17.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [moltgames: Teleported moltgames to Oasins]
+[10May2025 02:12:22.969] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:12:24.956] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:12:26.954] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:12:28.965] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:12:30.955] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:12:32.954] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:12:34.992] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:12:36.960] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:12:38.955] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:12:40.970] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:12:42.969] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:12:44.959] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:12:46.523] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> controla a tus aldeanos puñetas
+[10May2025 02:12:46.961] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:12:48.964] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:12:50.956] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:12:52.960] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:12:54.961] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:12:56.957] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:12:58.964] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:13:00.954] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:13:01.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> pos estos vatos sueltan sangre aveces
+[10May2025 02:13:02.959] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:13:04.960] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:13:06.968] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:13:08.961] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:13:10.968] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:13:12.960] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:13:14.958] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:13:16.956] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:13:18.961] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:13:20.962] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:13:22.954] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:13:24.957] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:13:26.964] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:13:28.963] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:13:30.963] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:13:32.954] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:13:34.966] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:13:36.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> michael
+[10May2025 02:13:36.955] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:13:38.956] [Server thread/INFO] [de.teamlapen.vampirism.tileentity.TotemTileEntity/]: Failed to spawn capture creature
+[10May2025 02:14:05.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> pos no es de noche we
+[10May2025 02:14:21.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <moltgames> zzzzzzzzzzzzzzzz

@@ -2845,6 +2845,12 @@
     },
     "done": true
   },
+  "mod_lavacow:recipe/ectoplasm": {
+    "criteria": {
+      "has_item": "2025-05-10 02:33:14 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:00 +0000"
@@ -17660,6 +17666,12 @@
   "mysticalworld:recipes/mysticalworld/brown_mushroom_fence_gate": {
     "criteria": {
       "has_the_recipe": "2025-05-02 21:53:01 +0000"
+    },
+    "done": true
+  },
+  "mod_lavacow:mod_lavacow/kill_wraith": {
+    "criteria": {
+      "killed": "2025-05-10 02:33:13 +0000"
     },
     "done": true
   },

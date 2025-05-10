@@ -3985,3 +3985,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [10May2025 02:24:08.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins was slain by Vampire
 [10May2025 02:24:08.663] [Server thread/INFO] [tombstone/]: The player Oasins has successfully been saved
 [10May2025 02:24:09.720] [Server thread/INFO] [tac/]: PENDING
+[10May2025 02:33:13.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Ghostbuster]

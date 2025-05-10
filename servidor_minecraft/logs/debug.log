@@ -14215,3 +14215,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [10May2025 02:24:09.716] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Oasins has new faction level vampirism:hunter 3
 [10May2025 02:24:09.720] [Server thread/INFO] [tac/]: PENDING
 [10May2025 02:24:09.754] [Server thread/DEBUG] [twilightforest/]: Player Oasins (b0ca8948-c238-3f8b-97ac-0b3bcdd2cbb5) respawned and received items held in storage
+[10May2025 02:25:19.249] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10May2025 02:25:19.271] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10May2025 02:30:19.025] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10May2025 02:30:19.046] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10May2025 02:33:13.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: moltgames has made the advancement [Ghostbuster]
+[10May2025 02:35:18.954] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10May2025 02:35:18.971] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

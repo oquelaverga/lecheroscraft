@@ -3755,6 +3755,7 @@
       "minecraft:skeleton": "2025-05-02 04:18:58 +0000",
       "minecraft:spider": "2025-05-02 03:09:54 +0000",
       "minecraft:creeper": "2025-05-02 04:56:36 +0000",
+      "minecraft:husk": "2025-05-10 03:24:38 +0000",
       "minecraft:zombie": "2025-05-02 03:01:24 +0000",
       "minecraft:drowned": "2025-05-06 02:55:51 +0000"
     },
@@ -4318,6 +4319,12 @@
     },
     "done": true
   },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-05-10 03:24:11 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/glass/magenta_clear_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:22 +0000"
@@ -4363,6 +4370,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:22 +0000"
+    },
+    "done": true
+  },
+  "mod_lavacow:mod_lavacow/kill_weta": {
+    "criteria": {
+      "killed": "2025-05-10 03:19:34 +0000"
     },
     "done": true
   },
@@ -20357,6 +20370,12 @@
     },
     "done": true
   },
+  "mod_lavacow:mod_lavacow/entomophobia": {
+    "criteria": {
+      "mod_lavacow:weta": "2025-05-10 03:19:34 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/cfm/stripped_jungle_table": {
     "criteria": {
       "has_the_recipe": "2025-05-02 02:43:23 +0000"
@@ -22636,6 +22655,12 @@
       "has_the_recipe": "2025-05-02 02:43:24 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2025-05-10 03:24:11 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {

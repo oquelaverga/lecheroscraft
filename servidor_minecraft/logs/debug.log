@@ -14339,3 +14339,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 [10May2025 03:16:23.428] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [10May2025 03:16:23.446] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [10May2025 03:17:07.713] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.1 and blood value 0 for entity exoticbirds:budgerigar
+[10May2025 03:17:33.260] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[10May2025 03:18:26.775] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[10May2025 03:19:34.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has made the advancement [Insect Pit Survivor]
+[10May2025 03:20:36.028] [Server thread/DEBUG] [mixin/]: Mixing ItemInputMixin from tombstone.mixins.json into net.minecraft.command.arguments.ItemInput
+[10May2025 03:20:36.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [moltgames: Gave 64    [Ink Sac] to moltgames]
+[10May2025 03:21:25.359] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10May2025 03:21:25.375] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10May2025 03:24:11.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins has made the advancement [Quite the Renovation]
+[10May2025 03:26:08.379] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID de38bff2-e493-4543-93f7-5bd2fb94c9b5. Existing mod_lavacow:foglet#44925, new: mod_lavacow:foglet#44925
+[10May2025 03:26:23.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins was slain by Husk
+[10May2025 03:26:23.778] [Server thread/DEBUG] [tombstone/]: A new grave of the player Oasins was created at position [x:185, y:22, z:-305, dim:minecraft:overworld]
+[10May2025 03:26:23.792] [Server thread/INFO] [tombstone/]: The player Oasins has successfully been saved
+[10May2025 03:26:25.185] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10May2025 03:26:25.203] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10May2025 03:26:25.267] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Oasins has new faction level vampirism:hunter 3
+[10May2025 03:26:25.272] [Server thread/INFO] [tac/]: PENDING
+[10May2025 03:26:25.318] [Server thread/DEBUG] [twilightforest/]: Player Oasins (b0ca8948-c238-3f8b-97ac-0b3bcdd2cbb5) respawned and received items held in storage
+[10May2025 03:26:53.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Oasins was slain by Husk
+[10May2025 03:26:53.561] [Server thread/DEBUG] [tombstone/]: A new grave of the player Oasins was created at position [x:156, y:11, z:-275, dim:minecraft:overworld]
+[10May2025 03:26:53.570] [Server thread/INFO] [tombstone/]: The player Oasins has successfully been saved
+[10May2025 03:26:54.980] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Oasins has new faction level vampirism:hunter 3
+[10May2025 03:26:54.985] [Server thread/INFO] [tac/]: PENDING
+[10May2025 03:26:55.021] [Server thread/DEBUG] [twilightforest/]: Player Oasins (b0ca8948-c238-3f8b-97ac-0b3bcdd2cbb5) respawned and received items held in storage
